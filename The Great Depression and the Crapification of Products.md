@@ -56,3 +56,10 @@ I don’t have an answer for all our woes, except a vague “find happiness in o
 In fact, that’s a lie, the solution couldn’t more easily smack you in the face if it was a giant flailing fish. The solution is taxing the rich and paying the poor - at very little downside to humanity, the same as it has always been, ever.
 
 **Coming up in Part 2:** *So you’re having doubts about the efficacy of “taxing the rich, paying the poor"*
+
+- - - -
+
+## Comments
+
+* https://news.ycombinator.com/item?id=27431961
+* Edits / Pull Requests welcome
