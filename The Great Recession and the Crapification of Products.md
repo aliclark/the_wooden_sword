@@ -1,4 +1,4 @@
-# The Great Depression and the Crapification of Products
+# The Great Recession and the Crapification of Products
 ## A rant
 
 Have you noticed a regal sense of entitlement that products these days seem to have, wafting down on you from the shelves?
