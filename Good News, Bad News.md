@@ -18,7 +18,7 @@ If attackers poison the training data of an AGI in ways that are hidden on first
 
 If attackers surreptitiously alter any AGI weights, it could undermine safety in all manner of ways.
 
-\[There may be other important vulnerability kinds not listed above]
+\[These are probably not that threatening, caveat there may be other important vulnerability kinds not listed above]
 
 In summary, AGI self-propagation is among the easiest and the most tractable of the safety problems we currently face.
 
