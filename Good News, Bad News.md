@@ -28,6 +28,7 @@ The 2 more severe safety concerns that present are:
 
 In my opinion, these both become more problematic as the AGI strength increases, so as global societies we should be talking more fully about how we want these to play out, and acting soon.
 
-AGI alignment is not the problem. Alignment of employees at intelligence agencies is the problem.
+AGI alignment is not the problem. Alignment of employees at intelligence agencies is the problem. Countries should be rapidly seeking non-proliferation agreements, 
+legislatures should be rapidly working to align the agencies to the interests of the nation as a whole, and agencies should be rapidly working to align workers to the interests of the agency. All of this needs to happen now, while we're still dealing with GPT-4 and not 5.
 
 Oh, and there's still a problem of resource depletion, climate change, and extreme weather to resolve at the same time.
