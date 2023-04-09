@@ -24,7 +24,7 @@ In summary, AGI self-propagation is among the easiest and the most tractable of 
 
 The 2 more severe safety concerns that present are:
 
-1) commercially available, high(er) power AGIs being used by bullies, scammers, and other harmful people
+1) commercially or openly available, high(er) power AGIs being used by bullies, scammers, and other harmful people
 
 2) nation state (intelligence agencies) AGI propagation. Not necessarily as fun as it sounds.
 
