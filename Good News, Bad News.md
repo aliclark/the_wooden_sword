@@ -24,11 +24,11 @@ In summary, AGI self-propagation is among the easiest and the most tractable of 
 
 The 2 more severe safety concerns that present are:
 
-1) commercially or openly available, high(er) power AGIs being used by bullies, scammers, and other harmful people
+1) commercially or openly available, high(er) power AGIs being used by propagandists, scammers, and other harmful people
 
 2) nation state (intelligence agencies) AGI propagation. Not necessarily as fun as it sounds.
 
-In my opinion, these both become more problematic as the AGI strength increases, so as global societies we should be talking more fully about how we want these to play out, and acting soon.
+In my opinion, these both become more problematic as the AGI strength increases, so as global societies we should be talking more fully about how we want these to play out, and acting soon. The first problem is more obvious, while the second problem is less obvious and more existential. Still, the first problem creates instability and distraction which makes the second problem harder.
 
 AGI alignment is not the problem. Alignment of employees at intelligence agencies is the problem. Countries should be rapidly seeking non-proliferation agreements, 
 legislatures should be rapidly working to align the agencies to the interests of the nation as a whole, and agencies should be rapidly working to align workers to the interests of the agency. The Head of the agencies and the country's president and staff should be included in this. All of this needs to happen now, while we're still dealing with GPT-4 and not 5.
