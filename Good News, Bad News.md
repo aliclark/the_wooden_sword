@@ -39,6 +39,6 @@ Additionally, intelligence agencies (and inspectors) will need to keep track on 
 3) People smart enough to make AGI progress
 4) Companies, organizations and individuals with the resources and/or mandate to acquire those
 
-If this progresses, it will become harder to monitor well. And alignment of agency employees, agency, country, world stays increasingly critical as this progresses too (already it's critical).
+At the moment we can do this, but if AGI power progresses, it will be harder to monitor these well. At the moment it's alignment of agency employees, agency, country, and world which is of most concern. There should be agitation from the top-down, from the bottom-up, and criss cross to reach this alignment as soon as possible.
 
 Meanwhile, there's still the urgent problem of resource depletion, climate change, and extreme weather to resolve. Both these problems are societal, not technological.
