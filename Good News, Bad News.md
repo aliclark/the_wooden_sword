@@ -28,4 +28,6 @@ The 2 more severe safety concerns that present are:
 
 In my opinion, these both become more problematic as the AGI strength increases, so as global societies we should be talking more fully about how we want these to play out, and acting soon.
 
+AGI alignment is not the problem. Alignment of employees at intelligence agencies is the problem.
+
 Oh, and there's still a problem of resource depletion, climate change, and extreme weather to resolve at the same time.
