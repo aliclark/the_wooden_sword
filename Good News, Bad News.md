@@ -38,7 +38,7 @@ No matter the difference of opinion about the proximate problem, I agree with El
 Additionally, intelligence agencies (and inspectors) will need to keep track on all worldwide instances of:
 1) GPUs racked together
 2) Large energy consumption
-3) People smart enough to make AGI progress
+3) People working on AGI
 4) Companies, organizations and individuals with the resources and/or mandate to acquire those
 
 At the moment we can do this, but if AGI power progresses, it will be harder to monitor these well. At the moment it's alignment of agency employees, agency, country, and world which is of most concern. There should be agitation from the top-down, from the bottom-up, and criss cross to reach this alignment as soon as possible.
