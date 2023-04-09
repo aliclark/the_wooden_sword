@@ -9,7 +9,7 @@ This is good news, if it remains this way.
 Bad people now have access to (much) more powerful technology.
 This is bad news, and all the more so if widely available commercial AGI products increase in power.
 
-Eventually attackers will succeed in getting the weights, just as nation states got hold of nuclear bomb designs, and even script kiddies made inroads to nuclear facilities.
+Eventually attackers will succeed in getting the weights and training know-how, just as nation states got hold of nuclear bomb designs, and even script kiddies made inroads to nuclear facilities.
 This is bad news, and is probably the point that everyone should actually be concerned with, rather than AGI self-propagation.
 
 If the model can be interrogated as an oracle of its own weight values, that would also be bad news for proliferation.
@@ -17,6 +17,8 @@ If the model can be interrogated as an oracle of its own weight values, that wou
 If attackers poison the training data of an AGI in ways that are hidden on first inspection, it could undermine safety in all manner of ways.
 
 If attackers surreptitiously alter any AGI weights, it could undermine safety in all manner of ways.
+
+\[There may be other important vulnerability kinds not listed above]
 
 In summary, AGI self-propagation is among the easiest and the most tractable of the safety problems we currently face.
 
