@@ -16,7 +16,7 @@ If the model can be interrogated as an oracle of its own weight values, that wou
 
 If attackers poison the training data of an AGI in ways that are hidden on first inspection, it could undermine safety in all manner of ways.
 
-If attackers surreptitious alter any AGI weights, it could undermine safety in all manner of ways.
+If attackers surreptitiously alter any AGI weights, it could undermine safety in all manner of ways.
 
 In summary, AGI self-propagation is among the easiest and the most tractable of the safety problems we currently face.
 
