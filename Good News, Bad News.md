@@ -33,4 +33,4 @@ legislatures should be rapidly working to align the agencies to the interests of
 
 No matter the difference of opinion about the proximate problem, I agree with Eliezer and the Open Letter that we need to stop all training of more powerful models than the ones we already have. There can be no exceptions, including for governments or militaries.
 
-Meanwhile, there's still the urgent problem of resource depletion, climate change, and extreme weather to resolve. Both these problems are political and societal, not technological.
+Meanwhile, there's still the urgent problem of resource depletion, climate change, and extreme weather to resolve. Both these problems are societal, not technological.
