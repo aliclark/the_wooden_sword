@@ -33,7 +33,7 @@ In my opinion, these both become more problematic as the AGI strength increases,
 AGI alignment is not the problem. Alignment of employees at intelligence agencies is the problem. Countries should be rapidly seeking non-proliferation agreements, 
 legislatures should be rapidly working to align the agencies to the interests of the nation as a whole, and agencies should be rapidly working to align workers to the interests of the agency. The Head of the agencies and the country's president and staff should be included in this. All of this needs to happen now, while we're still dealing with GPT-4 and not 5.
 
-No matter the difference of opinion about the proximate problem, I agree with Eliezer and the Open Letter that we need to stop all training of more powerful models than the ones we already have. There can be no exceptions, including for governments or militaries.
+No matter the difference of opinion about the proximate problem, Eliezer and the Open Letter signatories are correct that we need to stop all training of more powerful models than the ones we already have. There can be no exceptions, including for governments or militaries.
 
 Additionally, intelligence agencies (and inspectors) will need to keep track on all worldwide instances of:
 1) GPUs racked together
