@@ -1,4 +1,4 @@
-# Nothing is a contradiction
+# Nothing is a Contradiction
 
 Most of current Ontology boils down to a brute fact: there is a God, there is Mathematics, there is a Universe, there is Value, there is Mind, or there is a Potentiality.
 
