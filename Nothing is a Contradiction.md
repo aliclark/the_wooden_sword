@@ -12,7 +12,7 @@ Happily, since it is unconstrained around the Existing, it gives plenty of room 
 
 ## Discussion
 
-The conclusions are rather stark, as the axiom of Existence alone seems to imply that not only might we have no free will, but that the universe is not even constrained merely to "reasonable" scenarios. Should we always be in fear that we will do something drastic or unexpected next, or one moment find that we have already done so? At best, it seems to turn life into the discovery of whether your own life is becoming that of a paradise or a horror story, and the hope that you're already well steeped in Buddhist Nirvana at every moment.
+The conclusions are rather stark, as the axiom of Existence alone seems to imply that not only might we have no free will, but that the universe is not even constrained merely to "reasonable" scenarios. Should we always be in fear that we will do something drastic or unexpected next, or one moment find that we have already done so? At best, it seems to turn life into the discovery of whether your own life is becoming that of a paradise or a horror story, and the hope that you're already well steeped in Nirvana at every moment.
 
 At this point, I will note two things.
 
