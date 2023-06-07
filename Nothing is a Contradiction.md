@@ -20,4 +20,4 @@ Firstly all religions and many great philosophers have described good action and
 
 Secondly there is nothing about the axiom of Existence which precludes the existence of an active God. It may just as well be that such a God would use their unlimited power to scrub out all the existences where free will was *not* central, or really, anything.
 
-As a result, I think it's more than worthwhile to spend time looking into theology in combination with philosophy and religion to try to understand our place within existence. The quest is not over - it has only just begun!
+As a result, I think it's more than worthwhile to spend time looking into theology in combination with philosophy and religion to try to understand our place within existence. The quest is not over. It's only just begun!
