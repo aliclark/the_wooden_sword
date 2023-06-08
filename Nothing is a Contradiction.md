@@ -16,8 +16,8 @@ The conclusions are rather stark, as the axiom of Existence alone seems to imply
 
 At this point, I will note two things.
 
-Firstly all religions and many great philosophers have described good action and exercise of one's free will, as a relevant or central aspect to life. We should take a moment's pause before completely throwing all of that out, in favour extrapolating from a raw axiom.
+Firstly all religions and many great philosophers have described good action and either cause and effect or the exercise of free will as relevant or central aspects to life. We should take a moment's pause before completely throwing all of that out, in favour extrapolating from a raw axiom.
 
-Secondly there is nothing about the axiom of Existence which precludes the existence of an active God. It may just as well be that such a God would use their unlimited power to scrub out all the existences where free will was *not* central, or really, anything.
+Secondly there is nothing about the axiom of Existence which precludes the existence of an active God. It may well be that such a God would use their power to scrub out all the existences where there was arbitrary horror, by enforcing a baseline law of cause and effect such as the observed laws of our universe, which eradicates almost all (though unformtunately not all) of possible experienced terror on sentient beings.
 
-As a result, I think it's more than worthwhile to spend time looking into theology in combination with philosophy and religion to try to understand our place within existence. The quest is not over. It's only just begun!
+Concluding, I think it's more than worthwhile to spend time looking into theology in combination with philosophy and religion to try to understand our place within existence.
