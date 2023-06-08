@@ -20,4 +20,4 @@ Firstly all religions and many great philosophers have described good action and
 
 Secondly there is nothing about the axiom of Existence which precludes the existence of an active God. It may well be that such a God would use their power to scrub out all the existences where there was arbitrary horror, by enforcing a baseline law of cause and effect such as the observed laws of our universe, which eradicates almost all (though unfortunately not all) of possible experienced terror on sentient beings.
 
-Concluding, based on this theory I think it's more than worthwhile to spend time studying theology in combination with philosophy and religion to try to understand our place within existence.
+Concluding, based on this theory I think it's more than worthwhile to spend time studying theology in combination with philosophy and religion, to try to understand our place within existence.
