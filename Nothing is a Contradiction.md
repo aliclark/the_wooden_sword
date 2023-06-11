@@ -14,4 +14,4 @@ Happily, since it is unconstrained around the Existing, it gives plenty of room 
 
 Firstly I'd like to add a reminder that as the Buddha taught, all pain is illusory.
 
-Secondly the argument I've outlined above does not yet ensure that the law of cause and effect is mandatory. For that, there would need to be some restriction on what is existing, such that it is not infinite. Potentially it could be due to a hitherto undiscovered law of ontology, or it could be as a result of god.
+Secondly the argument I've outlined above does not yet ensure that the law of cause and effect is mandatory. If it were to be the case and not an illusion, there would need to be some restriction on what is existing, such that it is not infinite. Potentially it could be due to a hitherto undiscovered law of ontology, or it could be as a result of god.
