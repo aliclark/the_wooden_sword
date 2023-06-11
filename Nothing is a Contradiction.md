@@ -14,6 +14,6 @@ Happily, since it is unconstrained around the Existing, it gives plenty of room 
 
 This philosophical argument aims to serve as part of a map, but a map is not the territory. The Buddha's Eightfold Path and Mindfulness and Descartes's "I think, therefore I am" are better tools for understanding the territory, the experience of existing.
 
-The argument does not yet ensure that the law of cause and effect is mandatory. If cause and effect were to be the case and not an illusion, there would need to be some restriction on what is existing, such that it is not infinite. Potentially it could be due to a hitherto undiscovered law of ontology, or it could be as a result of God. This point is academic, as we have no ability to discern the actual nature of causes, which lie in the past.
+The argument does not yet ensure that the law of cause and effect is mandatory in an ontological sense. If cause and effect were to be the case and not an illusion, there would need to be some restriction on what is existing, such that it is not infinite. Potentially it could be due to a hitherto undiscovered law of ontology, or it could be as a result of God. This point is academic, as we have no ability to discern the actual nature of causes, which lie in the past.
 
 I'd like to add a reminder that as the Buddha taught, suffering arises from a misapprehension of self. This isn't intended to downplay suffering, but might be helpful for accepting its existence in the universe and potentially beyond.
