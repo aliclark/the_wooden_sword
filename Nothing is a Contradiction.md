@@ -12,12 +12,6 @@ Happily, since it is unconstrained around the Existing, it gives plenty of room 
 
 ## Discussion
 
-The conclusions are rather stark, as the axiom of Existence alone seems to imply that not only might we have no free will, but that the universe is not even constrained merely to "reasonable" scenarios. Should we always be in fear that we will do something drastic or unexpected next, or one moment find that we have already done so? At best, it seems to turn life into the discovery of whether your own life is becoming that of a paradise or a horror story, and the hope that you're already well steeped in Nirvana at every moment.
+Firstly I'd like to add a reminder that as the Buddha taught, all pain is illusory.
 
-At this point, I will note two things.
-
-Firstly all religions and many great philosophers have described good action and either cause and effect or the exercise of free will as relevant or central aspects to life. We should take a moment's pause before completely throwing all of that out, in favour extrapolating from a raw axiom.
-
-Secondly there is nothing about the axiom of Existence which precludes the existence of an active God. It may well be that such a God would use their power to scrub out all the existences where there was arbitrary horror, by enforcing a baseline law of cause and effect such as the observed laws and conditions of our universe, which eradicates almost all (though unfortunately not all) of possible experienced terror on sentient beings.
-
-Concluding, based on this theory I think it's more than worthwhile to spend time studying theology in combination with philosophy and religion, to try to understand our place within existence.
+Secondly the argument I've outlined above does not yet ensure that the law of cause and effect is mandatory. For that, there would need to be some restriction on what is existing, such that it is not infinite. Potentially it could be due to a hitherto undiscovered law of ontology, or it could be as a result of god.
