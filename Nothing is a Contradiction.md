@@ -20,4 +20,4 @@ I'd like to add a reminder that as the Buddha taught, suffering arises from a mi
 
 ## Further work
 
-Investigation into the nature of infinity within ontology could yield further insight into constraints on being.
+Investigation into more ontological contradictions.
