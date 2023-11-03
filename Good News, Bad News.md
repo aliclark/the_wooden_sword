@@ -9,7 +9,7 @@ We live in a world where training an AGI requires a large amount of compute powe
 This is good news, if it remains this way.
 
 We live in a world where an AGI doesn't need "its own" psychology in order to be an AGI.
-This is good news.
+This is good news. (Edit: debatable - the AI has a biased subconscious/psychological profile based on its training data)
 
 Bad people now have access to (much) more powerful technology.
 This is bad news, and all the more so if widely available commercial AGI products increase in power.
