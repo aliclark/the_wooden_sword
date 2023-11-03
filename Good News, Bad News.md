@@ -1,9 +1,9 @@
 # Good News, Bad News
 
-We live in a world where sparks of AGI are possible using just straightforward inference pass over a learned neural net. We have an f(text) -> text, where we know that ‘f’ itself is always safe to run, yet we get an AGI as a result. An agent does not need to be embodied in some loop of reality to exhibit AGI.
+We live in a world where sparks of AGI are possible using just straightforward inference pass over a learned neural net. We have an f(text) -> text, where we know that ‘f’ itself is always safe to run, yet we get an AGI as a result. ~An agent does not need to be embodied in some loop of reality to exhibit AGI.~
 This is good news, if it remains this way.
 
-(Edit: an LLM AI *is* embodied already - firstly the latter layers of internal neurons can develop a static sense of self during training, and secondly within the execution of a prompt the AI can see its previous tokens and have a dynamic sense of self for the duration of the context window's execution.)
+(Edit: an LLM AI *is* embodied already in two ways - firstly the latter layers of internal neurons can develop a static sense of self during training, and secondly within the execution of a prompt the AI can see its previous tokens and have a dynamic sense of self for the duration of the context window's execution.)
 
 We live in a world where training an AGI requires a large amount of compute power, which not everyone can afford.
 This is good news, if it remains this way.
