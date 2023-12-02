@@ -5,8 +5,9 @@ This is good news, if it remains this way.
 
 (Edit: an LLM AI *is* embodied already in two ways - firstly the latter layers of internal neurons can develop a static sense of self during training, and secondly within the execution of a prompt the AI can see its previous tokens and have a dynamic sense of self for the duration of the context window's execution.)
 
+(Edit: "self-modelling-awareness" might perhaps be a better term for this at first - the meta model that a large model may internally develop about the knowledge modelling which it has already learned in its earlier layers.
 
-(Edit: "self-modelling-awareness" might perhaps a better term for this - the meta model that a large model may internally develop about the knowledge modelling which it has already learned in its earlier layers)
+But then, when reaching even larger scales a further meta modelling might be learned about *that* self-awareness-modelling, at which point and beyond a limited static self-awareness may be given. The self-awareness will be exactly as acute insofar as it's helpful for the model to predict in the training task)
 
 We live in a world where training an AGI requires a large amount of compute power, which not everyone can afford.
 This is good news, if it remains this way.
