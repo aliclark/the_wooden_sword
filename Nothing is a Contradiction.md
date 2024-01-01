@@ -8,7 +8,7 @@ The argument hinges on 'Nothing'. Whereas philosophers have frequently spoken of
 
 This provides a plausible theory for the most critical axiom of all, Existence.
 
-Happily, since it is unconstrained around the Existing, it gives plenty of room for that which is existing: to be a mathematical object(s), universe(s), or God(s). Perhaps the same thing.
+Happily, since it is unconstrained around the Existing, it gives plenty of room for that which is existing: to be a mathematical object(s), universe(s), God(s), Mind. Perhaps the same thing.
 
 ## Discussion
 
