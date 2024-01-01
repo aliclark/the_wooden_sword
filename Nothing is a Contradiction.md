@@ -20,6 +20,8 @@ The argument does not yet ensure that the law of cause and effect is mandatory i
 
 I'd like to add a reminder that as the Buddha taught, suffering arises from a misapprehension of self. This isn't intended to downplay suffering, but might be helpful for accepting its existence in the universe and potentially beyond.
 
+I think the most plausible description of the nature of that which is existing is that whatever it is, it is (at least initially) singular, and unbounded. To me it seems quite implausible that the first ontological object would be of a countable nature, or even objectifiable at all. "Singular and unbounded", or more simply "unbounded" seems to straightforwardly provide a route past that specificity.
+
 ## Further work
 
 Investigation into more ontological contradictions.
