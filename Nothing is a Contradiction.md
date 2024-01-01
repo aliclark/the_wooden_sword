@@ -12,7 +12,7 @@ Happily, since it is unconstrained around the Existing, it gives plenty of room 
 
 ## Discussion
 
-This philosophical argument aims to serve as part of a map, but a map is not the territory. The Buddha's Eightfold Path and Mindfulness and Descartes's "I think, therefore I am" are better tools for understanding the territory, the experience of existing.
+This philosophical argument aims to serve as part of a map, but a map is not the territory. The Buddha's Eightfold Path and Mindfulness and Descartes's "I think, therefore I am" are (perhaps) better tools for understanding the territory, the experience of existing.
 
 For similar reasons, I think that of the above the Mind (Only) interpretation of existence is perhaps the most helpful orientation, or God and a Genesis-based interpretation for the theologically inclined.
 
