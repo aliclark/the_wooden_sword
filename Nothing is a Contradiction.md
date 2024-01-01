@@ -14,7 +14,7 @@ Happily, since it is unconstrained around the Existing, it gives plenty of room 
 
 This philosophical argument aims to serve as part of a map, but a map is not the territory. The Buddha's Eightfold Path and Mindfulness and Descartes's "I think, therefore I am" are better tools for understanding the territory, the experience of existing.
 
-For similar reasons, I think that of the above the Mind (Only) interpretation of existence is perhaps the most helpful, or a Genesis-based interpretation for the theologically inclined.
+For similar reasons, I think that of the above the Mind (Only) interpretation of existence is perhaps the most helpful orientation, or God and a Genesis-based interpretation for the theologically inclined.
 
 The argument does not yet ensure that the law of cause and effect is mandatory in all of existence. If there are infinite causes and infinite effects existing in their own right, it would make the law of cause and effect a moot point, even if there do exist fuller, more properly defined universes which do fully abide to it. Potentially there could be an ontological enforcement of cause and effect owing to a hitherto undiscovered law of ontology, or could be as a result of God. This point is academic, since we have no ability to discern the actual nature of causes, which lie in the past. But it seems a natural line of enquiry to attempt to clarify.
 
