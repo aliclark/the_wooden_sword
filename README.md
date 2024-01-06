@@ -1,8 +1,8 @@
 # Topics
 
-[Evolved Emergent Qualia.md](Evolved%20Emergent%20Qualia.md) - a thesis of Qualia, Biology(?!)
+[Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - a thesis of Qualia, Biology(?!)
 
-[Nothing is a Contradiction.md](Nothing%20is%20a%20Contradiction.md) - a theory of Ontology, Metaphysics
+[Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md) - a theory of Ontology, Metaphysics
 
 [AI Good News, Bad News](AI%20Good%20News%2c%20Bad%20News.md) - initial thoughts on AGI risk
 
