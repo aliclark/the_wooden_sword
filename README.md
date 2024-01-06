@@ -1,6 +1,6 @@
 # Topics
 
-[Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - a thesis of Qualia, Biology(?!)
+[Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - a thesis of Quali, Biology(?!)
 
 [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md) - a theory of Ontology, Metaphysics
 
