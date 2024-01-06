@@ -1,5 +1,7 @@
 # AI Good News, Bad News
 
+(Edit: I now believe the primary control measures should be: a) ensure super-intelligence is narrowly white-listed, such as "super-intelligent prediction of the weather", or "super-safe driving", b) ban AI from contributing in any risk areas, such as "being able to help create pathogens", except by restricted grants of licences, c) forbidding AI not in the form of tools but in the form of agents, d) monitoring, transparency, and treaty, as described below.)
+
 We live in a world where sparks of AGI are possible using just straightforward inference pass over a learned neural net. We have an f(text) -> text, where we know that ‘f’ itself is always safe to run, yet we get an AGI as a result. ~An agent does not need to be embodied in some loop of reality to exhibit AGI.~
 This is good news, if it remains this way.
 
@@ -55,5 +57,3 @@ At the moment we can do this, but if AGI power progresses, it will be harder to 
 Meanwhile, there's still the urgent problem of resource depletion, climate change, and extreme weather to resolve. Both these problems are societal, not technological.
 
 (Edit: to be clear, on balance I *think* I may prefer a world where a single security order exists in order to control security risks that I see inevitable without it. I only hope that such a powerful order would not feel it necessary to be too stalinistic or dictatorial, but have to grant that it would likely behave very arbitrarily, as one has come to expect from absolute, total power.)
-
-(Edit: I know believe the primary control measures should be: a) ensure super-intelligence is narrowly white-listed, such as "super-intelligent prediction of the weather", or "super-safe driving", b) ban AI from contributing in any risk areas, such as "being able to help create pathogens", except by restricted grants of licences, c) forbidding AI not in the form of tools but in the form of agents, d) monitoring, transparency, and treaty, as described earlier.)
