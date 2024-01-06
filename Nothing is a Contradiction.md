@@ -25,3 +25,5 @@ I think the most plausible description of the nature of that which is existing i
 ## Further work
 
 Investigation into more ontological contradictions, and constraints on that which is existing.
+
+## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
