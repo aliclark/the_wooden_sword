@@ -54,4 +54,6 @@ At the moment we can do this, but if AGI power progresses, it will be harder to 
 
 Meanwhile, there's still the urgent problem of resource depletion, climate change, and extreme weather to resolve. Both these problems are societal, not technological.
 
-(Edit: to be clear, on balance I *think* I may prefer a world where a single security order exists in order to control security risks that I see inevitable without it. I only hope that such a powerful order would not feel it necessary to be too stalinistic or dictatorial, but have to grant that it would likely behave very arbitrarily, as one has come to expect from absolute, total power).
+(Edit: to be clear, on balance I *think* I may prefer a world where a single security order exists in order to control security risks that I see inevitable without it. I only hope that such a powerful order would not feel it necessary to be too stalinistic or dictatorial, but have to grant that it would likely behave very arbitrarily, as one has come to expect from absolute, total power.)
+
+(Edit: I know believe the primary control measures should be: a) ensure super-intelligence is narrowly white-listed, such as "super-intelligent prediction of the weather", or "super-safe driving" b) ban AI from contributing in any risk areas, such as "being able to help create pathogens", except by restricted grants of licences, c) forbidding AI not in the form of tools but in the form of agents, d) monitoring, transparency, and treaty, as described earlier.)
