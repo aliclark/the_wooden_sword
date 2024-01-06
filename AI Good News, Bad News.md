@@ -1,4 +1,4 @@
-# Good News, Bad News
+# AI Good News, Bad News
 
 We live in a world where sparks of AGI are possible using just straightforward inference pass over a learned neural net. We have an f(text) -> text, where we know that ‘f’ itself is always safe to run, yet we get an AGI as a result. ~An agent does not need to be embodied in some loop of reality to exhibit AGI.~
 This is good news, if it remains this way.
