@@ -53,3 +53,5 @@ Additionally, intelligence agencies (and inspectors) will need to keep track on 
 At the moment we can do this, but if AGI power progresses, it will be harder to monitor these well. At the moment it's alignment of agency employees, agency, country, and world which is of most concern. There should be agitation from the top-down, from the bottom-up, and criss cross to reach this alignment as soon as possible.
 
 Meanwhile, there's still the urgent problem of resource depletion, climate change, and extreme weather to resolve. Both these problems are societal, not technological.
+
+(Edit: to be clear, on balance I *think* I may prefer a world where a single security order exists in order to control security risks that I see inevitable without it. I only hope that such a powerful order would not feel it necessary to be too stalinistic or dictatorial, but have to grant that it would likely behave very arbitrarily, as one has come to expect from absolute, total power).
