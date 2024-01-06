@@ -59,7 +59,4 @@ In fact, that’s a lie, the solution couldn’t more easily smack you in the fa
 
 - - - -
 
-## Comments
-
-* https://news.ycombinator.com/item?id=27431961
-* [Edits](https://github.com/aliclark/the_wooden_sword/edit/main/The%20Great%20Recession%20and%20the%20Crapification%20of%20Products.md) / Pull Requests welcome
+## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
