@@ -8,6 +8,4 @@
 
 [The Great Recession and the Crapification of Products](The%20Great%20Recession%20and%20the%20Crapification%20of%20Products.md) - narrow rant about the allocation of capital leading to consumer preferences becoming increasingly insignificant to the economy 
 
-
-
-
+## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
