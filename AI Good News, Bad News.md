@@ -61,3 +61,9 @@ Meanwhile, there's still the urgent problem of resource depletion, climate chang
 (Edit: to be clear, on balance I *think* I may prefer a world where a single security order exists in order to control security risks that I see inevitable without it. I only hope that such a powerful order would not feel it necessary to be too stalinistic or dictatorial, but have to grant that it would likely behave very arbitrarily, as one has come to expect from absolute, total power.)
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
+
+### Prior Work
+- My later AI control measures, edited at the top of this page, were more or less described, in various general forms, by Sam Altman in his prior Senate hearing in May.
+
+### Subsequent work
+- Most of the arguments including monitoring of GPUs were raised by Sam Altman in his subsequent Senate hearing in May. The proposals here are simple enough that they were almost certainly developed independently by him and/or OpenAI
