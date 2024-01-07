@@ -67,4 +67,4 @@ In fact, that’s a lie, the solution couldn’t more easily smack you in the fa
 
 ### Subsequent work
 
-- A subsequent related essay and term, [Enshittification](https://en.wikipedia.org/wiki/Enshittification), emerged describing specifically digital scenarios of the Crapification of Products. It elaborates on the Golden Ticket more in terms of the lifecycle of what I think could be described as "Product-Company as Traded Product", but describes the causes more in terms of market failure than distribution of wealth as in this essay.
+- A subsequent related essay and term, [Enshittification](https://en.wikipedia.org/wiki/Enshittification), emerged describing specifically digital scenarios of the Crapification of Products. It elaborates on the Golden Ticket more in terms of the lifecycle of what I think could be described as "Product-Company as a Traded Product", but describes the causes more in terms of market failure than distribution of wealth as in this essay.
