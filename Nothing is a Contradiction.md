@@ -30,4 +30,4 @@ Investigation into more ontological contradictions, and constraints on that whic
 
 ### I lack a thorough academic background in this topic, so welcome any links to prior work leading up to and including any of the ideas herein. The idea is simple enough that I assume this to exist and therefore do not assume this to be a novel theory, unless a well-versed expert can reassure otherwise.
 
-At current, I believe this theory is best viewed as explanatory, or a simplified formulation, of the implications from Aristotle's arguments on Potentiality and Actuality, and concerning Nothing's absence of both of these implying its inverse.
+At current, I believe this theory is best viewed as explanatory, or a simplified formulation, of the implications from Aristotle's arguments on Potentiality and Actuality, and concerning Nothing's absence of both of these - implying its inverse, Existence.
