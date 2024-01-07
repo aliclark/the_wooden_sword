@@ -60,3 +60,5 @@ In fact, that’s a lie, the solution couldn’t more easily smack you in the fa
 - - - -
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
+
+A subsequent related essay, [Enshittification](https://en.wikipedia.org/wiki/Enshittification) describes digital scenarios of the Crapification of Products.
