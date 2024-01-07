@@ -29,3 +29,5 @@ Investigation into more ontological contradictions, and constraints on that whic
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### I lack a thorough academic background in this topic, so welcome any links to prior work leading up to and including any of the ideas herein. The idea is simple enough that I assume this to exist and therefore do not assume this to be a novel theory, unless a well-versed expert can reassure otherwise.
+
+At current, I believe this theory is best viewed as a supporting or explanatory argument that can be used as a foundation for Aristotle's theory of "Substance-only".
