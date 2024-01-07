@@ -9,3 +9,14 @@
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### I lack a thorough academic background in this topic, so welcome any links to prior work leading up to and including any of the ideas herein.
+
+Known prior work:
+- Thales (according to Aristotle) - "everything is full of gods"
+- Yogachara
+- "One Mind" Zen school
+- Panpsychism
+- Panexperientialism
+- Panprotopsychism
+- Cosmopsychism
+- Panexperientalism
+- Chalmers' distintion between microphenomenal experiences and macrophenomenal experiences
