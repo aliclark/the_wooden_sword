@@ -2,7 +2,7 @@
 
 *Originally created 5th January 2024*
 
-- I philosophically adhere to a variant of Priority Cosmopsychism, where the "basic consciousness" is existence itself. I assert that existence is protophenomenal.
+- Preamble: I philosophically adhere to a variant of Priority Cosmopsychism, where the "basic consciousness" is existence itself. I assert that existence is protophenomenal.
   - see also my related [theory of Actuality](Nothing%20is%20a%20Contradiction.md).
 - My thesis statement is that qualia, the phenomenal, is an emergent quantity which is biologically evolved.
   - Rationale: it is hard to point to any qualia that were not in fact also useful for survival
