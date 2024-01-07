@@ -1,7 +1,7 @@
 # Evolved Emergent Qualia
 
 - I philosophically adhere to a variant of Priority Cosmopsychism, where the basic consciousness is existence itself, which is protophenomenal in nature.
- - [See here for my philosophical theory of Actuality](Nothing%20is%20a%20Contradiction.md).
+  - [Please see here for my philosophical Theory of Actuality](Nothing%20is%20a%20Contradiction.md).
 - I hypothesise that qualia is an emergent quantity which is biologically evolved.
 - I predict that evolutionary theory can be used to find evidence in biology for instances of organisms where qualia is present or not present.
   - For example, perhaps qualia would require more energy to be operating, but its aid to survival outweighs the cost. As just one consequence to this theory, we could look for a "qualia gap", where evolved organisms suddenly become much larger and more resource intensive than their non-qualia predecessors.
