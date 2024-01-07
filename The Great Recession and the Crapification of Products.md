@@ -63,4 +63,4 @@ In fact, that’s a lie, the solution couldn’t more easily smack you in the fa
 
 ### Related work
 
-A subsequent related essay and term, [Enshittification](https://en.wikipedia.org/wiki/Enshittification) emerged describing specifically digital scenarios of the Crapification of Products.
+A subsequent related essay and term, [Enshittification](https://en.wikipedia.org/wiki/Enshittification), emerged describing specifically digital scenarios of the Crapification of Products.
