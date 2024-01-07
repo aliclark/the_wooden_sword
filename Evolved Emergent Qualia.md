@@ -28,4 +28,6 @@ Known prior work:
 - Cosmopsychism
 - David Chalmers' distinction between microphenomenal experiences and macrophenomenal experiences
 
-This work is an attempt to present ideas from the philosophy above in terms of scientific hypotheses with falsifiable predictions - I think science can make some progress on this problem, albeit possibly not all of it. I welcome links to any other prior work along these lines.
+This post might potentially be novel in two ways:
+- firstly makes a philisophical assertion that protophenomenal is not a property, but that instead existence is inherently protophenomenal.
+- secondly it attempts to create scientific hypotheses with falsifiable predictions around the biological structure that results in qualia which could help narrow the focus for tackling the Combination Problem
