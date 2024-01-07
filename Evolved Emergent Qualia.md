@@ -1,6 +1,6 @@
 # Evolved Emergent Qualia
 
-- I philosophically adhere to a variant of Priority Cosmopsychism, where the basic consciousness is existence itself, which is protophenomenal in nature.
+- I philosophically adhere to a variant of Priority Cosmopsychism, where the basic consciousness is existence itself. I assert that existence is protophenomenal.
   - Please see also my philosophical [Theory of Actuality](Nothing%20is%20a%20Contradiction.md).
 - I hypothesise that qualia is an emergent quantity which is biologically evolved.
 - I predict that evolutionary theory can be used to find evidence in biology for instances of organisms where qualia is present or not present.
