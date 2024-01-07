@@ -1,6 +1,6 @@
 # AI Good News, Bad News
 
-*Originall created on 9th April 2023*
+*Originall created 9th April 2023*
 
 (Edit: I now believe the primary control measures should be: a) ensure super-intelligence is narrowly white-listed, such as "super-intelligent prediction of the weather", or "super-safe driving", b) ban AI from contributing in any risk areas, such as "being able to help create pathogens", except by restricted grants of licences, c) ban AI which is in the form of agents as opposed to simple tools, d) monitoring, transparency, and treaty, as described below.)
 
