@@ -24,6 +24,7 @@ Known prior work:
 - Yogachara
 - *One Mind* Doctrine of Zen
 - Panpsychism
+- Russellian monism
 - Cosmopsychism
 - David Chalmers' distinction between microphenomenal experiences and macrophenomenal experiences
 
