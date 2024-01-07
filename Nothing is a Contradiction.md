@@ -10,6 +10,8 @@ This provides a plausible theory for the most critical axiom of all, Existence.
 
 Happily, since it is unconstrained around the Existing, it gives plenty of room for that which is existing: to be a mathematical object(s), universe(s), God(s), Mind(s). Perhaps the same thing.
 
+## Explanation
+
 The argument is that Actuality is explained in the more basic fact of non non-Actuality. A statement of Actuality as fact by itself is unsatisfactory, because it doesn't appropriately answer the question of Why. But "non-Nothing" can be seen as correct not just in experience but also in the evident absence of a contradictory How (ie. the thesis could be disproved simply by presenting an existent Nothing, but logically this cannot and will not occur). So we also have a Why - the non-existence of Nothing, owing to its definitional impossibility. As a result, we get a (technically equivalent) Actuality as well as the proof.
 
 ## Discussion
