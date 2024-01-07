@@ -33,3 +33,6 @@ Investigation into more ontological contradictions, and constraints on that whic
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### I lack a thorough academic background in this topic, so welcome any links to prior work leading up to and including any of the ideas herein. The idea is simple enough that I assume this to exist and therefore do not assume this to be a novel theory, unless a well-versed expert can reassure otherwise.
+
+Known prior work
+- Please contact me by Discussions (link above), Issues or Pull Request
