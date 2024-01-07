@@ -1,6 +1,6 @@
 # Evolved Emergent Qualia
 
-- I firstly propose that, philosophically, the basis for qualia is existence itself, [from metaphysical axiom](Nothing%20is%20a%20Contradiction.md). I approximately adhere to Priority Cosmopsychism where the basic consciousness is existence itself, and the basic consciousness is protophenomenal in nature.
+- I firstly propose that, philosophically, the basis for qualia is existence itself, [from metaphysical axiom](Nothing%20is%20a%20Contradiction.md). I approximately adhere to Priority Cosmopsychism where the basic consciousness is existence itself, which is protophenomenal in nature.
 - I hypothesise that qualia is an emergent quantity which is biologically evolved.
 - I predict that evolutionary theory can be used to find evidence in biology for instances of organisms where qualia is present or not present.
   - For example, perhaps qualia would require more energy to be operating, but its aid to survival outweighs the cost. As just one consequence to this theory, we could look for a "qualia gap", where evolved organisms suddenly become much larger and more resource intensive than their non-qualia predecessors.
