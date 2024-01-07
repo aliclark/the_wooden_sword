@@ -1,6 +1,6 @@
 # Nothing is a Contradiction
 
-Most of current Ontology boils down to a brute fact: there is a God, there is Mathematics, there is a Universe, there is Value, there is Mind, or there is a Potentiality.
+Most of current Ontology boils down to a brute fact: there is a God, there is Mathematics, there is a Universe, there is Value, there is Mind, or there is Actuality.
 
 Here I outline an alternative to the above, in order to answer the question "Why is there something rather than nothing?".
 
@@ -9,6 +9,8 @@ The argument hinges on 'Nothing'. Whereas philosophers have frequently spoken of
 This provides a plausible theory for the most critical axiom of all, Existence.
 
 Happily, since it is unconstrained around the Existing, it gives plenty of room for that which is existing: to be a mathematical object(s), universe(s), God(s), Mind(s). Perhaps the same thing.
+
+The argument is that Actuality should be seen to stem from non-non-Actuality.
 
 ## Discussion
 
