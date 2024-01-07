@@ -12,7 +12,7 @@ Happily, since it is unconstrained around the Existing, it gives plenty of room 
 
 ## Explanation
 
-The argument is that Actuality is explained in the more basic fact of non non-Actuality. A statement of Actuality as fact by itself is unsatisfactory, because it doesn't appropriately answer the question of Why. But "non-Nothing" can be seen as correct not just in experience but also in being able to follow the absence of a contradictory How (ie. the thesis could be disproved simply by presenting an existent Nothing, but logically this cannot and will not occur). So we also have a Why - the non-existence of Nothing, owing to its definitional impossibility. As a result, we get a (technically equivalent) Actuality as well as the proof.
+The argument is that Actuality is explained in the more basic fact of non non-Actuality. A statement of Actuality as fact by itself is unsatisfactory, because it doesn't appropriately answer the question of Why. But "non-Nothing" can be seen as correct not just in experience but also in being able to follow the absence of a contradictory How (ie. the thesis could be disproved simply by presenting an existent Nothing, but logically this cannot and will not occur). So the clarified exposition gives Actuality and also the foundational understanding of Why there is Actuality - which is rooted in the non-existence of Nothing, owing to its definitional impossibility.
 
 ## Discussion
 
