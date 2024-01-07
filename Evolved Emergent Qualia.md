@@ -1,6 +1,6 @@
 # Evolved Emergent Qualia
 
-*Originally created on 5th January 2024*
+*Originally created 5th January 2024*
 
 - I philosophically adhere to a variant of Priority Cosmopsychism, where the "basic consciousness" is existence itself. I assert that existence is protophenomenal.
   - Please see also my philosophical [Theory of Actuality](Nothing%20is%20a%20Contradiction.md).
