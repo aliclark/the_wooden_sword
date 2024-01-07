@@ -4,7 +4,7 @@
 
 - Philosophical Preamble:
   - Statement: existence is protophenomenal in nature.
-  - Rationale: consciousness exists, and existence being imbued with (some basic form of) consciousness would be the simplest and most straightforward explanation of that fact.
+  - Rationale: consciousness exists, and existence being imbued with (some basic form of) consciousness would be the simplest and most straightforward explanation of this fact.
   - Therefore, I adhere to a variant of Priority Cosmopsychism, where the "basic consciousness" is existence itself.
   - see also my related [theory of Actuality](Nothing%20is%20a%20Contradiction.md).
 - My thesis statement is that qualia, the phenomenal, is an emergent quantity which is biologically evolved.
