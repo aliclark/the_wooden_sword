@@ -61,6 +61,10 @@ In fact, that’s a lie, the solution couldn’t more easily smack you in the fa
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
-### Related work
+### Prior work
 
-A subsequent related essay and term, [Enshittification](https://en.wikipedia.org/wiki/Enshittification), emerged describing specifically digital scenarios of the Crapification of Products.
+- Silicon Valley S03E02 written by Ron Weiner: "Pied Piper's product is its stock"
+
+### Subsequent work
+
+- A subsequent related essay and term, [Enshittification](https://en.wikipedia.org/wiki/Enshittification), emerged describing specifically digital scenarios of the Crapification of Products. It elaborates on the Golden Ticket perhaps more in greater detail as he lifecycle of what I think could be described as "Product-Company as a Product"
