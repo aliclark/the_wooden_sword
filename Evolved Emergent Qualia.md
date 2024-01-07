@@ -19,4 +19,4 @@ Known prior work:
 - Panprotopsychism
 - Cosmopsychism
 - Panexperientalism
-- Chalmers' distintion between microphenomenal experiences and macrophenomenal experiences
+- David Chalmers' distinction between microphenomenal experiences and macrophenomenal experiences
