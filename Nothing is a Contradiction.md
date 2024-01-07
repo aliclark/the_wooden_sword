@@ -1,5 +1,7 @@
 # Nothing is a Contradiction
 
+*Originally created 7th June 2023*
+
 Most of current Ontology boils down to a brute fact: there is a God, there is Mathematics, there is a Universe, there is Value, there is Mind, or there is Actuality (and Potentiality).
 
 Here I outline an alternative to the above, in order to answer the question "Why is there something rather than nothing?".
