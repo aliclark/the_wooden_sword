@@ -10,7 +10,7 @@ This provides a plausible theory for the most critical axiom of all, Existence.
 
 Happily, since it is unconstrained around the Existing, it gives plenty of room for that which is existing: to be a mathematical object(s), universe(s), God(s), Mind(s). Perhaps the same thing.
 
-The argument is that Actuality is explained in the more basic fact of non non-Actuality. A statement of Actuality as fact by itself is unsatisfactory, because it doesn't appropriately answer the question of Why. But non-Nothing can be seen as self-evident not just in experience but also in logic.
+The argument is that Actuality is explained in the more basic fact of non non-Actuality. A statement of Actuality as fact by itself is unsatisfactory, because it doesn't appropriately answer the question of Why. But non-Nothing can be seen as self-evident not just in experience but also in proving the null hypothesis.
 
 ## Discussion
 
