@@ -8,7 +8,7 @@
   - Therefore, I adhere to a variant of Priority Cosmopsychism, where the "basic consciousness" is existence itself.
   - see also my related [theory of Actuality](Nothing%20is%20a%20Contradiction.md).
 - My thesis statement is that qualia, the phenomenal, is an emergent quantity which is biologically evolved.
-  - Rationale: it is hard to point to any qualia that were not in fact also useful for survival
+  - Rationale: it is hard to point to any qualia that were not in fact also useful for survival, and it is easy to see many of possible qualia lacking from humans, such as experiences of infrared, subtler sense of smell, and bat-like sonar, that probably would not have *greatly* aided survival
 - I predict that evolutionary theory can be used to find evidence in biology for instances of organisms where qualia is present or not present, thereby giving improved insight to the Combination Problem.
   - For example, perhaps qualia would require more energy to be operating, but its aid to survival outweighs the cost. As just one consequence to this theory, we could look for a "qualia gap", where evolved organisms suddenly become much larger and more resource intensive than their non-qualia predecessors.
 - I predict that by looking at a diverse range of minimal living candidates with a hint of qualia and then comparing with their simpler evolutionary predecessor showing no hint, we may gain an understanding as to the maximum requirements of qualia (however, it may still be difficult to attribute to a less than carbon-biological origin, of simply chemistry or physics).
