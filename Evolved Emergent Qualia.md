@@ -20,3 +20,5 @@ Known prior work:
 - Cosmopsychism
 - Panexperientalism
 - David Chalmers' distinction between microphenomenal experiences and macrophenomenal experiences
+
+This work is an attempt to present ideas from the philosophy above in terms of scientific hypotheses with falsifiable predictions - I think science can make some progress on this problem, albeit possibly not all of it. I welcome links to any other prior work along these lines.
