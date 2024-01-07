@@ -13,7 +13,7 @@
 Known prior work:
 - Thales (according to Aristotle) - "everything is full of gods"
 - Yogachara
-- "One Mind" Zen school
+- *One Mind* Doctrine of Zen
 - Panpsychism
 - Panexperientialism
 - Panprotopsychism
