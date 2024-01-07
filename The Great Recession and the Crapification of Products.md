@@ -61,9 +61,10 @@ In fact, that’s a lie, the solution couldn’t more easily smack you in the fa
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
-### Prior work
+### Known Prior work
 
 - Silicon Valley S03E02 written by Ron Weiner: "Pied Piper's product is its stock"
+- Quite likely, Economics work on Inequality (- please let me know!)
 
 ### Subsequent work
 
