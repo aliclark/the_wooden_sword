@@ -29,5 +29,5 @@ Known prior work:
 - David Chalmers' distinction between microphenomenal experiences and macrophenomenal experiences
 
 This post might potentially be novel in two ways:
-- firstly it makes a philosophical assertion that protophenomenal is not a property, but that instead existence is inherently protophenomenal.
+- firstly it makes a philosophical assertion that protophenomenal is not a property, but that instead existence is inherently protophenomenal in nature.
 - secondly it attempts to create scientific hypotheses with falsifiable predictions around the biological structure that results in qualia which could help narrow the focus for tackling the Combination Problem
