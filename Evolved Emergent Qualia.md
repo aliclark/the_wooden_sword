@@ -2,7 +2,7 @@
 
 - I philosophically adhere to a variant of Priority Cosmopsychism, where the "basic consciousness" is existence itself. I assert that existence is protophenomenal.
   - Please see also my philosophical [Theory of Actuality](Nothing%20is%20a%20Contradiction.md).
-- I hypothesise that qualia is an emergent quantity which is biologically evolved.
+- I hypothesise that qualia, the phenomenal, is an emergent quantity which is biologically evolved.
 - I predict that evolutionary theory can be used to find evidence in biology for instances of organisms where qualia is present or not present.
   - For example, perhaps qualia would require more energy to be operating, but its aid to survival outweighs the cost. As just one consequence to this theory, we could look for a "qualia gap", where evolved organisms suddenly become much larger and more resource intensive than their non-qualia predecessors.
 - I predict that by looking at a diverse range of minimal living candidates with a hint of qualia and then comparing with their simpler evolutionary predecessor showing no hint, we may gain an understanding as to the maximum requirements of qualia (however, it may still be difficult to attribute to a less than carbon-biological origin, of simply chemistry or physics).
