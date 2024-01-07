@@ -38,3 +38,6 @@ Investigation into more ontological contradictions, and constraints on that whic
 
 Known prior work
 - Please contact me by Discussions (link above), Issues or Pull Request
+
+Related work
+- Aristotle's Actuality
