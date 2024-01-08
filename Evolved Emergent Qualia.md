@@ -7,7 +7,7 @@
   - Rationale: consciousness exists, and existence being imbued with (some basic form of) consciousness would be the simplest and most straightforward explanation of this fact.
   - Therefore I adhere to a variant of Priority Cosmopsychism, where the "basic consciousness" is existence itself.
   - see also my related [theory of Actuality](Nothing%20is%20a%20Contradiction.md).
-  - These theories combined form my philisophical theory on the "Really Hard Problem" of consciousness (a scientific theory remains at large).
+  - These theories combined form my philisophical theory on the "Really Hard Problem" of consciousness (a scientific theory remains at large, but I believe scientific progress on the weaker problems will help to clarify the scientific theory).
 - My thesis statement is that qualia, the phenomenal, is an emergent quantity which is biologically evolved.
   - Rationale: it is hard to point to any qualia that were not in fact also useful for survival, and it is easy to see many of possible qualia lacking from humans, such as experiences of infrared, subtler sense of smell, and bat-like sonar, that probably would not have *greatly* aided survival. This qualia-from-evolution pattern is supported by the vastly different qualia available to the vastly different species, hence the question "what is it like to be a bat?".
 - I predict that evolutionary theory can be used to find evidence in biology for instances of organisms where qualia is present or not present, thereby giving improved insight to the biological requirements in order to entail qualia
