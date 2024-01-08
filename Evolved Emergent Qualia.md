@@ -15,6 +15,7 @@
 - I predict that by looking at a diverse range of minimal living candidates with a hint of qualia and then comparing with their simpler evolutionary predecessor showing no hint, we may gain an understanding as to the maximum requirements of qualia (however, it may still be difficult to attribute to a less than carbon-biological origin, of simply chemistry or physics).
   - I would not entirely rule out that non-obvious/secondary effects are important in the implementation for qualia to emerge, such as interactions of magnetic fields that are produced during neuron electrical activity, and/or seemingly negligible quantum behaviours
 - I predict that fly catchers and smaller worms (but not larger worms?) are examples of biology which has not evolved emergent qualia.
+- Due to access to large amounts of energy, there is a strong possibility that large non-neuron-based evolved systems like Fungi and Redwood Trees might have evolved qualia to the extent that it helps their survivability
 - I predict that a designed object is extremely unlikely to exhibit a meaningful qualia by accident, unless it is grown biologically like Dolly the sheep.
 - I predict the signals from pain and pleasure qualia are far too simplistic for an ASI to consider using them as functionality, except potentially as a crude energy-saving alternative to computation, for limited use-cases, until it solves battery technology and magnetic and optical computation more thoroughly.
   - it may however end up creating them during science experiments, if curiosity becomes part of its goals
