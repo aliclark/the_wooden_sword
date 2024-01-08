@@ -35,4 +35,4 @@
 - David Chalmers' distinction between microphenomenal experiences and macrophenomenal experiences
 - Please contact me with any other prior work, particularly relating to:
   - the philosophical theory that protophenomena is not a property, bu instead existence is inherently protophenomenal in nature
-  - scientific predictions around the biological structure resulting from qualia as an evolved phenomena
+  - scientific predictions and experiments around the biological structure resulting from qualia as an evolved phenomena
