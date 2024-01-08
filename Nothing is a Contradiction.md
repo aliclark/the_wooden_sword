@@ -37,6 +37,3 @@ Investigation into more ontological contradictions, and constraints on that whic
 ### Known prior work
 - The theory is simple enough that I assume this to exist and therefore do not assume this to be a novel theory, unless a well-versed expert can reassure otherwise.
 - Please contact me by Discussions (link above), Issues or Pull Request
-
-### Related work
-- Aristotle's Actuality
