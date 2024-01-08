@@ -17,7 +17,7 @@
   - An interested human may explore these possibilities themselves using magnets and particles to bombard their own brain, observing the effects, or absence of effects, on their own qualia
   - I expect the speed of our qualia processing suggests the effects might be created at very small locations in a brain at any given time
 - I predict that fly catchers and smaller worms (but not larger worms?) are examples of biology which has not evolved emergent qualia.
-- In lieu of proof about qualia in oher animals, a good guide is whether humans have been keeping that species as a pet. If so, our intuition is telling us that they also have qualia.
+  - In lieu of proof about qualia in other species, I think a good guide is whether humans have been keeping that species as a pet. If so, our intuition is telling us that they also have qualia.
 - Due to access to large amounts of energy, there is a strong possibility that large non-neuron-based evolved systems like Fungi and Redwood Trees might have evolved qualia to the extent that it helps their survivability
 - I predict that a designed object is extremely unlikely to exhibit a meaningful qualia by accident, unless it is grown biologically like Dolly the sheep.
 - I predict the signals from pain and pleasure qualia are far too simplistic for an ASI to consider using them as functionality, except potentially as a crude energy-saving alternative to computation, for limited use-cases, until it solves battery technology and magnetic and optical computation more thoroughly.
