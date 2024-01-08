@@ -9,7 +9,7 @@
   - see also my related [theory of Actuality](Nothing%20is%20a%20Contradiction.md).
 - My thesis statement is that qualia, the phenomenal, is an emergent quantity which is biologically evolved.
   - Rationale: it is hard to point to any qualia that were not in fact also useful for survival, and it is easy to see many of possible qualia lacking from humans, such as experiences of infrared, subtler sense of smell, and bat-like sonar, that probably would not have *greatly* aided survival. This qualia-from-evolution pattern is supported by the vastly different qualia available to the vastly different species, hence the question "what is it like to be a bat?".
-- I predict that evolutionary theory can be used to find evidence in biology for instances of organisms where qualia is present or not present, thereby giving improved insight to the Combination Problem.
+- I predict that evolutionary theory can be used to find evidence in biology for instances of organisms where qualia is present or not present, thereby giving improved insight to the biological requirements in order to entail qualia
   - For example, perhaps qualia would require more energy to be operating, but its aid to survival outweighs the cost. As one consequence to this theory, we could look for a "qualia gap", where evolved organisms suddenly become much larger and more resource intensive than their non-qualia predecessors.
   - With access to large amounts of energy, perhaps there is more room for large non-neuron-based evolved systems like Fungi and Redwood Trees to have evolved qualia to the extent that it helps their survivability?
   - There is a sufficiently large gap in cost to infrared processing that most animals have never developed it. What analogues are there in species that have either 0 or 1 qualia available to them?
@@ -39,7 +39,6 @@
 - Russellian monism
 - Schrodinger - Mind and Matter talks about the evolved nature of conscious experience
 - Cosmopsychism
-- David Chalmers' distinction between microphenomenal experiences and macrophenomenal experiences
 - Please contact me with any other prior work, particularly relating to:
   - the philosophical theory that protophenomena is not a property, bu instead existence is inherently protophenomenal in nature
   - scientific predictions and experiments around the biological structure resulting from qualia as an evolved phenomena
