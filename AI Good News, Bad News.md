@@ -71,6 +71,7 @@ Meanwhile, there's still the urgent problem of resource depletion, climate chang
 
 ### Known prior work
 - My later AI control measures, edited in at the top of this page, were more or less described, in various general forms, by Sam Altman in his prior Senate hearing in May.
+- However, I'm currently unaware of prior work putting forward: a clear whitelist/narrow-only superintelligence approach, tools-not-agents primacy, or CIA/NSA ASI primacy assertion to ward off an arms race
 
 ### Subsequent work
 - Most of the initial arguments including monitoring of GPUs were raised by Sam Altman in his subsequent Senate hearing in May and at some point Sam Altman raised the energy monitoring point also. These proposals are simple enough that they were almost certainly developed by him and/or OpenAI independently.
