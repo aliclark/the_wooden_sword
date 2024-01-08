@@ -1,6 +1,6 @@
 # Topics
 
-[Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - a scientific hypothesis of Qualia - Metaphysics and Biology(?!)
+[Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - thoughts and scientific predictions about the phenomena of Qualia - Metaphysics and Biology(?!)
 <br>*Originally created 5th January 2024*
 
 [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md) - a philosophical theory of Actuality - Ontology, Metaphysics
