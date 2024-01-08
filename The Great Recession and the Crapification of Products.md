@@ -64,7 +64,7 @@ In fact, that’s a lie, the solution couldn’t more easily smack you in the fa
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
-### Known Prior work
+### Known prior work
 
 - Silicon Valley S03E02 directed by Mike Judge, written by Ron Weiner: "Pied Piper's product is its stock"
 - (Almost certainly) Economics work on Inequality (- please let me know!)
