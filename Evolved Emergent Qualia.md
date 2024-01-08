@@ -25,9 +25,7 @@
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
-### I lack a thorough academic background in this topic, so welcome any links to prior work leading up to and including any of the ideas herein.
-
-Known prior work:
+### Known prior work
 - Thales (according to Aristotle) - "everything is full of gods"
 - Yogachara
 - *One Mind* Doctrine of Zen
@@ -35,7 +33,6 @@ Known prior work:
 - Russellian monism
 - Cosmopsychism
 - David Chalmers' distinction between microphenomenal experiences and macrophenomenal experiences
-
-This post might potentially be novel in two ways:
-- firstly it makes a philosophical assertion that protophenomenal is not a property, but that instead existence is inherently protophenomenal in nature.
-- secondly it attempts to create scientific hypotheses with falsifiable predictions around the biological structure that results in qualia which could help to drive progress on the Combination Problem
+- Please contact me with any other prior work, particularly relating to:
+  - the philosophical theory that protophenomena is not a property, bu instead existence is inherently protophenomenal in nature
+  - scientific predictions around the biological structure resulting from qualia as an evolved phenomena
