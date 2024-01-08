@@ -31,10 +31,11 @@
 ### Known prior work
 - Hylozoism
 - Thales (according to Aristotle) - "everything is full of gods"
+- Anaximander - Theory of evolution
 - Yogachara
 - *One Mind* Doctrine of Zen
 - Panpsychism
-- Darwin - Evolutionary theory
+- Darwin and Wallace - Scientific Evolutionary theory
 - Russellian monism
 - Schrodinger - Mind and Matter talks about the evolved nature of conscious experience
 - Cosmopsychism
