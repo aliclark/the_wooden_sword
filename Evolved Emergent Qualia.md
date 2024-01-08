@@ -37,8 +37,9 @@
 - Panpsychism
 - Darwin and Wallace - Scientific Evolutionary theory
 - Russellian monism
-- Schrodinger - Mind and Matter talks about the evolved nature of conscious experience
+- Schrodinger - Mind and Matter talks about the fact of an evolved arrangement leading to conscious experience
 - Cosmopsychism
+- Life 3.0 by Max Tegmark - excellent discussion of using science to tackle consciousness by looking at physical arrangement
 - Please contact me with any other prior work, particularly relating to:
   - the philosophical theory that protophenomena is not a property, bu instead existence is inherently protophenomenal in nature
   - scientific predictions and experiments around the biological structure resulting from qualia as an evolved phenomena
