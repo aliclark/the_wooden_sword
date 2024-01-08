@@ -28,11 +28,13 @@
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
+- Hylozoism
 - Thales (according to Aristotle) - "everything is full of gods"
 - Yogachara
 - *One Mind* Doctrine of Zen
 - Panpsychism
 - Russellian monism
+- Schrodinger - Mind and Matter talks about the evolved nature of consciousness
 - Cosmopsychism
 - David Chalmers' distinction between microphenomenal experiences and macrophenomenal experiences
 - Please contact me with any other prior work, particularly relating to:
