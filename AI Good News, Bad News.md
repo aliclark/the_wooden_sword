@@ -62,7 +62,7 @@ Meanwhile, there's still the urgent problem of resource depletion, climate chang
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
-### Prior Work
+### Known prior work
 - My later AI control measures, edited in at the top of this page, were more or less described, in various general forms, by Sam Altman in his prior Senate hearing in May.
 
 ### Subsequent work
