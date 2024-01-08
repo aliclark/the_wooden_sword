@@ -75,7 +75,7 @@ Meanwhile, there's still the urgent problem of resource depletion, climate chang
   - a well defined whitelist/narrow-only superintelligence approach
   - tools-not-agents focus/requirement
   - a CIA/NSA ASI primacy assertion, to ward off an arms race
-    - in fact, Dario Amodei and IIRC Sam Altman do refute the statist outcome as being not good in outcome, but they don't go into detail nor explain how the improbability of CIA/NSA not gaining ASI capability, or how the power shift could work smoothly if they did not.
+    - in fact, Dario Amodei and IIRC Sam Altman do refute the statist scenario as being not good in outcome, but they don't go into detail about this, or why it's better than an ASI arms race with control yet to be solved, nor explain how the improbability of CIA/NSA not gaining ASI capability, or how the power shift could work smoothly if they did not.
 
 ### Subsequent work
 - Most of the initial arguments including monitoring of GPUs were raised by Sam Altman in his subsequent Senate hearing in May and at some point Sam Altman raised the energy monitoring point also. These proposals are simple enough that they were almost certainly developed by him and/or OpenAI independently.
