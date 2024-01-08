@@ -34,7 +34,7 @@
 - *One Mind* Doctrine of Zen
 - Panpsychism
 - Russellian monism
-- Schrodinger - Mind and Matter talks about the evolved nature of consciousness
+- Schrodinger - Mind and Matter talks about the evolved nature of conscious experience
 - Cosmopsychism
 - David Chalmers' distinction between microphenomenal experiences and macrophenomenal experiences
 - Please contact me with any other prior work, particularly relating to:
