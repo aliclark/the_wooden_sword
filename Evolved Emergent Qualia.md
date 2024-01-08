@@ -16,7 +16,7 @@
 - I predict that by looking at a diverse range of minimal living candidates with a hint of qualia and then comparing with their simpler evolutionary predecessor showing no hint, we may gain an understanding as to the maximum requirements of qualia (however, it may still be difficult to attribute to a less than carbon-biological origin, of simply chemistry or physics).
   - I would not entirely rule out that non-obvious/secondary effects are important in the implementation for qualia to emerge, such as interactions of magnetic fields that are produced during neuron electrical activity, and/or seemingly negligible quantum behaviours
   - An interested human may explore these possibilities themselves using magnets and particles to bombard their own brain, observing the effects, or absence of effects, on their own qualia
-  - I expect the speed of our qualia processing suggests the effects might be created at very small locations in a brain at any given time, or require electromagnetism to be operational
+  - I expect the speed of our qualia processing suggests the effects might be created at very small locations in a brain at any given time, and/or require electromagnetism to be operational
 - I predict that fly catchers and smaller worms (but not larger worms?) are examples of biology which has not evolved emergent qualia.
   - In lieu of proof about qualia in other species, I think a good guide is whether humans have been keeping that species as a pet. If so, our intuition is telling us that they also have qualia.
 - I predict that a designed object is extremely unlikely to exhibit a meaningful qualia by accident, unless it is grown biologically like Dolly the sheep.
