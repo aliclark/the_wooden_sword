@@ -1,6 +1,11 @@
 # AI Good News, Bad News
 
-(Edit: I now believe the primary control measures should be: a) ensure super-intelligence is narrowly white-listed, such as "super-intelligent prediction of the weather", or "super-safe driving", b) ban AI from contributing in any risk areas, such as "being able to help create pathogens", except by restricted grants of licences, c) ban AI which is in the form of agents as opposed to simple tools, d) monitoring, transparency, and treaty, as described below, e) the NSA and CIA should consider letting it be known that other agencies should not attempt a race-to-the-bottom against them for power, as it will be remembered later)
+Edit: I now believe the primary control measures should be:
+- ensure super-intelligence is narrowly white-listed, such as "super-intelligent prediction of the weather", or "super-safe driving"
+- ban AI from contributing in any risk areas, such as "being able to help create pathogens", except by restricted grants of licences
+- ban AI which is in the form of agents as opposed to simple tools, except in permitted cases
+- monitoring, transparency, and treaty, as described below
+- the NSA and CIA should consider letting it be known that other agencies should not attempt a race-to-the-bottom against them for power, as it will be remembered unfavourably later
 
 - - -
 
