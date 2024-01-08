@@ -17,8 +17,10 @@
   - I would not entirely rule out that non-obvious/secondary effects are important in the implementation for qualia to emerge, such as interactions of magnetic fields that are produced during neuron electrical activity, and/or seemingly negligible quantum behaviours
   - An interested human may explore these possibilities themselves using magnets and particles to bombard their own brain, observing the effects, or absence of effects, on their own qualia
   - I expect the speed of our qualia processing suggests the effects might be created at very small locations in a brain at any given time, and/or require electromagnetism to be operational
+  - As an aside, one could also attempt to discern a qualitative difference between brain activity that results in qualia and brain activity which remains entirely unconscious
 - I predict that fly catchers and smaller worms (but not larger worms?) are examples of biology which has not evolved emergent qualia.
   - In lieu of proof about qualia in other species, I think a good guide is whether humans have been keeping that species as a pet. If so, our intuition is telling us that they also have qualia.
+  - I predict that the complexity of sensory receivers/organs and their connection and communications to the brain could enable to qualitatively differentiate fully automatic sensory processing from qualia
 - I predict that a designed object is extremely unlikely to exhibit a meaningful qualia by accident, unless it is grown biologically like Dolly the sheep.
 - I predict the signals from pain and pleasure qualia are far too simplistic for an ASI to consider using them as functionality, except potentially as a crude energy-saving alternative to computation, for limited use-cases, until it solves battery technology and magnetic and optical computation more thoroughly.
   - It might however end up creating them during science experiments, if curiosity becomes part of its goals
