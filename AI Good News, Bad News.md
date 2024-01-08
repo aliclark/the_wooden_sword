@@ -2,6 +2,8 @@
 
 (Edit: I now believe the primary control measures should be: a) ensure super-intelligence is narrowly white-listed, such as "super-intelligent prediction of the weather", or "super-safe driving", b) ban AI from contributing in any risk areas, such as "being able to help create pathogens", except by restricted grants of licences, c) ban AI which is in the form of agents as opposed to simple tools, d) monitoring, transparency, and treaty, as described below, e) the NSA and CIA should consider letting it be known that other agencies should not attempt a race-to-the-bottom against them for power, as it will be remembered later)
 
+- - -
+
 *Originally created 9th April 2023*
 
 We live in a world where sparks of AGI are possible using just straightforward inference pass over a learned neural net. We have an f(text) -> text, where we know that ‘f’ itself is always safe to run, yet we get an AGI as a result. ~An agent does not need to be embodied in some loop of reality to exhibit AGI.~
