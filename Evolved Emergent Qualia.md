@@ -33,6 +33,7 @@
 - Yogachara
 - *One Mind* Doctrine of Zen
 - Panpsychism
+- Darwin - Evolutionary theory
 - Russellian monism
 - Schrodinger - Mind and Matter talks about the evolved nature of conscious experience
 - Cosmopsychism
