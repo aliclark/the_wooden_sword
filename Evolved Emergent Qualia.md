@@ -26,7 +26,7 @@
 - I predict that a designed object is extremely unlikely to exhibit a meaningful qualia by accident, unless it is grown biologically like Dolly the sheep.
 - I predict the signals from pain and pleasure qualia are far too simplistic for an ASI to consider using them as functionality, except potentially as a crude energy-saving alternative to computation, for limited use-cases, until it solves battery technology and magnetic and optical computation more thoroughly.
   - It might however end up creating them during science experiments, if curiosity becomes part of its goals
-- I predict that qualia will arise from physical explanations which are more continuous than discrete in nature, correlating closely and affirming our intuition of our consciousness being continuous, rather than made up of discrete micro-experiences or computations.
+- I predict that qualia will arise from physical explanations which are more continuous than discrete in nature, correlating closely and affirming our intuition of our consciousness being continuous, rather than it being made up of discrete micro-experiences or computations.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
