@@ -16,7 +16,7 @@ Happily, since it is unconstrained around the Existing, it gives plenty of room 
 
 The argument is that Actuality is explained in the more basic fact of non non-Actuality. A statement of Actuality as fact by itself is unsatisfactory, because it doesn't appropriately answer the question of Why. But "non-Nothing" can be seen as correct not just in experience but also in being able to follow the absence of a contradictory How (ie. the thesis could be disproved simply by presenting an existent Nothing, but logically this cannot and will not occur). So the clarified exposition gives Actuality and also the foundational understanding of Why there is Actuality - which is rooted in the non-existence of Nothing, owing to its definitional impossibility.
 
-Although I have talked of non-Nothing, and non non-Actuality as though they may be causes of Actuality, since these have no basis anywhere the truth is they are only descriptive of the absence of alternatives to Actuality, therefore it can be said that Actuality is Causeless, and it must be asserted that this is in fact a possible, necessary even, attribute for a root axiom.
+Although I have talked of non-Nothing, and non non-Actuality as though they may be causes of Actuality, since these have no basis anywhere the truth is they are only descriptive of the absence of alternatives to Actuality, therefore it can be said that Actuality is Causeless, and it must be asserted that this is in fact a possible, necessary even, attribute for a root axiom. (One may even further decide to ascribe to the theory that there isn't *anything* that is the effect of a cause, that instead the full universe simply is Actualized at once, including travel along its time dimension)
 
 ## Discussion
 
