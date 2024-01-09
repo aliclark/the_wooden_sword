@@ -20,7 +20,7 @@ There has never been Nothing, never will be Nothing, never could be Nothing. If 
 
 Although I have talked of non-Nothing, and non non-Actuality as though they may be causes of Actuality, since these have no basis anywhere the truth is they are only descriptive of the absence of alternatives to Actuality, therefore it can be said that Actuality is Causeless, and it must be asserted that this is in fact a possible, necessary even, attribute for a root axiom.
 
-One may even further decide to ascribe to the theory that there isn't *anything* that is the effect of a cause, that instead the full universe simply is Actualized at once, including travel along its time dimension. One may say that the Buddha's and Aristotle's treatments of Causality were successful theories in Natural Science up to a point (and that point is the discovery of Thermodynamic Time by Sadi Carnot in 1824), but that they do not have applicability in the realm of Metaphysics.
+One may even further decide to ascribe to the theory that there isn't *anything* that is the effect of a cause, that instead the full universe simply is Actualized at once, including travel along its time dimension. One may say that the Buddha's and Aristotle's treatments of Causality were successful theories in Natural Science up to a point (and that point is the discovery and applications of Thermodynamic Time by Sadi Carnot in 1824), but that they do not have applicability in the realm of Metaphysics.
 
 ## Discussion
 
