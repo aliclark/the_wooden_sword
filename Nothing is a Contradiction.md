@@ -36,4 +36,5 @@ Investigation into more ontological contradictions, and constraints on that whic
 
 ### Known prior work
 - The theory is simple enough that I assume this to exist and therefore do not assume this to be a novel theory, unless a well-versed expert can reassure otherwise.
+- Some philosphy has argued that asking of Nothing is meaningless, but more from he angle that a "Nothing" would require a Truth to assert it, and that Truth would contradict it, hence there is no Nothing. I don't believe this is quite the same as arguing that Nothing by its own definition is impossible to exist, and I don't think the other formulation is as helpful a foundation. For one thing, it sort of replaces Actuality as the primary axiom with some concept "Truth", which is not in the least bit helpful. But saying Non-Actuality has no Actuality is not relying on any concept of truth, it merely relays the definition.
 - Please contact me by Discussions (link above), Issues or Pull Request
