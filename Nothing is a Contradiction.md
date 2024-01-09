@@ -16,6 +16,8 @@ Happily, since it is unconstrained around the Existing, it gives plenty of room 
 
 The argument is that Actuality is explained in the more basic fact of non non-Actuality. A statement of Actuality as fact by itself is unsatisfactory, because it doesn't appropriately answer the question of Why. But "non-Nothing" can be seen as correct not just in experience but also in being able to follow the absence of a contradictory How (ie. the thesis could be disproved simply by presenting an existent Nothing, but logically this cannot and will not occur). So the clarified exposition gives Actuality and also the foundational understanding of Why there is Actuality - which is rooted in the non-existence of Nothing, owing to its definitional impossibility.
 
+Although I have talked of non-Nothing, and non non-Actuality as though they may be causes of Actuality, the truth is they are only descriptive of the absence of alternatives to Actuality, therefore it can be said that Actuality Causeless, and it must be asserted that this is in fact a possible, necessary even, attribute for a root axiom.
+
 ## Discussion
 
 This philosophical argument aims to serve as part of a map, but a map is not the territory. The Buddha's Eightfold Path and Mindfulness and Descartes's "I think, therefore I am" are (perhaps) better tools for understanding the territory, the experience of existing.
