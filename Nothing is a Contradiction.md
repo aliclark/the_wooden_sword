@@ -39,7 +39,7 @@ Investigation into more ontological contradictions, and constraints on that whic
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
-- The theory is simple enough that I assume this to exist and therefore do not assume this to be a novel theory, unless a well-versed expert can reassure otherwise.
+- The theory is simple enough that I assume this to exist and therefore do not assume this to be a novel theory, unless a well-versed expert can reassure otherwise. Perhaps if the theory is pre-existing then the purpose of this work is to argue others over to the meager "cause".
 - Thank you to Robert Lawrence Kuhn for the TV Series *Closer to Truth*, which gave a very good overview and introduction to the topic.
 - Some philosphy has argued that asking of Nothing is meaningless, but more from the angle that a "Nothing" would require a Truth to assert it, and that presence of Truth would contradict there being Nothing, hence there is not Nothing. I don't believe this is quite the same as arguing that Nothing by its own definition is impossible to exist, and I don't think the other formulation is as helpful a foundation. For one thing, it sort of replaces Actuality as the primary axiom with some concept "Truth", which is not in the least bit helpful. But saying Non-Actuality has no Actuality is not relying on any concept of truth, it merely relays the definition and leaves Actuality as the only viability, hence the question is answered: it could not have been otherwise.
 - Please contact me by Discussions (link above), Issues or Pull Request
