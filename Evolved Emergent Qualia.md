@@ -27,7 +27,7 @@
 - I predict the signals from pain and pleasure qualia are far too simplistic for an ASI to consider using them as functionality, except potentially as a crude energy-saving alternative to computation, for limited use-cases, until it solves battery technology and magnetic and optical computation more thoroughly.
   - It might however end up creating them during science experiments, if curiosity becomes part of its goals
 - I predict that qualia will arise from physical explanations which are more continuous than discrete in nature, correlating closely and affirming rather than refuting our intuition of our consciousness being continuous, rather than it being made up of discrete micro-experiences or computations.
-  - To use the analogy of a car engine, the key point is that the piston is always in motion, rather than focus solely on the ignitions. The ignitions are of course important, as they shape the movement and keep it in motion, but it is the continual motion of the piston that actually results in the rotation of the axle.
+  - To use the analogy of a car engine, the key point is that the piston connecting rod is always in motion, rather than focus solely on the ignitions. The ignitions are of course important, as they shape the movement and keep it in motion, but it is the continual motion of the piston connecting rod that actually results in the rotation of the crankshaft.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
