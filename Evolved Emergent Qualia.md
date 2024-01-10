@@ -46,5 +46,7 @@
 - My view on IIT is that I can readily believe that all conscious systems will pass the definition, but not that all systems passing the IIT definition will be conscious. Moreover, despite being nearly impossible to refute experimentally, I think some parts of the brain and nervous system in the neck-down body would pass the definitions of IIT while not themselves giving rise to (commensurate?) consciousness. Physics is form which *can* be described informationally, but consciousness (experience) is Physics, not merely information.
   - Not even that, but the Physics that is continuous - fields, more than the Physics that is discrete - particles. It is related to the fact that existence itself is unfalteringly continuous.
 - Please contact me with any other prior work, particularly relating to:
-  - the philosophical theory that protophenomena is not a property, bu instead existence is inherently protophenomenal in nature
+  - the philosophical theory that protophenomena is not a property, but instead existence is inherently protophenomenal in nature
+    - Donald Hoffman theorises that Physics is a niche of consciousness, and but I don't yet ascribe to it being this way around.
+    - Penrose is quite close to this, saying conscious experience and physical existence is a special instance of quantum mechanics, and while there is a level of indirection here, I think it is quite a plausible theory along these lines.
   - scientific predictions and experiments around the biological structure resulting from qualia as an evolved phenomena
