@@ -42,6 +42,7 @@
 - Schrodinger - Mind and Matter talks about the fact of an evolved arrangement leading to conscious experience
 - Cosmopsychism
 - Thank you to Max Tegmark for the book *Life 3.0*, which gave a very good overview and introduction to the topic, including excellent discussion of using science to tackle consciousness by looking at physical qualities.
+- My view on IIT is that I can readily believe that all conscious systems will pass the definition, but not that all systems passing the IIT definition will be conscious. Moreover, despite being nearly impossible to refute experimentally, I think some parts of the brain and nervous system in the neck-down body would pass the definitions of IIT while not themselves giving rise to (commensurate?) consciousness.
 - Please contact me with any other prior work, particularly relating to:
   - the philosophical theory that protophenomena is not a property, bu instead existence is inherently protophenomenal in nature
   - scientific predictions and experiments around the biological structure resulting from qualia as an evolved phenomena
