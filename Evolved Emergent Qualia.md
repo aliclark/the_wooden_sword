@@ -49,4 +49,4 @@
   - the philosophical theory that protophenomena is not a property, but instead existence is inherently protophenomenal in nature
     - Donald Hoffman theorises that Physics is a niche of consciousness, and but I don't yet ascribe to it being this way around.
     - Penrose is quite close to this, saying conscious experience and physical existence is a special instance of quantum mechanics, and while there is a level of indirection here, I think it is quite a plausible theory along these lines.
-  - scientific predictions and experiments around the biological structure resulting from qualia as an evolved phenomena
+  - scientific predictions and experiments around the biological structure resulting from qualia as an evolved phenomena - using evolution as the lead clue in the investigation.
