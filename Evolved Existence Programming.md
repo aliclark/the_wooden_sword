@@ -37,7 +37,7 @@ I think this theory validates the spiritual and religious teachings about cultiv
 ### Known prior work
 - Anaximander - Theory of evolution
 - The Buddha - Feelings and suffering
+- René Descartes - Mind-Body problem
 - Darwin and Wallace - Scientific Evolutionary theory
 - William James - consciousness as an evolved trait for survival
-- Thomas Nagel - argues that explanation would involve the metaphysical, not purely physical. This theory fulfils that criteria by inter-weaving the metaphysical with the physical
 - Please contact me by Discussions (link above), Issues or Pull Request
