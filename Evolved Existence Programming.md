@@ -18,7 +18,7 @@ I predict there is an information flow that passes from raw biology (input nerve
 
 The information processing which occurs in conscious experience is predicted to be performing some function more cheaply than could biology, else evolution would not have made the effort to use this method.
 
-It seems intuitive for me that this function is an information storage and retrieval system, but that's just a guess. If so, there would be follow on predictions based on what species would be most in need of an efficient information storage and retrieval system. I think this could possibly still explain the richness of experience such as pain, because it was preferable for evolution to store the information that way. Less rich experience of pain might lead to less useful output signals to our body, to avoid the pain.
+It seems intuitive for me that this function is an information storage and retrieval system, but that's just a guess. If so, there would be follow on predictions based on what species would be most in need of an efficient information storage and retrieval system. I think this could possibly still explain the richness of experience such as pain, because it was preferable for evolution to store the information that way. Less rich experience of pain might lead to less useful output signals to our body, to avoid the pain. The organism that didn't feel pain with the right amount of richness did not survive as well as the one that did, was less incentivised to compute their survival with efficiency.
 
 ## Discussion
 
