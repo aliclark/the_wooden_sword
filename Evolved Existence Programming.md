@@ -22,7 +22,7 @@ The information processing which occurs in conscious experience is predicted to 
 
 It seems intuitive for me that this function is an information storage and retrieval system (ie. storage of what is currently relevant information), but that's just a guess. If so, there would be follow-on predictions based on what species would be most in need of an efficient information storage and retrieval system based on their environment and competitive landscape.
 
-According to this theory, a successful investigation of the programming method should reveal a better understanding as to what the nature of existence is. There will be a correlation between the biological and physical structures & functioning, and the variation in the qualia existence when moving up the color spectrum, or along sound frequencies. So looking at the physical aspect would give clues to the metaphysical aspect.
+According to this theory, a successful investigation of the programming method should reveal a better understanding as to what the nature of existence is. There will be a correlation between the biological and physical structures & functioning, and the variation in the qualia existence when moving up the color spectrum, or along sound frequencies, or along feeling intensity. So looking at the physical aspect would give clues to the metaphysical aspect.
 
 ## Discussion
 
