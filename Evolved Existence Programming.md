@@ -38,4 +38,5 @@ I think this theory validates the spiritual and religious teachings about cultiv
 - Anaximander - Theory of evolution
 - The Buddha - Feelings and suffering
 - Darwin and Wallace - Scientific Evolutionary theory
+- William James - consciousness as an evolved trait for survival
 - Please contact me by Discussions (link above), Issues or Pull Request
