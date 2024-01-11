@@ -36,7 +36,7 @@ I think this theory validates the spiritual and religious teachings about cultiv
 
 What is the nature of the substrate on which both our Physical world and Conscious world is based?
 
-How easy is it for one conscious experience on the shared substrate of existence to have influence on another, and vice versa? Impossible? In a way that only the most intuitive could discern? Directly?
+How easy is it for one conscious experience on the shared substrate of existence to have influence on another, and vice versa? Impossible? In a way that only the most intuitive could discern? Directly? ie. Can mind-reading of any form be repeatedly experimentally validated?
 
 How closely does it correlate to the Buddha's map of the cosmos or Yogic and other spiritualist or religious perspectives?
 
