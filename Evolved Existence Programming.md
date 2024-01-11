@@ -22,6 +22,5 @@ I think this theory validates the spiritual and religious teachings about cultiv
 
 ### Known prior work
 - Anaximander - Theory of evolution
-- *One Mind* Doctrine of Zen
 - Darwin and Wallace - Scientific Evolutionary theory
 - Please contact me by Discussions (link above), Issues or Pull Request
