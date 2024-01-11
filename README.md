@@ -3,7 +3,7 @@
 [Evolved Existence Programming](Evolved%20Existence%20Programming.md) - a theory on the hard problem of consciousness - Metaphysics and Biology
 <br>*Originally created 11th January 2024*
 
-[Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - thoughts and scientific predictions about the phenomena of Qualia - Metaphysics and Biology
+[Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - scientific predictions on the easy problem of consciousness - Biology
 <br>*Originally created 5th January 2024*
 
 [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md) - a philosophical theory of Actuality - Ontology, Metaphysics
