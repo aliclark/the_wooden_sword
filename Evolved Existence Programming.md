@@ -22,6 +22,8 @@ The information processing which occurs in conscious experience is predicted to 
 
 It seems intuitive for me that this function is an information storage and retrieval system (ie. storage of what is currently relevant information), but that's just a guess. If so, there would be follow-on predictions based on what species would be most in need of an efficient information storage and retrieval system.
 
+According to this theory, a successful investigation of the programming method will also reveal a better understanding as to what the nature of ontological existence is.
+
 ## Discussion
 
 We should be somewhat wary of any biological or physical work that is substantially similar to what biology has evolved. ie. if you create Dolly the Sheep or a brain in a vat and get it wrong, you have literally created an unknowable hell.
