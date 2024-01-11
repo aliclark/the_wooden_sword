@@ -12,6 +12,8 @@ In doing so, the thing computed was also *very cheaply* brought into existence: 
 
 This is why our conscious experience feels very large - it costs almost nothing to create and operate, and larger is more helpful for survival.
 
+I think that pain qualia is a straightforward feeling (like how red is just another colour on the spectrum alongside blue), that the organism is predisposed to react in certain ways to, and for a larger organism which develops more substantial thought of an individual self, it develops feelings of upset to trigger additional pain avoidance.
+
 ## Predictions
 
 I predict there is an information flow that passes from raw biology (input nerve signals and neural computations) then to conscious existence then to biology (neural computations and output signals).
@@ -19,8 +21,6 @@ I predict there is an information flow that passes from raw biology (input nerve
 The information processing which occurs in conscious experience is predicted to be performing some function more cheaply than could biology, else evolution would not have made the effort to use this method.
 
 It seems intuitive for me that this function is an information storage and retrieval system, but that's just a guess. If so, there would be follow on predictions based on what species would be most in need of an efficient information storage and retrieval system.
-
-I think that pain qualia is a straightforward feeling (like how red is just another colour on the spectrum alongside blue), that the organism is predisposed to react in certain ways to, and for a larger organism which develops more substantial thought of an individual self, it develops feelings of upset to trigger additional pain avoidance.
 
 ## Discussion
 
