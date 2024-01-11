@@ -14,7 +14,7 @@ This is why our conscious experience feels very large - it costs almost nothing 
 
 ## Predictions
 
-I predic there is an information flow that passes from raw biology (input nerve signals and neural computations) then to conscious existence then to biology (neural computations and output signals).
+I predict there is an information flow that passes from raw biology (input nerve signals and neural computations) then to conscious existence then to biology (neural computations and output signals).
 
 The information processing which occurs in conscious experience is predicted to be performing some function more cheaply than could biology, else evolution would not have made the effort to use this method.
 
