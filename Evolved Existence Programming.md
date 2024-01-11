@@ -38,6 +38,8 @@ What is the nature of the substrate on which both our Physical world and Conscio
 
 How easy is it for one conscious experience on the shared substrate of existence to have influence on another, and vice versa? Impossible? In a way that only the most intuitive could discern? Directly?
 
+How closely does it correlate to the Buddha's map of the cosmos?
+
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
