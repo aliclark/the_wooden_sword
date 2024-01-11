@@ -1,6 +1,6 @@
 # Topics
 
-[Evolved Existence Programming](Evolved%20Existence%20Programming.md) - a theory of Qualia - Metaphysics and Biology
+[Evolved Existence Programming](Evolved%20Existence%20Programming.md) - a theory on the hard problem of consciousness - Metaphysics and Biology
 <br>*Originally created 11th January 2024*
 
 [Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - thoughts and scientific predictions about the phenomena of Qualia - Metaphysics and Biology
