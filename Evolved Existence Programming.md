@@ -12,6 +12,12 @@ In doing so, the thing computed was also *very cheaply* brought into existence: 
 
 This is why our conscious experience feels very large - it costs almost nothing to create and operate, and larger is more helpful for survival.
 
+## Predictions
+
+I predic there is an information flow that passes from raw biology (input nerve signals and neural computations) then to conscious existence then to biology (neural computations and output signals).
+
+The information processing which occurs in conscious experience is predicted to be performing some function more cheaply than could biology, else evolution would not have made the effort to use this method.
+
 ## Discussion
 
 We should be somewhat wary of any biological or physical work that is substantially similar to what biology has evolved. ie. if you create Dolly the Sheep or a brain in a vat and get it wrong, you have literally created an unknowable hell.
