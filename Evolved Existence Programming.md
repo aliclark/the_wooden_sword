@@ -10,7 +10,7 @@ The trick that evolution pulled off was to learn how to tweak informational exis
 
 In doing so, the information being processed was also *very cheaply* brought into existence: our conscious experience.
 
-This is why our conscious experience feels very large - it costs almost nothing to create and operate, and larger is more helpful for survival.
+This is why our conscious experience feels very large - it costs almost nothing to create and operate, and larger is more helpful for survival. And existence has a timeless quality which makes consciousness feel timeless.
 
 I also think that pain qualia is a straightforward feeling (like how red is just another colour on the spectrum alongside blue), that small organisms are predisposed to react in certain ways to, and to which larger organisms (which develop more substantial thought of an individual self) additionally develop feelings of upset for additional pain avoidance.
 
