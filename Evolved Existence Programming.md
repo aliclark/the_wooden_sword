@@ -8,7 +8,7 @@ In the course of evolution, a much more efficient method of computation was deve
 
 The trick that evolution pulled off was to learn how to tweak informational existence, in the manner that an advanced programmer might edit the text on their computer [using a magnet and a steady hand](https://xkcd.com/378/).
 
-In doing so, the thing computed was also *very cheaply* brought into existence: our conscious experience.
+In doing so, the information being processed was also *very cheaply* brought into existence: our conscious experience.
 
 This is why our conscious experience feels very large - it costs almost nothing to create and operate, and larger is more helpful for survival.
 
