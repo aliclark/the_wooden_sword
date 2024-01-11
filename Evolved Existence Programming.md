@@ -43,6 +43,7 @@ How easy is it for one conscious experience on the shared substrate of existence
 ### Known prior work
 - Anaximander - Theory of evolution
 - The Buddha - Feelings and suffering
+- *One Mind* Doctrine of Zen
 - René Descartes - Mind-Body problem
 - Darwin and Wallace - Scientific Evolutionary theory
 - William James - consciousness as an evolved trait for survival
