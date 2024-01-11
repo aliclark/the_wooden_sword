@@ -16,6 +16,8 @@ We should be somewhat wary of any biological or physical work that is substantia
 
 We should be careful of this computational power being used for malicious intent.
 
+I think this theory validates the spiritual and religious teachings about cultivation of one's mind.
+
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
