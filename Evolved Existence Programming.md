@@ -18,7 +18,7 @@ I predic there is an information flow that passes from raw biology (input nerve 
 
 The information processing which occurs in conscious experience is predicted to be performing some function more cheaply than could biology, else evolution would not have made the effort to use this method.
 
-It seems intuitive for me that this function is an information storage and retrieval system, but that's just a guess. If so, there would be follow on predictions based on what species would be most in need of an efficient information storage ans retrieval system.
+It seems intuitive for me that this function is an information storage and retrieval system, but that's just a guess. If so, there would be follow on predictions based on what species would be most in need of an efficient information storage and retrieval system.
 
 ## Discussion
 
