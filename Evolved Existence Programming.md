@@ -32,6 +32,12 @@ We should be careful of this computational power being used for malicious intent
 
 I think this theory validates the spiritual and religious teachings about cultivation of one's mind.
 
+## Further work
+
+What is the nature of the substrate on which both our Physical world and Conscious world is based?
+
+How easy is it for one conscious experience on the shared substrate of existence to have influence on another, and vice versa? Impossible? In a way that only the most intuitive could discern? Directly?
+
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
