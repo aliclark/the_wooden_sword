@@ -2,6 +2,8 @@
 
 *Originally created 11th January 2024*
 
+## Theory
+
 In the course of evolution, a much more efficient method of computation was developed so that living organisms could survive better using less energy.
 
 The trick that evolution pulled off was to learn how to tweak informational existence, in the manner that an advanced programmer might edit the text on their computer using a magnet and a steady hand.
