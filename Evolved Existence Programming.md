@@ -39,4 +39,5 @@ I think this theory validates the spiritual and religious teachings about cultiv
 - The Buddha - Feelings and suffering
 - Darwin and Wallace - Scientific Evolutionary theory
 - William James - consciousness as an evolved trait for survival
+- Thomas Nagel - argues that explanation would involve the metaphysical, not purely physical
 - Please contact me by Discussions (link above), Issues or Pull Request
