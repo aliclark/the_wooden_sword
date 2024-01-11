@@ -20,7 +20,7 @@ The information processing which occurs in conscious experience is predicted to 
 
 It seems intuitive for me that this function is an information storage and retrieval system, but that's just a guess. If so, there would be follow on predictions based on what species would be most in need of an efficient information storage and retrieval system.
 
-I'm unsure, but I think I take the view of pain qualia more as a straightforward feeling (like how red is just another colour on the spectrum alongaide blue), not necessarily feeling "good" or "bad" to the organism, until the organism develops more substantial thought of an individual self and then has feelings of upset to trigger additional pain avoidance?
+I'm unsure, but I think I take the view of pain qualia more as a straightforward feeling (like how red is just another colour on the spectrum alongside blue), not necessarily feeling "good" or "bad" to the organism, until the organism develops more substantial thought of an individual self, and then develops feelings of upset to trigger additional pain avoidance?
 
 ## Discussion
 
