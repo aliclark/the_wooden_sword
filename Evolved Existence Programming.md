@@ -47,7 +47,7 @@ How closely does it correlate to the Buddha's map of the cosmos or Yogic and oth
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
-- Upanishads - consciousness as analagous to sound in existence (ōm)
+- Upanishads - consciousness as analagous to sound (ōm)
 - Anaximander - Theory of evolution
 - The Buddha - Feelings and suffering, Buddhist cosmology
 - *One Mind* Doctrine of Zen
