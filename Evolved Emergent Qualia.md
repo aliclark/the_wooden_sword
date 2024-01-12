@@ -48,6 +48,7 @@
 - *One Mind* Doctrine of Zen
 - Panpsychism
 - Darwin and Wallace - Scientific Evolutionary theory
+- William James - consciousness as an evolved and pragmatic trait for survival
 - Russellian monism
 - Schrodinger - Mind and Matter talks about the fact of an evolved arrangement leading to conscious experience
 - Cosmopsychism
