@@ -20,6 +20,8 @@ If consciousness is an information storage and retrieval system, there would be 
 
 According to this theory, a successful investigation of the programming method should reveal a better understanding as to what the nature of existence is. There will be a correlation between the biological and physical structures & functioning, and the variation in the qualia existence when moving up the color spectrum, or along sound frequencies, or along feeling intensity. So looking at the physical aspect would give clues to the metaphysical (formless) aspect.
 
+If one swaps out even just one neuron with a replacement neuron that did not implement all of the requisite Physics behaviour, conscious experience could be disrupted or altered. But replacing the original neuron back the way it had been should be ok. To a great extent the hard problem gets much smaller from fully resolving the "easier parts" of the problem.
+
 ## Discussion
 
 I think this might explain why our conscious experience feels very large - it costs almost nothing to create and operate, and larger is more helpful for survival. And existence has a timeless quality which makes consciousness feel timeless (when accurately synchronized with biology).
