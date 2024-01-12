@@ -28,7 +28,7 @@ I think it's plausible that pain qualia is a straightforward feeling (like how r
 
 It seems intuitive for me that the function which consciousness is used for is an information storage and retrieval system (ie. storage of what is currently relevant information). I speculate that it might also be echo-based, whereby the medium being transmitted into has some reflective property, such that at each time `t` a reflectance is received that contains information which was emitted at time `t-1`, and at each time `t` a new signal is emitted (or continuously "hummed"). Such a system would make the most sense if it was very efficient to drop parts of the received signal and add in new parts when creating a fresh emission.
 
-Although a sketch is given above in discrete terms, I only do so for explanatory purposes. The actual nature could be much more substantial and even contain mechanics which allow for formless beings in this vibrational calculus. It is unclear to what extent one person's mind cosmology corresponds to another's. They may for all intents and purposes be 100% separate for all beings (while of course being connected significantly via the shared factor of Physics, both in being and in flows of information). They may have some potential to subtly bleed into or cross over with one another, or they may be one and the same.
+Although a sketch is given above in discrete terms, I only do so for explanatory purposes. The actual nature could be much more substantial and even contain mechanics which allow for formless beings in this vibrational calculus. It is unclear to what extent one person's mind cosmology corresponds to another's. They may for all intents and purposes be 100% separate for all beings (while of course being connected significantly via the shared factor of Physics, both in being and in flows of information). They may have some potential to subtly bleed into or cross over with one another, or they may be one and the same. One might almost define Spiritual practice as the course of becoming "at one" with any ambiguity here.
 
 We should be somewhat wary of any biological or physical work that is substantially similar to what biology has evolved. ie. if you create Dolly the Sheep or a brain in a vat and get it wrong, you have literally created an unknowable hell.
 
@@ -40,7 +40,7 @@ I think this theory validates the spiritual and religious teachings about cultiv
 
 What is the nature of the substrate on which both our Physical world and Conscious world is based?
 
-How easy is it for one conscious experience on the shared substrate of existence to have influence on another, and vice versa? Impossible? In a way that only the most intuitive could discern? Directly? ie. Can mind-reading of any form be repeatedly experimentally validated? For instance by putting Yogis with ear defenders on the opposite side of a thin divider from other Yogis and control subjects. One might almost define Spiritual practice as the course of becoming "at one" with any ambiguity therein.
+How easy is it for one conscious experience on the shared substrate of existence to have influence on another, and vice versa? Impossible? In a way that only the most intuitive could discern? Directly? ie. Can mind-reading of any form be repeatedly experimentally validated? For instance by putting Yogis with ear defenders on the opposite side of a thin divider from other Yogis and control subjects.
 
 How closely does it correlate to the Buddha's map of the cosmos or Yogic and other spiritualist or religious perspectives?
 
