@@ -36,6 +36,8 @@ We should be careful of this computational power being used for malicious intent
 
 I think this theory validates the spiritual and religious teachings about cultivation of one's mind.
 
+The Buddha believed, that philosophy based on wholeness of consciousness and mind were less helpful an understanding than the dhamma that he taught, likely this was due to it being harder to "unlearn" the concepts after they had served their purpose than it would be when using his dhamma.
+
 ## Further work
 
 What is the nature of the substrate on which both our Physical world and Conscious world is based?
