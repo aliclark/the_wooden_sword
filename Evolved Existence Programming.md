@@ -65,7 +65,7 @@ How closely does it correlate to the Buddha's map of the cosmos or Yogic and oth
 - Anaximander - Theory of evolution
 - The Buddha - Feelings and suffering, Buddhist cosmology
 - *One Mind* Doctrine of Zen
-- René Descartes - Mind-Body problem
+- René Descartes - Mind-Body problem and Mind-body dualism
 - Darwin and Wallace - Scientific Evolutionary theory
 - William James - consciousness as an evolved and pragmatic trait for survival
 - Multiple realizability
