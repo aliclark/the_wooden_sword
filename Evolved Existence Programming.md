@@ -14,7 +14,7 @@ This is why our conscious experience feels very large - it costs almost nothing 
 
 I also think that pain qualia is a straightforward feeling (like how red is just another colour on the spectrum alongside blue), that small organisms are predisposed to react in certain ways to, and to which larger organisms (which develop more substantial thought of an individual self) additionally develop feelings of upset for additional pain avoidance.
 
-It seems intuitive for me that this function is an information storage and retrieval system (ie. storage of what is currently relevant information). Perhaps it is echo-based, whereby the medium being transmitted into has some reflective property, such that at each time `t` a reflectance is received that contains information which was emitted at time `t-1`, and at each time `t` a new signal is emitted (or continuously "hummed").
+It seems intuitive for me that this function is an information storage and retrieval system (ie. storage of what is currently relevant information). Perhaps it is echo-based, whereby the medium being transmitted into has some reflective property, such that at each time `t` a reflectance is received that contains information which was emitted at time `t-1`, and at each time `t` a new signal is emitted (or continuously "hummed"). Such a system would make the most sense if it was very efficient to drop parts of the received signal and add in new parts when creating a fresh emission.
 
 ## Predictions
 
