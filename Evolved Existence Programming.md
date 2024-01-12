@@ -56,4 +56,5 @@ How closely does it correlate to the Buddha's map of the cosmos or Yogic and oth
 - René Descartes - Mind-Body problem
 - Darwin and Wallace - Scientific Evolutionary theory
 - William James - consciousness as an evolved and pragmatic trait for survival
+- Delay-line memory
 - Please contact me by Discussions (link above), Issues or Pull Request
