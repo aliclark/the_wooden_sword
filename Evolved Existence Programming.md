@@ -45,6 +45,7 @@ How closely does it correlate to the Buddha's map of the cosmos or Yogic and oth
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
+- Upanishads - consciousness as a kind of sound (ōm)
 - Anaximander - Theory of evolution
 - The Buddha - Feelings and suffering
 - *One Mind* Doctrine of Zen
