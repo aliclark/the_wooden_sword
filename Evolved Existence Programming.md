@@ -10,12 +10,6 @@ The trick that evolution pulled off was to learn how to tweak informational exis
 
 In doing so, the information being processed was also *very cheaply* brought into existence: our conscious experience.
 
-This is why our conscious experience feels very large - it costs almost nothing to create and operate, and larger is more helpful for survival. And existence has a timeless quality which makes consciousness feel timeless.
-
-I also think that pain qualia is a straightforward feeling (like how red is just another colour on the spectrum alongside blue), that small organisms are predisposed to react in certain ways to, and to which larger organisms (which develop more substantial thought of an individual self) additionally develop feelings of upset for additional pain avoidance.
-
-It seems intuitive for me that this function is an information storage and retrieval system (ie. storage of what is currently relevant information). Perhaps it is echo-based, whereby the medium being transmitted into has some reflective property, such that at each time `t` a reflectance is received that contains information which was emitted at time `t-1`, and at each time `t` a new signal is emitted (or continuously "hummed"). Such a system would make the most sense if it was very efficient to drop parts of the received signal and add in new parts when creating a fresh emission.
-
 ## Predictions
 
 I predict there is an information flow that passes from raw biology (input nerve signals and neural computations) then to conscious existence then to biology (neural computations and output signals).
@@ -27,6 +21,12 @@ If consciousness is an information storage and retrieval system, there would be 
 According to this theory, a successful investigation of the programming method should reveal a better understanding as to what the nature of existence is. There will be a correlation between the biological and physical structures & functioning, and the variation in the qualia existence when moving up the color spectrum, or along sound frequencies, or along feeling intensity. So looking at the physical aspect would give clues to the metaphysical aspect.
 
 ## Discussion
+
+I think this might explain why our conscious experience feels very large - it costs almost nothing to create and operate, and larger is more helpful for survival. And existence has a timeless quality which makes consciousness feel timeless.
+
+I think it's plausible that pain qualia is a straightforward feeling (like how red is straightforward - just another colour on the spectrum alongside blue), which small organisms are predisposed to react in certain ways to, and to which larger organisms additionally develop feelings of upset for additional pain avoidance.
+
+It seems intuitive for me that the function which consciousness is used for is an information storage and retrieval system (ie. storage of what is currently relevant information). I speculate that it might also be echo-based, whereby the medium being transmitted into has some reflective property, such that at each time `t` a reflectance is received that contains information which was emitted at time `t-1`, and at each time `t` a new signal is emitted (or continuously "hummed"). Such a system would make the most sense if it was very efficient to drop parts of the received signal and add in new parts when creating a fresh emission.
 
 We should be somewhat wary of any biological or physical work that is substantially similar to what biology has evolved. ie. if you create Dolly the Sheep or a brain in a vat and get it wrong, you have literally created an unknowable hell.
 
