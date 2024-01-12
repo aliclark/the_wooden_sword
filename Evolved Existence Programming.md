@@ -14,13 +14,15 @@ This is why our conscious experience feels very large - it costs almost nothing 
 
 I also think that pain qualia is a straightforward feeling (like how red is just another colour on the spectrum alongside blue), that small organisms are predisposed to react in certain ways to, and to which larger organisms (which develop more substantial thought of an individual self) additionally develop feelings of upset for additional pain avoidance.
 
+It seems intuitive for me that this function is an information storage and retrieval system (ie. storage of what is currently relevant information). Perhaps it is echo-based, whereby the medium being transmitted into has some reflective property, such that at each time `t` a reflectance is received that contains information which was emitted at time `t-1`, and at each time `t` a new signal is emitted (or continuously "hummed").
+
 ## Predictions
 
 I predict there is an information flow that passes from raw biology (input nerve signals and neural computations) then to conscious existence then to biology (neural computations and output signals).
 
 The information processing which occurs in conscious experience is predicted to be performing some function more cheaply than could biology, else evolution would not have made the effort to use this method.
 
-It seems intuitive for me that this function is an information storage and retrieval system (ie. storage of what is currently relevant information), but that's just a guess. If so, there would be follow-on predictions based on what species would be most in need of an efficient information storage and retrieval system based on their environment and competitive landscape.
+If consciousness is an information storage and retrieval system, there would be follow-on predictions based on what species would be most in need of an efficient information storage and retrieval system based on their environment and competitive landscape.
 
 According to this theory, a successful investigation of the programming method should reveal a better understanding as to what the nature of existence is. There will be a correlation between the biological and physical structures & functioning, and the variation in the qualia existence when moving up the color spectrum, or along sound frequencies, or along feeling intensity. So looking at the physical aspect would give clues to the metaphysical aspect.
 
