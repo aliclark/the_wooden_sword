@@ -22,7 +22,7 @@ According to this theory, a successful investigation of the programming method s
 
 ## Discussion
 
-I think this might explain why our conscious experience feels very large - it costs almost nothing to create and operate, and larger is more helpful for survival. And existence has a timeless quality which makes consciousness feel timeless.
+I think this might explain why our conscious experience feels very large - it costs almost nothing to create and operate, and larger is more helpful for survival. And existence has a timeless quality which makes consciousness feel timeless (when accurately synchronized with biology).
 
 I think it's plausible that pain qualia is a straightforward feeling (like how red is straightforward - just another colour on the spectrum alongside blue), which small organisms are predisposed to react in certain ways to, and to which larger organisms additionally develop feelings of upset for additional pain avoidance.
 
