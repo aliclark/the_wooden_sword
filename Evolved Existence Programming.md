@@ -47,7 +47,7 @@ How closely does it correlate to the Buddha's map of the cosmos or Yogic and oth
 ### Known prior work
 - Upanishads - consciousness as analagous to sound in existence (ōm)
 - Anaximander - Theory of evolution
-- The Buddha - Feelings and suffering
+- The Buddha - Feelings and suffering, layers of jhāna, cosmos of realms of being
 - *One Mind* Doctrine of Zen
 - René Descartes - Mind-Body problem
 - Darwin and Wallace - Scientific Evolutionary theory
