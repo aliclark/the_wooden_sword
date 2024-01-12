@@ -40,7 +40,7 @@ It seems intuitive for me that the function which consciousness is used for is a
 
 Although a sketch is given above in discrete terms, I only do so for explanatory purposes. The actual nature could be much more substantial and even contain mechanics which allow for formless beings in this vibrational calculus. It is unclear to what extent one person's mind cosmology corresponds to another's. They may for all intents and purposes be 100% separate for all beings (while of course being connected significantly via the shared factor of Physics, both in being and in flows of information). They may have some potential to subtly bleed into or cross over with one another, or they may be one and the same. One might, in part, define spiritual practice as the process of becoming "at one" with any ambiguity herein.
 
-A pertinent question to explore is the manner of existence alteration. Is it like shaking a table cloth to excite waves? Is it like an endless conveyor belt which permits your voice to echo from side walls as you continuously move along it. Is it like a boundless notepad that you can scribble on almost at will? etc.
+A pertinent question to explore is the manner of programming. Is it like shaking a table cloth to excite waves? Is it like an endless conveyor belt which permits your voice to echo from side walls as you continuously move along it. Is it like a boundless notepad that you can scribble on almost at will? etc.
 
 We should be somewhat wary of any biological or physical work that is substantially similar to what biology has evolved. ie. if you create Dolly the Sheep or a brain in a vat and get it wrong, you have literally created an unknowable hell.
 
