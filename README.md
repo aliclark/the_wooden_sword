@@ -15,6 +15,8 @@
 [The Great Recession and the Crapification of Products](The%20Great%20Recession%20and%20the%20Crapification%20of%20Products.md) - a narrow rant about the allocation of capital leading to consumer preferences becoming increasingly insignificant to the economy
 <br>*Originally created 8th June 2021*
 
+I am at root a subjectivist, but if I throry is simple and works well in its arena, like the Standard Model, then I am happy to keep it as a simpler explanation, while I have the luxury of an explanation.
+
 # Discuss
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
