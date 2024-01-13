@@ -24,7 +24,7 @@ One may even further decide to ascribe to the theory that there isn't *anything*
 
 ## Discussion
 
-This philosophical argument aims to serve as part of a map, but a map is not the territory. The Buddha's Eightfold Path and Mindfulness and Skepticism are (perhaps) better tools for understanding the territory, the experience of existing.
+This philosophical argument aims to serve as part of a map, but a map is not the territory. The spiritual and religious practices and (perhaps) skepticism give better tools for understanding the territory, the experience of existing.
 
 For similar reasons, I think that of the above the Mind (Only) interpretation of existence is perhaps the most helpful orientation, or God and a Genesis-based interpretation for the theologically inclined (although there is obviously a lot unsaid about the existence of an active God - if a sufficient amount could be said then we would instead use a different term).
 
