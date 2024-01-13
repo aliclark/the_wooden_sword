@@ -19,4 +19,5 @@ What is the realism of experience (qualia)?
 - Colour perception across cultures study(s)
 - Jimi Hendrix Experience?
 - LSD psychonauts?
+- Many, many more thinkers and philosophers
 - Please contact me by Discussions (link above), Issues or Pull Request
