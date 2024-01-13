@@ -1,5 +1,8 @@
 # Topics
 
+[Questions in Experience Realism](Questions%20in%20Experience%20Realism.md) - my open questions about qualia - Consciousness and Formlessness, Metaphysics
+<br>*Originally created 11th January 2024*
+
 [Evolved Existence Programming](Evolved%20Existence%20Programming.md) - a theory on the hard problem of consciousness - Metaphysics and Biology
 <br>*Originally created 11th January 2024*
 
