@@ -12,7 +12,7 @@ What is the realism of experience (qualia)?
 - Is it impossible to delineate or demarcate the different kinds of a conscious experience from one another, so that essentially every conscious experience that ever exists is a single, indivisble experience that will likely never exist for another being?
 - are there any other options?
 
-In the above thought experiments I assume that there is some distribution of skew in sensory perception such that evem if two beings have genuinely different sensory perception, the cumulative effect over many beings will cause sensory skew to be statistically cancelled.
+In the above thought experiments I assume that there is some distribution of skew in sensory perception. Even if two beings have genuinely different sensory perception, the cumulative effect of sampling the distribution over many beings will cause at least one sensory skew cancellation.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
