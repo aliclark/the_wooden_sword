@@ -16,7 +16,7 @@ In the above thought experiments I assume that there is some distribution of ske
 
 I currently assume that there might be realism enough that colour experiences have a last and a first and are ordered. No colour experience is shorter than blue, and no colour experience is longer than red.
 
-ie. you could pick any colour experience by addressing it using a fractional number between 0.0 inclusive (blue), and any valid number up to 1.0 exclusive (red). The initial question is whether there is any limit to the number of decimal places you can state the number with.
+ie. you could pick any colour experience by addressing it using a fractional number between 0.0 inclusive (blue), and any valid number up to 1.0 exclusive (red). The initial question is whether there is any limit to the number of decimal places you can meaningfully state the number with.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
