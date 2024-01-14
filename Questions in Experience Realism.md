@@ -28,6 +28,12 @@ Suppose there's a sixth way of experiencing which is quite analagous to sound or
 
 Are there other feeling experiences like pain and pleasure which human brains have not developed access to, culturally or evolutionarily?
 
+- - -
+
+Are the experiences somehow on a single continuum, with touch at the lowest end, followed by taste, followed by smell, followed by hearing, followed by sight?
+
+- - -
+
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
