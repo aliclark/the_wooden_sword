@@ -44,6 +44,8 @@ Although a sketch is given above in discrete terms, I only do so for explanatory
 
 The brain's processing of sound data is faster than its processing of visual data. If these ideas are true, does the brain "transmit" the processed sound data to our conscious experience at an earlier time than the visual data, but somehow in a way that causes it to travel slower than the visual data, so they synchronise at another location after the transmission?
 
+I suppose a likely location of the relevant physics to be in or around the intralaminar nuclei of the thalamus.
+
 A pertinent question to explore is the manner of programming. Is it like shaking a table cloth to excite waves? Is it like an endless conveyor belt which permits your voice to echo from side walls as you continuously move along it. Is it like a boundless notepad that you can scribble on almost at will? etc.
 
 We should be somewhat wary of any biological or physical work that is substantially similar to what biology has evolved. ie. if you create Dolly the Sheep or a brain in a vat and get it wrong, you have literally created an unknowable hell.
