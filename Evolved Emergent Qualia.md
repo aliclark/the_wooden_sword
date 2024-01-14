@@ -25,6 +25,7 @@
 - I predict that fly catchers and smaller worms (but not larger worms?) are examples of biology which has not evolved emergent qualia.
   - In lieu of proof about qualia in other species, I think a good guide is whether humans have been keeping that species as a pet. If so, our intuition is telling us that they also have qualia.
   - I predict that the complexity of sensory receivers/organs and their connection and communications to the brain could enable to qualitatively differentiate fully automatic sensory processing from qualia
+- I predict that there will be DNA correlates with consciousness, so that just from the DNA a prediction can be made about whether the organism is conscious.
 - I predict that a designed object is extremely unlikely to exhibit a meaningful qualia by accident, unless it is grown biologically like Dolly the sheep.
 - I predict the signals from pain and pleasure qualia are far too simplistic for an ASI to consider using them as functionality, except potentially as a crude energy-saving alternative to computation, for limited use-cases, until it solves battery technology and magnetic and optical computation more thoroughly.
   - It might however end up creating them during science experiments, if curiosity becomes part of its goals
