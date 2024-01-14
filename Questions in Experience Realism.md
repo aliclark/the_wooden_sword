@@ -34,7 +34,7 @@ Are the experiences somehow on a single continuum, with touch at the lowest end,
 
 - - -
 
-We know the calculus that energy must conform to at the physical level - what is the calculus that formlessness must follow at the metaphysical level?
+We know the calculus that energy must conform to at the physical level - what is the calculus that formlessness must conform to at the metaphysical level?
 
 - - -
 
