@@ -20,7 +20,7 @@ When the organic food shop sells me carrots which are so wobbly they could be fo
 
 The fallout from all of this is that oat powder for hot drinks is about as available as gold dust, and a good carrot soup the reserve of the exceptionally wealthy.
 
-- - - -
+- - -
 
 Which brings me to the thesis of my discussion. The reason all of these things are happening is that startups in particular are awash with money from venture capitalists who simply have no idea what to do with it all. These aren’t the Berkshire Hathaways or Amazons of the world. They want one thing only: the Golden Ticket to Excessive Riches, and then to sell it with no delay to (progressively) dumber money, until eventually its the average Joe who pays for the privilege of playing a part in the success of our luminary, visionary, founder, what-have-you.
 
@@ -34,7 +34,7 @@ And what they say is right - there has always been a mix of these factors. Carin
 
 The age of pg’s caring about the customer as a strategy *by default* is over. Please contact sales to learn more about your pricing.
 
-- - - -
+- - -
 
 In response to the financial crash, no one was allowed to fail, and whoever was in charge back then opted for trickle-down keynesianism as more palatable than the old fashioned version.
 
@@ -44,7 +44,7 @@ Your spending dollar doesn’t matter any more. Your opinion can be useful, if a
 
 The Well Meaning is attacked by the Vested Interest, even assuming you still care to believe Well Meaning is not just a byword for Wealth Accumulation with the outcome still to be determined.
 
-- - - -
+- - -
 
 Lemma: Salary is inversely correlated to how useful a given job is to society (the marginal loss for society in the event of sudden heart attack).
 
@@ -52,7 +52,7 @@ Sketch of a proof: If it were really important, it would already be done.
 
 Less unthinking schoolbook capitalism, please! Don’t be a brain fart floating from one existence to the next.
 
-- - - -
+- - -
 
 I don’t have an answer for all our woes, except a vague “find happiness in other things”.
 
@@ -60,7 +60,7 @@ In fact, that’s a lie, the solution couldn’t more easily smack you in the fa
 
 **Coming up in Part 2:** *So you’re having doubts about the efficacy of “taxing the rich, paying the poor"*
 
-- - - -
+- - -
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
