@@ -64,7 +64,7 @@ How closely does it correlate to the Buddha's map of the cosmos or Yogic and oth
 
 How much storage capacity is in the conscious experience?
 
-How much is in unconscious existence (not encoded as state in the physical brain, but in formlessness)?
+How much is in unconscious existence (not encoded as state in the physical brain, but in formlessness)? I currently assume it would be evolutionarily inefficient, but who knows.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
