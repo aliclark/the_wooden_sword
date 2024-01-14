@@ -20,7 +20,7 @@
 
 - - -
 
-I ascribe philosophically to academic skepticism (I think). As a skeptic, I believe it is false to hold skepticism, or any other belief for that matter, and the same as a determinist and buddhist. But whenever I have the luxury of an explanation, I favour a scientific or empirical approach supported by pragmatism and rationalism, including metaphysical realism for the theories to hold better under Ockham’s Razor.
+I ascribe philosophically to academic skepticism (I think). As a skeptic, I believe it is false to hold skepticism, or any other belief for that matter; and the same as a determinist and buddhist. But whenever I have the luxury of an explanation, I favour a scientific or empirical approach supported by pragmatism and rationalism, including metaphysical realism for the theories to hold better under Ockham’s Razor.
 
 # Discuss
 
