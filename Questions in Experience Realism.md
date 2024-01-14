@@ -34,6 +34,10 @@ Are the experiences somehow on a single continuum, with touch at the lowest end,
 
 - - -
 
+We know the calculus that energy must conform to at the physical level - what is the calculus that formlessness must follow at the metaphysical level?
+
+- - -
+
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
