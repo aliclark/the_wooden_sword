@@ -74,4 +74,5 @@ How closely does it correlate to the Buddha's map of the cosmos or Yogic and oth
 - William James - consciousness as an evolved and pragmatic trait for survival
 - Multiple realizability
 - Delay-line memory
+- The Brain with David Eagleman - What Is Reality - BBC Documentary 2016
 - Please contact me by Discussions (link above), Issues or Pull Request
