@@ -49,4 +49,6 @@ We know the calculus that energy must conform to at the physical level - what is
 - Jimi Hendrix Experience?
 - LSD psychonauts?
 - Many, many more thinkers, philosophers, and spiritualists
+- Psychophysics
+- Sensory neuroscience
 - Please contact me by Discussions (link above), Issues or Pull Request
