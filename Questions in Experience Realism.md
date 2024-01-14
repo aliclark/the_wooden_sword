@@ -24,6 +24,7 @@ The supposition is that actually a being which views only infrared will via evol
 
 ### Known prior work
 - [Classical element](https://en.m.wikipedia.org/wiki/Classical_element)
+- [Pancha Bhuta](https://en.m.wikipedia.org/wiki/Pancha_Bhuta)
 - [Wuxing](https://en.m.wikipedia.org/wiki/Wuxing_(Chinese_philosophy))
 - Plato, and others?
 - Colour perception across cultures study(s)
