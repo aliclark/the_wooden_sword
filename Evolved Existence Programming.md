@@ -62,6 +62,10 @@ How easy is it for one conscious experience on the shared substrate of existence
 
 How closely does it correlate to the Buddha's map of the cosmos or Yogic and other spiritualist or religious perspectives?
 
+How much storage capacity is in the conscious experience?
+
+How much is in unconscious existence (not encoded as state in the physical brain, but in formlessness)?
+
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
