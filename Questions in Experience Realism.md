@@ -14,7 +14,7 @@ What is the realism of experience (qualia)?
 
 In the above thought experiments I assume that there is some distribution of skew in sensory perception. However, even if two beings have genuinely different sensory perception, the cumulative effect of sampling the distribution over many beings will cause at least one sensory skew cancellation or collision, as in the birthday paradox. This seems especially true when considering that colour exists along a wavelength, so one person's "blue" may be another person's "cyan". When the former sees their own "cyan" there is a chance of experience collision with the other person's 'blue'. So the skew could self-cancel if even 2 beings look at enough colours along the same spectrum.
 
-I currently assume that there might be realism enough that colour experiences have a last and a first and are ordered. No colour experience is shorter than blue, and no colour experience is longer than red.
+I currently assume that there might be realism enough that colour experiences have a last and a first and are ordered. No colour experience is shorter than blue, and no colour experience is longer than red. Our evolution has simply learned how to make most eficient use of that experiential range offered.
 
 ie. you could pick any colour experience by addressing it using a fractional number between 0.0 inclusive (blue), and any valid number up to 1.0 exclusive (red). The initial question is whether there is any limit to the number of decimal places you can meaningfully state the number with.
 
