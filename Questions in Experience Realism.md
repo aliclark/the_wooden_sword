@@ -20,6 +20,14 @@ ie. you could pick any colour experience by addressing it using a fractional num
 
 The supposition is that actually a being which views only infrared will via evolution likely end up with neurons which cause it to experience infrared with the same "red" experience at the low end of its receptive frequecy, and the same "blue" experience at the high end of its frequency, albeit that its most "blue" corresponds to a wavelengh value shorter even than our visual "red".
 
+- - -
+
+Suppose there's a sixth way of experiencing which is quite analagous to sound or colour experience, but different in the same way those are different from one another. How much spare energy would evolution have needed before it folded that experience in as a (possibly nearly redundant) part of our sense perception abilities (such as smell, but only for very minute traces)?
+
+- - -
+
+Are there other feeling experiences like pain and pleasure which human brains have not developed access to, culturally or evolutionarily?
+
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
