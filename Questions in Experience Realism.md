@@ -30,7 +30,7 @@ Are there other feeling experiences like pain and pleasure which human brains ha
 
 - - -
 
-Are the experiences somehow on a single continuum, with touch at the lowest end, followed by taste, followed by smell, followed by hearing, followed by sight?
+Are the experiences somehow on a single continuum, with touch at the lowest end, followed by taste, followed by smell, followed by hearing, followed by sight? (and possibly other experiences in the large gaps in between)
 
 - - -
 
