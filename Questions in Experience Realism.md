@@ -23,6 +23,8 @@ The supposition is that actually a being which views only infrared will via evol
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
+- [Classical element](https://en.m.wikipedia.org/wiki/Classical_element)
+- [Wuxing](https://en.m.wikipedia.org/wiki/Wuxing_(Chinese_philosophy))
 - Plato, and others?
 - Colour perception across cultures study(s)
 - Jimi Hendrix Experience?
