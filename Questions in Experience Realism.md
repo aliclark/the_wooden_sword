@@ -18,7 +18,7 @@ I currently assume that there might be realism enough that colour experiences ha
 
 ie. you could pick any colour experience by addressing it using a fractional number between 0.0 inclusive (blue), and any valid number up to 1.0 exclusive (red). The initial question is whether there is any limit to the number of decimal places you can meaningfully state the number with.
 
-The supposition is that actually a being which views only infrared will via evolution likely end up with neurons which cause it to experience infrared with the same "red" experience at the low end of its receptive frequecy, and the same "blue" experience at the high end of its frequency, albeit that its most "blue" corresponds to a wavelengh value shorter even than our visual "red".
+The supposition is that actually a being which views only infrared will via evolution likely end up with neurons which cause it to experience infrared with the same "red" experience at the low end of its receptive frequecy, and the same "blue" experience at the high end of its frequency, albeit that its most "blue" corresponds to a wavelength value longer even than the wavelenght of our visual "red".
 
 - - -
 
