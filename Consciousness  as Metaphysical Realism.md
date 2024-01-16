@@ -42,4 +42,5 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - Thales - Arche
 - Plato - Theory of forms
 - Delay-line memory
+- [Electromagnetic theories of consciousness](https://en.wikipedia.org/wiki/Electromagnetic_theories_of_consciousness)
 - Please contact me by Discussions (link above), Issues or Pull Request
