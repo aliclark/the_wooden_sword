@@ -44,7 +44,7 @@ Or is it like a person performing a relay-run delivering messages between two lo
 
 Of these options, I think the Orchestra metaphor seems to best align with our nature as an evolved species and what we are so far able to observe about the animal brain.
 
-I think it has both an informational purpose (efficient communication) and an incentive process which are both evolutionarily beneficial.
+I think it has both an informational purpose (efficient communication) and an incentive process which are both evolutionarily beneficial. I think the brain has evolved to know what a well-integrated experience would look like, purely by its physical aspects (probably through a painful process over many thousands of years).
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
