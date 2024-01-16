@@ -12,7 +12,7 @@ How is it actually implemented?
 
 Is it like an oil painting that one can efficiently tend to specific details, and indefinitely make efficient alterations as needed with a brush?
 
-Or is it like an orchestra, where every musician sends out a different sound and it arrives at the condictor and audience, whose arm movement and facial expressions help guide the future action of the orchestra?
+Or is it like an orchestra, where every musician sends out a different sound and it arrives at the conductor and audience, whose arm movement and facial expressions in turn help guide the future action of the orchestra?
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
