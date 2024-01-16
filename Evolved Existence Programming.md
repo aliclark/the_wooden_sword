@@ -44,7 +44,9 @@ Although a sketch is given above in discrete terms, I only do so for explanatory
 
 The brain's processing of sound data is faster than its processing of visual data. If these ideas are true, does the brain "transmit" the processed sound data to our conscious experience at an earlier time than the visual data, but somehow in a way that causes it to travel slower than the visual data, so they synchronise at another location after the transmission?
 
-I suppose a likely location of the relevant physics to be in or around the intralaminar nuclei of the thalamus. An alternative idea is that instead of intralaminar nuclei of the thalamus being a send and receive transmitter, it is only a receive transmitter and the behaviour of the rest of the brain causes a unified signal to arrive at a pinpoint location to be read. At that location, all of the signals whether implemented in Physics we know or not know currently converge together into the existence of a conscious experience. If it were purely a combination of gamma, alpha, beta, etc. waves, then seeing those waves outside of the brain, we might discern that while those waves exist, there is actually corresponding conscious experience somewhere in the universe (and we should be very careful about creating signals in these frequencies ignorantly).
+I suppose a likely location of the relevant physics to be in or around the intralaminar nuclei of the thalamus. An alternative idea is that instead of intralaminar nuclei of the thalamus being a send and receive transmitter, it is only a receive transmitter and the behaviour of the rest of the brain causes a unified signal to arrive at a pinpoint location to be read. At that location, all of the signals whether implemented in Physics we know or not know currently converge together into the existence of a conscious experience.
+
+If it were purely a combination of gamma, alpha, beta, etc. waves, then seeing those waves outside of the brain, we might discern that while those waves exist, there is actually corresponding conscious experience somewhere in the universe (and we should be very careful about creating signals in these frequencies ignorantly). This follows the idea of Arche or Platonic Forms, which we in Physics measure as wavelengths but at the same time are not just wavelengths but directly specific flavours of conscious existence in themselves, needing no human brain for that to be so.
 
 A pertinent question to explore is the manner of programming. Is it like shaking a table cloth to excite waves? Is it like an endless conveyor belt which permits your voice to echo from side walls as you continuously move along it. Is it like a boundless notepad that you can scribble on almost at will? etc.
 
@@ -72,8 +74,10 @@ How much is in unconscious existence (not encoded as state in the physical brain
 
 ### Known prior work
 - Upanishads - consciousness as analagous to sound (ōm)
+- Thales - Arche
 - Anaximander - Theory of evolution
 - The Buddha - Feelings and suffering, Buddhist cosmology
+- Plato - Theory of forms
 - *One Mind* Doctrine of Zen
 - René Descartes - Mind-Body problem and Mind-body dualism
 - Darwin and Wallace - Scientific Evolutionary theory
