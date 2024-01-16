@@ -10,7 +10,7 @@ If that were so, either conscious experience is somehow informationarily useful 
 
 As an information processing mechanism, it might well happen to be the case that the most efficient and unified state model (for efficiency purposes) that evolution could arrive upon, also happened be one where that unified information was an experiential reality.
 
-- However, this formulation still seems to have the experience itself as more or less a byproduct of the information storage, therefore I think if his were the only reason then the conscious experience of humans would be considerably more erratic, like the experiential equivalent of a dockyard wih cranes and containers going all over the place.
+- However, this formulation still seems to have the experience itself as more or less a byproduct of the information storage, therefore I think if this were the only reason then the conscious experience of humans would be considerably more erratic, like the experiential equivalent of a dockyard with cranes and containers going all over the place.
 
 As an incentivisation method, a Will may be bundled into the consciousness and aware of the rest of the conscious experience (meta to it), and the Physical aspects of the brain obeying at least some of its instructions, for there to be survival value.
 
