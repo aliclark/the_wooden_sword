@@ -44,7 +44,8 @@ We know the calculus that energy must conform to at the physical level - what is
 - [Classical element](https://en.m.wikipedia.org/wiki/Classical_element)
 - [Pancha Bhuta](https://en.m.wikipedia.org/wiki/Pancha_Bhuta)
 - [Wuxing](https://en.m.wikipedia.org/wiki/Wuxing_(Chinese_philosophy))
-- Plato, and others?
+- Thales - Arche
+- Plato - Theory of forms
 - Colour perception across cultures study(s)
 - Jimi Hendrix Experience?
 - LSD psychonauts?
