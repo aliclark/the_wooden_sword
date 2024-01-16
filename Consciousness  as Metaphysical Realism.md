@@ -4,9 +4,9 @@
 
 ## Theory
 
-Suppose that conscious experience is an accident which evokution stumbled upon because it was helpful for evolutionary survival.
+Suppose that conscious experience is an accident which evolution stumbled upon because it was helpful *in itself* for evolutionary survival.
 
-If that were so, either so conscious experience is somehow informationarily useful to an organism, or it is useful as an incentivisation mechanism, or both.
+If that were so, either conscious experience is somehow informationarily useful to an organism, or it is useful as an incentivisation mechanism, or both.
 
 How is it actually implemented?
 
