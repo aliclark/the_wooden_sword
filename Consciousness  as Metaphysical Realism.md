@@ -12,13 +12,17 @@ As an information processing mechanism, it might well happen to be the case that
 
 - However, this formulation still seems to have the experience itself as more or less a byproduct of the information storage, therefore I think if this were the only reason then the conscious experience of humans would be considerably more erratic, like the experiential equivalent of a dockyard with cranes and containers going all over the place.
 
-As an incentivisation method, a Will would be required, and physical aspects of the brain obeying at least some of its instructions, for there to be survival value.
+As an incentivisation method, a Will would be required, and physical aspects of the brain obeying at least some of its instructions, for there to be survival value. At a minimum this must be some reflection on the current experience, and a decision as to whether this is a) harmoniously integrated experience, and b) good for survival.
 
+- One answer is that the Will is metaconscious - it is conscious of our experience. This would allow a straightforward answer for how it can be a judge of experience.
 - It seems hard to imagine a metaphysical Will and its implementation, but on the other hand it would be hard to imagine anything like red experience for someone born blind.
+- Another answer is that the Will is implemented by the brain, but evolution has given it great skill at understanding what the physical signs of a well integrated experience should look like.
+- A metaphysical Will certainly raises further questions, and a purely physical explanation doesn't seem out of reach.
 
-The brain itself could be in charge of interpreting the conscious experience and thereafter trying to make following experiences be a positive one for the organism, and it could be evolved skill. The supposition is that the brain is rating the experience as "positive" or "negative" based on factors which include harmonious integration of whole experience, and acting on this being possitively correlated to survival. But that doesn't wholly explain why it would be an experiential thing rather than purely informational.
+The supposition is that the brain is rating the physical characteristics of the conscious experience as "positive" or "negative" based on factors which include harmonious integration of whole experience, and acting on this being possitively correlated to survival.
+- But that doesn't wholly explain why it would need to be a conscious experience rather than purely information processing.
 
-Therefore I think it must actually be both of these theories, and I think whether the Will is in the brain or in consciousness, or both, would depend on the way in which consciousness is constructed.
+Therefore I think it must actually be both of these theories combined, and I think whether the Will is in the brain or in consciousness, or both, would depend on the way in which consciousness is constructed.
 
 ## How is it actually constructed?
 
