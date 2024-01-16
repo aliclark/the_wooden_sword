@@ -2,17 +2,36 @@
 
 *Originally created 16th January 2024*
 
-## Theory
+## Why do we have consciousness
 
 Suppose that conscious experience is an accident which evolution stumbled upon because it was helpful *in itself* for evolutionary survival.
 
 If that were so, either conscious experience is somehow informationarily useful to an organism, or it is useful as an incentivisation mechanism, or both.
 
-How is it actually constructed?
+As an information processing mechanism, it might well happen to be the case that the most efficient and unified state model (for efficiency purposes) that evolution could arrive upon, also happened be one where that unified information was an experiential reality.
+
+- However, this formulation still seems to have the experience itself as more or less a byproduct of the information storage, therefore I think if his were the only reason then the conscious experience of humans would be considerably more erratic, like the experiential equivalent of a dockyard wih cranes and containers going all over the place.
+
+As an incentivisation method, a Will may be bundled into the consciousness and aware of the rest of the conscious experience (meta to it), and the Physical aspects of the brain obeying at least some of its instructions, for there to be survival value.
+
+- It seems hard to imagine a metaphysical Will and its implementation, on the other hand it would be hard to imagine anything like red experience for someone born blind.
+
+The brain itself could be in charge of interpreting the conscious experience trying to make it be a positive one for the organism, and it could be evolved skill. But that doesn't wholly explain why it would be an experiential thing rather than purely informational.
+
+Therefore I think it must actually be both of these theories, and I think whether the Will is in the brain or in consciousness, or both, would depend on the way in which consciousness is constructed.
+
+## How is it actually constructed?
 
 Is it like an oil painting that one can efficiently tend to specific details, and indefinitely make efficient alterations as needed with a brush?
 
+- This seems far fetched and raising many new questions, however if it were possible to arrive from at from an evolutionary pathway, it also sounds very efficient.
+
 Or is it like an orchestra, where every musician sends out a different sound and it arrives at the conductor and audience, whose arm movement and facial expressions in turn help guide the future action of the orchestra?
+
+- As far as efficiency is concerned, it may be fastest to send the individual signals to arrive single place (preferably simultaneously) than to travel to every source location asking N times for the latest.
+- It seems like if the Will theory is taken, then the Will should be nearest the point of convergence.
+
+Or is it like a person performing a relay-run delivering messages between two locations continuously, with the thing being relayed also having conscious experience?
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
