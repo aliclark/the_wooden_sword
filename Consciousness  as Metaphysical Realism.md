@@ -12,9 +12,9 @@ As an information processing mechanism, it might well happen to be the case that
 
 - However, this formulation still seems to have the experience itself as more or less a byproduct of the information storage, therefore I think if this were the only reason then the conscious experience of humans would be considerably more erratic, like the experiential equivalent of a dockyard with cranes and containers going all over the place.
 
-As an incentivisation method, a Will may be bundled into the consciousness and aware of the rest of the conscious experience (meta to it), and the Physical aspects of the brain obeying at least some of its instructions, for there to be survival value.
+As an incentivisation method, a Will would be required, and physical aspects of the brain obeying at least some of its instructions, for there to be survival value.
 
-- It seems hard to imagine a metaphysical Will and its implementation, on the other hand it would be hard to imagine anything like red experience for someone born blind.
+- It seems hard to imagine a metaphysical Will and its implementation, but on the other hand it would be hard to imagine anything like red experience for someone born blind.
 
 The brain itself could be in charge of interpreting the conscious experience trying to make it be a positive one for the organism, and it could be evolved skill. But that doesn't wholly explain why it would be an experiential thing rather than purely informational.
 
