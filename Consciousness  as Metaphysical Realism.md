@@ -8,7 +8,7 @@ Suppose that conscious experience is something evolution (accidentally) stumbled
 
 If that were so, either conscious experience is somehow informationarily useful to an organism, or it is useful as an incentivisation mechanism, or both.
 
-As an information processing mechanism, it might well happen to be the case that the most efficient and unified state model (for efficiency purposes) that evolution could arrive upon, also happened be one where that unified information was an experiential reality.
+As an information processing mechanism, it might well happen to be the case that the most efficient and unified state model (for efficiency purposes) that evolution could arrive upon, also happened be one where that unified information was a harmoniously integrated experiential reality.
 
 - However, this formulation still seems to have the experience itself as more or less a byproduct of the information storage, therefore I think if this were the only reason then the conscious experience of humans would be considerably more erratic, like the experiential equivalent of a dockyard with cranes and containers going all over the place.
 
