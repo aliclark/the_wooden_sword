@@ -10,7 +10,7 @@ If that were so, either conscious experience is somehow informationarily useful 
 
 How is it actually implemented?
 
-Is it like an oil painting that one can efficiently tend to specific details, and make efficient alterations as needed with a brush?
+Is it like an oil painting that one can efficiently tend to specific details, and indefinitely make efficient alterations as needed with a brush?
 
 Or is it like an orchestra, where every musician sends out a different sound and it arrives at the condictor and audience, whose arm movement and facial expressions help guide the future action of the orchestra?
 
