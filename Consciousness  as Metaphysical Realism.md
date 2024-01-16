@@ -17,7 +17,7 @@ As an incentivisation method, a Will would be required, and physical aspects of 
 - One answer is that the Will is metaconscious - it is conscious of our experience. This would allow a straightforward answer for how it can be a judge of experience.
 - It seems hard to imagine a metaphysical Will and its implementation, but on the other hand it would be hard to imagine anything like red experience for someone born blind.
 - Another answer is that the Will is implemented by the brain, but evolution has given it great skill at understanding what the physical signs of a well integrated experience should look like.
-- A metaphysical Will certainly raises further questions, and a purely physical explanation doesn't seem out of reach.
+- A metaphysical Will certainly raises further questions, whereas a purely physical brain-based explanation doesn't seem out of reach.
 
 The supposition is that the brain is rating the physical characteristics of the conscious experience as "positive" or "negative" based on factors which include harmonious integration of whole experience, and acting on this being possitively correlated to survival.
 - But that doesn't wholly explain why it would need to be a conscious experience rather than purely information processing.
