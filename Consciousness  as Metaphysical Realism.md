@@ -16,7 +16,7 @@ As an incentivisation method, a Will would be required, and physical aspects of 
 
 - It seems hard to imagine a metaphysical Will and its implementation, but on the other hand it would be hard to imagine anything like red experience for someone born blind.
 
-The brain itself could be in charge of interpreting the conscious experience trying to make it be a positive one for the organism, and it could be evolved skill. But that doesn't wholly explain why it would be an experiential thing rather than purely informational.
+The brain itself could be in charge of interpreting the conscious experience trying to make it be a positive one for the organism, and it could be evolved skill. The supposition is that the brain is rating the experience as "positive" or "negative" based on factors which include harmonious integration of whole experience, as that is seemingly correlated to survival. But that doesn't wholly explain why it would be an experiential thing rather than purely informational.
 
 Therefore I think it must actually be both of these theories, and I think whether the Will is in the brain or in consciousness, or both, would depend on the way in which consciousness is constructed.
 
