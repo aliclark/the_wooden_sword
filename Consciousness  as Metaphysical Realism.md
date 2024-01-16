@@ -40,7 +40,11 @@ Or is it like an orchestra, where every musician sends out a different sound and
 Or is it like a person performing a relay-run delivering messages between two locations continuously, with the thing being relayed also having conscious experience?
 - I'm unaware of a good candidate for this theory, as the spinal cord can be severed or half the brain removed without loss of consciousness. The brain stem could be a next-best candidate, but I don't know if there's an appropriate relay end-point at it's bottom?
 
-Of these options I think the Orchestra metaphor seems to best align with our nature as an evolved species and that which we are so far able to observe about the animal brain.
+## Theory
+
+Of these options, I think the Orchestra metaphor seems to best align with our nature as an evolved species and what we are so far able to observe about the animal brain.
+
+I think it has both an informational purpose (efficient communication) and an incentive process which are both evolutionarily beneficial.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
