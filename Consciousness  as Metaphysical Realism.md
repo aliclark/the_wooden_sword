@@ -8,7 +8,7 @@ Suppose that conscious experience is an accident which evolution stumbled upon b
 
 If that were so, either conscious experience is somehow informationarily useful to an organism, or it is useful as an incentivisation mechanism, or both.
 
-How is it actually implemented?
+How is it actually constructed?
 
 Is it like an oil painting that one can efficiently tend to specific details, and indefinitely make efficient alterations as needed with a brush?
 
