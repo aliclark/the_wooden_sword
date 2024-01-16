@@ -26,7 +26,7 @@ Is it like an oil painting that one can efficiently tend to specific details, an
 
 - This seems far fetched and raising many new questions, however if it were possible to arrive from at from an evolutionary pathway, it also sounds very efficient.
 - If the state of the picture exists globally, then how would there be access control?
-- If the state exists in the brain, then where? Is a blackout when your brain accelerates faster than your conscious experience can physically keep up?
+- If the state exists in the brain, then where? What keeps it staying physically within the brain?
 
 Or is it like an orchestra, where every musician sends out a different sound and it arrives at the conductor and audience, whose arm movement and facial expressions in turn help guide the future action of the orchestra?
 
