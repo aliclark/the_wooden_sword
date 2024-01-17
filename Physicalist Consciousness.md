@@ -52,6 +52,7 @@ I think it has both an informational purpose (efficient communication) and an in
 - Upanishads - consciousness as analagous to sound (ōm)
 - Thales - Arche
 - Plato - Theory of forms
+- [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
 - Delay-line memory
 - [Electromagnetic theories of consciousness](https://en.wikipedia.org/wiki/Electromagnetic_theories_of_consciousness)
 - Please contact me by Discussions (link above), Issues or Pull Request
