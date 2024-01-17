@@ -19,7 +19,7 @@ As an incentivisation method, a Will would be required, and physical aspects of 
 - Another answer is that the Will is implemented by the brain, but evolution has given it great skill at understanding what the physical signs of a well integrated experience should look like.
 - A metaphysical Will certainly raises further questions, whereas a purely physical brain-based explanation doesn't seem out of reach.
 
-The supposition is that the brain is rating the physical characteristics of the conscious experience as "positive" or "negative" based on factors which include harmonious integration of whole experience, and acting on this being possitively correlated to survival.
+The supposition is that the brain is rating the physical characteristics of the conscious experience as "positive" or "negative" based on factors which include harmonious integration of whole experience, and acting on this being possitively correlated to survival. A necessary part of this theory is that wherever the brain was not a good judge of harmoniously integrated experience (from its physical aspects), then it would be negatively correlated enough with reproduction, that only those brains which can generate harmonious experiences become the majority trait of the population. This seems a plaisible enoguh rationale, provided the physical characteristics are amenable enough to physical detection.
 - But that doesn't wholly explain why it would need to be a conscious experience rather than purely information processing.
 
 Therefore I think it must actually be both of these theories combined, and I think whether the Will is in the brain or in consciousness, or both, would depend on the way in which consciousness is constructed.
@@ -44,7 +44,7 @@ Or is it like a person performing a relay-run delivering messages between two lo
 
 Of these options, I think the Orchestra metaphor seems to best align with our nature as an evolved species and what we are so far able to observe about the animal brain.
 
-I think it has both an informational purpose (efficient communication) and an incentive process which are both evolutionarily beneficial. I think the brain has evolved to know what a well-integrated experience would look like, purely by its physical aspects (probably through a painful process over many thousands of years).
+I think it has both an informational purpose (efficient communication) and an incentive process which are both evolutionarily beneficial. I think the brain has evolved to know what a well-integrated experience would look like, purely by its physical aspects.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
