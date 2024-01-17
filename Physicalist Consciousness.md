@@ -1,4 +1,4 @@
-# Consciousness as Metaphysical Realism
+# Physicalist Consciousness
 
 *Originally created 16th January 2024*
 
