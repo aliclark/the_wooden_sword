@@ -14,7 +14,7 @@ As an information processing mechanism, it might well happen to be the case that
 
 As an incentivisation method, a Will would be required, and physical aspects of the brain obeying at least some of its instructions, for there to be survival value. At a minimum this must be some reflection on the current experience, and a decision as to whether this is a) harmoniously integrated experience, and b) good for survival.
 
-- One answer is that the Will is metaconscious - it is conscious of our experience. This would allow a straightforward answer for how it can be a judge of experience.
+- One option is that the Will is metaconscious - it is conscious of our experience. This would allow a straightforward answer for how it can be a judge of experience.
 - It seems hard to imagine a metaphysical Will and its implementation, but on the other hand it would be hard to imagine anything like red experience for someone born blind.
 - Another answer is that the Will is implemented by the brain, but evolution has given it great skill at understanding what the physical signs of a well integrated experience should look like.
 - A metaphysical Will certainly raises further questions, whereas a purely physical brain-based explanation doesn't seem out of reach.
