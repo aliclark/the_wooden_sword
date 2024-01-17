@@ -1,5 +1,9 @@
 # Topics
 
+
+[Consciousness as Metaphysical Realism.md](Consciousness%20as%20Metaphysical%20Realism.md) - my current theory of Consciousness - Metaphysics
+<br>*Originally created 16th January 2024*
+
 [Questions in Experience Realism](Questions%20in%20Experience%20Realism.md) - my open questions about Qualia - Consciousness and Formlessness - Metaphysics
 <br>*Originally created 13th January 2024*
 
