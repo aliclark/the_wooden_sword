@@ -24,7 +24,15 @@ The supposition is that the brain is rating the physical characteristics of the 
 - However, on review it's unclear how the brain would know what were the right feelings to use, and in what proportions, if all it knew was the data
 - It also doesn't wholly explain why it would need to be a conscious experience, rather than just purely information processing.
 
-Aside from the metaphysical Will possibility, there can be other theories - is there a more extensive conscious being which moves into the body and has more control of how it operates and generates experience, as per ideas of reincarnation, or subjectivism? It seems hard to account for the processes involved, and how it would not be like watching a game of GTA 5 online characters (inb4..). Another possibility is to view the brain more as a bed of consciousness, whereby the brain itself is the experiencer. This is somewhat closer to IIT in nature, but I'm not convinced that theory has resolved the physicalist question coming from the other direction either. This is why I would prefer to view Consciousness as a kind of primitive Physical energy arrangement, which the brain has the necessary material hardware to generate and interpret.
+Aside from the metaphysical Will possibility, there can be other theories - is there a more extensive conscious being which moves into the body and has more control of how it operates and generates experience, as per ideas of reincarnation, or subjectivism? It seems hard to account for the processes involved, and how it would not be like watching a game of GTA 5 online characters (inb4..).
+
+I could more readily accept the notion of a conscious being developing from near scratch symbiotically with the body. I initially have trouble understanding how that relates to survivability, if the conscious being could generate a state of bliss using its body. But in fact the brain could be evolved to keep only sensible survival options on the table initially.
+
+Another possibility is to view the brain more as a bed of consciousness, whereby the brain itself is the experiencer. This is somewhat closer to IIT in nature, but I'm not convinced that theory has resolved the physicalist question coming from the other direction either. This is why I would prefer to view Consciousness as a kind of primitive Physical energy arrangement, which the brain has the necessary material hardware to generate and interpret. If the body genuinely experiences consciousness, would that concord with the theory "the body keeps the score", or only raise more questions?
+
+It's these latter 2 theories that seems most likely to me right now - that experience aids survival primarily (but not solely) from a decision-making aspect, and:
+- either that it is a genuine intelligence in its own right (but somehow linked to a specific body)
+- or that it is a phenomena experienced by the brain and body directly
 
 ## How is it actually constructed?
 
