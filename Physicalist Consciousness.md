@@ -48,7 +48,7 @@ Or is it like an orchestra, where every musician sends out a different sound and
 - It seems like if the Will theory is taken, then the Will should be nearest the point of convergence.
 
 Or is it like a person performing a relay-run delivering messages between two locations continuously, with the thing being relayed also having conscious experience?
-- I'm unaware of a good candidate for this theory, as the spinal cord can be severed or half the brain removed without loss of consciousness. The brain stem could be a next-best candidate, but I don't know if there's an appropriate relay end-point at it's bottom?
+- I'm unaware of a good candidate for this theory, as the spinal cord can be severed or half the brain removed without loss of consciousness. The brain stem could be a next-best candidate, but I don't know if there's an appropriate relay end-point at it's bottom? Or around the internal medullary laminar?
 
 ## Theory
 
