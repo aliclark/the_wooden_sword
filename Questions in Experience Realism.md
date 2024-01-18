@@ -52,4 +52,5 @@ We know the calculus that energy must conform to at the physical level - what is
 - Many, many more thinkers, philosophers, and spiritualists
 - Psychophysics
 - Sensory neuroscience
+- IIT describes conscious experience in terms of its complexity
 - Please contact me by Discussions (link above), Issues or Pull Request
