@@ -28,11 +28,11 @@ Aside from the metaphysical Will possibility, there can be other theories - is t
 
 I could more readily accept the notion of a conscious being developing from near scratch symbiotically with the body. I initially have trouble understanding how that relates to survivability, if the conscious being could generate a state of bliss using its body. But in fact the brain could be evolved to keep only sensible survival options on the table initially.
 
-Another possibility is to view the brain more as a bed of consciousness, whereby the brain itself is the experiencer. This is somewhat closer to IIT in nature, but I'm not convinced that theory has resolved the physicalist question coming from the other direction either. This is why I would prefer to view Consciousness as a kind of primitive Physical energy arrangement, which the brain has the necessary material hardware to generate and interpret. If the body genuinely experiences consciousness, would that concord with the theory "the body keeps the score", or only raise more questions?
+Another possibility is to view the brain more as a bed of consciousness, whereby the brain itself is the experiencer. This is somewhat closer to IIT in nature, but I'm not convinced that theory has resolved the physicalist question coming from the other direction either. This is why I would prefer to view Consciousness as a kind of primitive Physical energy arrangement, which the brain has the necessary material hardware to generate and interpret. If the body genuinely experiences consciousness, would that concord with the theory "the body keeps the score", or only raise more questions? Probably more, due to phantom limbs, paralysis.
 
 It's these latter 2 theories that seems most likely to me right now - that experience aids survival primarily (but not solely) from a decision-making aspect, and:
 - either that it is a genuine intelligence in its own right (but somehow linked to a specific body)
-- or that it is a phenomena experienced by the brain and body directly
+- or that it is a phenomena experienced by the brain directly
 
 ## How is it actually constructed?
 
