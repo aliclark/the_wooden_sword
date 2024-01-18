@@ -54,6 +54,8 @@ Or is it like an orchestra, where every musician sends out a different sound and
 Or is it like a person performing a relay-run delivering messages between two locations continuously, with the thing being relayed also having conscious experience?
 - I'm unaware of a good candidate for this theory, as the spinal cord can be severed or half the brain removed without loss of consciousness. The brain stem could be a next-best candidate, but I don't know if there's an appropriate relay end-point at it's bottom? Or around the internal medullary laminar of the thalamus?
 
+Is it like a divine pattern in Physics that metaphysics interprets as conscious? (sort of like IIT).
+
 ## Theory
 
 I think that organisms have evolved to generate and experience an integrated consciousness directly in their own Physics.
