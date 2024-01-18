@@ -28,11 +28,15 @@ Aside from the metaphysical Will possibility, there can be other theories - is t
 
 I could more readily accept the notion of a conscious being developing from near scratch symbiotically with the body. I initially have trouble understanding how that relates to survivability, if the conscious being could generate a state of bliss using its body. But in fact the brain could be evolved to keep only sensible survival options on the table initially.
 
-Another possibility is to view the brain more as a bed of consciousness, whereby the brain itself is the experiencer. This is somewhat closer to IIT in nature, but I'm not convinced that theory has resolved the physicalist question coming from the other direction either. This is why I would prefer to view Consciousness as a kind of primitive Physical energy arrangement, which the brain has the necessary material hardware to generate and interpret. If the body genuinely experiences consciousness, would that concord with the theory "the body keeps the score", or only raise more questions? Probably more, due to phantom limbs, paralysis.
+Another possibility is to view the brain more as a bed of consciousness, whereby the brain itself is the experiencer (or perhaps better metaphor is the bed is consciousness and the brain discovers what that feels like). This is somewhat closer to IIT in nature, but I'm not convinced that theory has resolved the physicalist question coming from the other direction either. This is why I would prefer to view Consciousness as a kind of primitive Physical energy arrangement, which the brain has the necessary material hardware to generate and interpret. If the body genuinely experiences consciousness, would that concord with the theory "the body keeps the score", or only raise more questions? Probably more, due to phantom limbs, paralysis.
 
 It's these latter 2 theories that seems most likely to me right now - that experience aids survival primarily (but not solely) from a decision-making aspect, and:
 - either that it is a genuine intelligence in its own right (but somehow linked to a specific body)
 - or that it is a phenomena experienced by the brain directly
+
+I think it helps to follow the metaphor that consciousness is a bed for the brain to lie upon, enjoy. Consciousness is the apple to be enjoyed, and the brain has evolved to make the most of that apple for its own sake. Because that is what the organism wants more of (but nonetheless the organism must also fit the constraints of survivability).
+
+So it is not so much for information processing (though it does have that function), and it is not so much decision making (though it also has that function), but it is for the joy of experience in-and-of itself. It, consciousness, is (literally) a sweet reward for living, for the organism.
 
 ## How is it actually constructed?
 
@@ -52,9 +56,13 @@ Or is it like a person performing a relay-run delivering messages between two lo
 
 ## Theory
 
-Of these options, I think the Orchestra metaphor seems to best align with our nature as an evolved species and what we are so far able to observe about the animal brain.
+I think that organisms have evolved to generate and experience an integrated consciousness directly in their own Physics.
 
-I think it has both an informational purpose (efficient communication) and an incentive process which are both evolutionarily beneficial. I think the brain has evolved to know what a well-integrated experience would look like, purely by its physical aspects.
+I think the primary, but not only, evolutionary benefit was as a mechanism to make organisms "keener" in their evolutionary competition - because being able to feel joy *matters*.
+
+I think the best metaphor for generation of consciousness *might* be as an orchestra, as it seems to be more amenable to gradual evolution.
+
+I accept that this theory while attempting to give answers to the "Why", has fallen well short of the "How" that a brain could directly experience consciousness in itself.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
