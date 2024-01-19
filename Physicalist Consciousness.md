@@ -34,13 +34,13 @@ It's these latter 2 theories that seems most likely to me right now - that exper
 - either that it is a genuine intelligence in its own right (but somehow linked to a specific body)
 - or that it is a phenomena experienced by the brain directly
 
-I think it helps to follow the metaphor that consciousness is a bed for the brain to lie upon, enjoy. Consciousness is the apple to be enjoyed, and the brain has evolved to make the most of that apple for its own sake. Because that is what the organism wants more of (but nonetheless the organism must also fit the constraints of survivability).
+I think it helps to follow the metaphor that consciousness is a bed for the brain to lie upon, enjoy. Consciousness is the apple to be enjoyed, and the brain has evolved to make the most of that apple for its own sake. Because that is what the organism wants more of (but nonetheless the organism must also fit the constraints of survivability). The brain clings to consciousness more so than consciousness clings to the brain.
 
 So it is not so much for information processing (though it does have that function), and it is not so much decision making (though it also has that function), but it is for the joy of experience in-and-of itself. It, consciousness, is (literally) a sweet reward for living, for the organism.
 
 ## How is it actually constructed?
 
-Is it like an oil painting that one can efficiently tend to specific details, and indefinitely make efficient alterations as needed with a brush?
+Is it like an oil painting that one can efficiently tend to specific details, and indefinitely make efficient alterations as needed with a brush? (IIT would fall into this categorization with its state-based definition and implied fast state transitions).
 
 - This seems far fetched and raising many new questions, however if it were possible to arrive from at from an evolutionary pathway, it also sounds very efficient.
 - If the state of the picture exists globally, then how would there be access control?
@@ -53,8 +53,6 @@ Or is it like an orchestra, where every musician sends out a different sound and
 
 Or is it like a person performing a relay-run delivering messages between two locations continuously, with the thing being relayed also having conscious experience?
 - I'm unaware of a good candidate for this theory, as the spinal cord can be severed or half the brain removed without loss of consciousness. The brain stem could be a next-best candidate, but I don't know if there's an appropriate relay end-point at it's bottom? Or around the internal medullary laminar of the thalamus?
-
-Is it like a divine pattern in Physics that metaphysics interprets as conscious? (sort of like IIT).
 
 ## Theory
 
