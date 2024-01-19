@@ -2,7 +2,21 @@
 
 *Originally created 16th January 2024*
 
-## Why do we have consciousness
+## Theory
+
+I think that organisms have evolved to generate and experience an integrated consciousness directly in their own Physics.
+
+I think the primary, but not only, evolutionary benefit was as a mechanism to make larger organisms "keener" in their evolutionary competition - because being able to feel joy *matters*.
+
+I think the best metaphor for generation of consciousness *might* be as an orchestra, as it seems to be more amenable to gradual evolution. But stateful approaches and unknown Physics seems entirely possible.
+
+I think that non-dualist and non-functional explanations are best for describing how a brain might be the direct experiencer of conscious experience. The candidates that I'm aware fitting best would be Biological Naturalism and/or Cosmopsychism, and/or Orch OR.
+
+The contribution of this discussion (and my earlier discussions) is provide supporting arguments as to why these 3 theories, of the half-dozen or more major theories, should be the ones to lend most credence to. But it still remains for proponents of the theories to gain the definitive success.
+
+## Explanation
+
+### Why do we have consciousness
 
 Suppose that conscious experience is something evolution (accidentally) stumbled upon and settled on because it was helpful *in itself* for evolutionary survival.
 
@@ -38,7 +52,7 @@ I think it helps to follow the metaphor that consciousness is a bed for the brai
 
 So it is not so much for information processing (though it does have that function), and it is not so much decision making (though it also has that function), but it is for the joy of experience in-and-of itself. It, consciousness, is (literally) a sweet reward for living, for the organism. In the dynamic, nuanced and long-living world of large intelligent organisms, "reasons to live" that refer to experience give the organism an improvement in survival and reproduction during evolution.
 
-## How is it actually constructed?
+### How is it actually constructed?
 
 Is it like an oil painting that one can efficiently tend to specific details, and indefinitely make efficient alterations as needed with a brush? (IIT would fall into this categorization with its state-based definition and implied fast state transitions).
 
@@ -54,18 +68,6 @@ Or is it like an orchestra, where every musician sends out a different sound and
 
 Or is it like a person performing a relay-run delivering messages between two locations continuously, with the thing being relayed also having conscious experience?
 - I'm unaware of a good candidate for this theory, as the spinal cord can be severed or half the brain removed without loss of consciousness. The brain stem could be a next-best candidate, but I don't know if there's an appropriate relay end-point at it's bottom? Or around the internal medullary laminar of the thalamus?
-
-## Theory
-
-I think that organisms have evolved to generate and experience an integrated consciousness directly in their own Physics.
-
-I think the primary, but not only, evolutionary benefit was as a mechanism to make organisms "keener" in their evolutionary competition - because being able to feel joy *matters*.
-
-I think the best metaphor for generation of consciousness *might* be as an orchestra, as it seems to be more amenable to gradual evolution.
-
-I accept that this theory while attempting to give answers to the "Why", has fallen well short of the "How" that a brain could directly experience consciousness in itself.
-
-I think that non-dualist and non-functional explanations are best for describing how a brain might be the direct experiencer of conscious experience. The candidates that I'm aware fitting best would be Biological Naturalism and/or Cosmopsychism, and/or Orch OR.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
