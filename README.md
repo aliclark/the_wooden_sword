@@ -1,16 +1,16 @@
 # Topics
 
 
-[Physicalist Consciousness](Physicalist%20Consciousness.md) - my current theory of Consciousness - Metaphysics
+[Physicalist Consciousness](Physicalist%20Consciousness.md) - third attempt on the problem of consciousness
 <br>*Originally created 16th January 2024*
 
-[Questions in Experience Realism](Questions%20in%20Experience%20Realism.md) - my open questions about Qualia - Consciousness and Formlessness - Metaphysics
+[Questions in Experience Realism](Questions%20in%20Experience%20Realism.md) - some questions about Qualia - Consciousness and Formlessness - Metaphysics
 <br>*Originally created 13th January 2024*
 
-[Evolved Existence Programming](Evolved%20Existence%20Programming.md) - ideas on the hard problem of Consciousness - Metaphysics and Biology
+[Evolved Existence Programming](Evolved%20Existence%20Programming.md) - second attempt on the problem of consciousness
 <br>*Originally created 11th January 2024*
 
-[Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - scientific predictions relating to the easy problem of consciousness in Neuroscience - Biology
+[Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - first attempt on the problem of consciousness
 <br>*Originally created 5th January 2024*
 
 [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md) - a philosophical theory of Actuality - Ontology, Metaphysics
