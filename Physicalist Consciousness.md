@@ -65,7 +65,7 @@ I think the best metaphor for generation of consciousness *might* be as an orche
 
 I accept that this theory while attempting to give answers to the "Why", has fallen well short of the "How" that a brain could directly experience consciousness in itself.
 
-I think that non-dualist and non-functional explanations are best for describing how a brain might be the direct experiencer of conscious experience. The candidates that I'm aware fitting best would be Biological Naturalism and/or Panpaychism, and/or Orch OR.
+I think that non-dualist and non-functional explanations are best for describing how a brain might be the direct experiencer of conscious experience. The candidates that I'm aware fitting best would be Biological Naturalism and/or Cosmopsychism, and/or Orch OR.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
@@ -79,4 +79,5 @@ I think that non-dualist and non-functional explanations are best for describing
 - [Electromagnetic theories of consciousness](https://en.wikipedia.org/wiki/Electromagnetic_theories_of_consciousness)
 - Searle - Biological Naturalism
 - Penrose and Hammeroff - Orchestrated objective reduction
+- Priority Cosmopsychism
 - Please contact me by Discussions (link above), Issues or Pull Request
