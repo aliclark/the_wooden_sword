@@ -13,7 +13,7 @@
 [Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - first attempt on the problem of consciousness
 <br>*Originally created 5th January 2024*
 
-[Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md) - a philosophical theory of Actuality - Ontology, Metaphysics
+[Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md) - philosophical theory of Actuality - Ontology, Metaphysics
 <br>*Originally created 7th June 2023*
 
 [AI Good News, Bad News](AI%20Good%20News%2c%20Bad%20News.md) - thoughts on AGI risk and control in Artifical Intelligence - Security
