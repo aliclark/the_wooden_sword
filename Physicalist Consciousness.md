@@ -36,7 +36,7 @@ It's these latter 2 theories that seems most likely to me right now - that exper
 
 I think it helps to follow the metaphor that consciousness is a bed for the brain to lie upon, enjoy. Consciousness is the apple to be enjoyed, and the brain has evolved to make the most of that apple for its own sake. Because that is what the organism wants more of (but nonetheless the organism must also fit the constraints of survivability). The brain clings to (various aspects of reality via) consciousness rather than consciousness clings to (the whole reality via) the brain.
 
-So it is not so much for information processing (though it does have that function), and it is not so much decision making (though it also has that function), but it is for the joy of experience in-and-of itself. It, consciousness, is (literally) a sweet reward for living, for the organism. In the nuanced world of large intelligent organisms, "reasons to live" that refer to experience give the organism the edge in reproducibility.
+So it is not so much for information processing (though it does have that function), and it is not so much decision making (though it also has that function), but it is for the joy of experience in-and-of itself. It, consciousness, is (literally) a sweet reward for living, for the organism. In the nuanced world of large intelligent organisms, "reasons to live" that refer to experience give the organism an improvement in survival and reproduction.
 
 ## How is it actually constructed?
 
