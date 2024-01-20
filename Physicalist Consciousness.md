@@ -12,7 +12,7 @@ Because of this, it is imperative that the brain itself is the experiencer of co
 
 Our conscious experience is integrated from the processed input signals and is used to help decide next actions (output signals). This means that we can expect the integration to occur in a way which minimises delay in the more computationally-heavy and potentially urgent input scenario. The best candidate for this is in and around the intralaminary nuclei of the thalamus. The central location minimises delay of processed signals from processing centres all across the brain, and it has excellent communication links and blood flow. It's well protected, and as there are two mirror sides, seems plausible that it can be at least a bit fault tolerant (though a neuroscientist would need to confim). Areas of the thalamus have been found to be a direct neural correlate of consciousness in the past.
 
-I think that non-dualist and non-functional explanations are best for describing how a brain might be the direct experiencer of conscious experience. The candidates that I'm aware fitting best would be Biological Naturalism and/or Cosmopsychism, and/or Orch OR.
+I think that non-dualist and non-functional explanations are best for describing how a brain might be the direct experiencer of conscious experience. The candidates that I'm aware fitting best would be Biological Naturalism and/or Cosmopsychism and/or Orchestrated objective reduction.
 
 The contribution of this discussion (and my earlier discussions) is provide supporting arguments as to why these 3 theories, of the half-dozen or more major theories, should be the ones to lend most credence to. But it still remains for proponents of the theories to gain the definitive success.
 
@@ -80,7 +80,6 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - Plato - Theory of forms
 - [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
 - Delay-line memory
-- [Electromagnetic theories of consciousness](https://en.wikipedia.org/wiki/Electromagnetic_theories_of_consciousness)
 - Searle - Biological Naturalism
 - Penrose and Hammeroff - Orchestrated objective reduction
 - Priority Cosmopsychism
