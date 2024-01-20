@@ -16,6 +16,10 @@ I think that non-dualist and non-functional explanations are best for describing
 
 The contribution of this discussion (and my earlier discussions) is provide supporting arguments as to why these 3 theories, of the half-dozen or more major theories, should be the ones to lend most credence to. But it still remains for proponents of the theories to gain the definitive success.
 
+- - -
+
+As more distant possibility is that the brain works in symbiosis with a dualistic intelligent consciousness. I haven't ruled it out yet, but while conceptually simple it seems a more opaque explanation and has it's own difficulties (mind-body problem).
+
 ## Explanation
 
 ### Why do we have consciousness
