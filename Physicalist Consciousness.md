@@ -8,7 +8,9 @@ I think that organisms have evolved to generate and experience an integrated con
 
 I think the primary, but not only, evolutionary benefit was as a mechanism to make larger organisms "keener" in their evolutionary competition - because being able to feel joy *matters*.
 
-I think the best metaphor for generation of consciousness *might* be as an orchestra, as it seems to be more amenable to gradual evolution. But stateful approaches and unknown Physics seems entirely possible.
+Because of this, it is imperative that the brain itself is the experiencer of consciousness - it should not happen "elsewhere", as in a dualist (or, arguably, a functionalist) interpretation.
+
+Our conscious experience is integrated from the processed input signals and is used to help decide next actions (output signals). This means that we can expect the integration to occur in a way which minimises delay in the more computationally-heavy and potentially urgent input scenario. The best candidate for this is in and around the intralaminary nuclei of the thalamus. The central location minimises delay of processed signals from processing centres all across the brain, and it has excellent communication links and blood flow. It's well protected, and as there are two mirror sides, seems plausible that it can be at least a bit fault tolerant (though a neuroscientist would need to confim). Areas of the thalamus have been found to be a direct neural correlate of consciousness in the past.
 
 I think that non-dualist and non-functional explanations are best for describing how a brain might be the direct experiencer of conscious experience. The candidates that I'm aware fitting best would be Biological Naturalism and/or Cosmopsychism, and/or Orch OR.
 
