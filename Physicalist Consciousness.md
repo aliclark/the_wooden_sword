@@ -18,7 +18,7 @@ The contribution of this discussion (and my earlier discussions) is provide supp
 
 - - -
 
-As more distant possibility is that the brain works in symbiosis with a dualistic intelligent consciousness. I haven't ruled it out yet, but while conceptually simple it seems a more opaque explanation and has it's own difficulties (mind-body problem).
+As more distant possibility is that the brain works in dualistic symbiosis with an intelligent consciousness. I haven't ruled it out yet, but while conceptually simple it seems a more opaque explanation and has it's own difficulties (mind-body problem).
 
 ## Explanation
 
