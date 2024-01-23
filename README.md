@@ -1,5 +1,7 @@
 # Topics
 
+[Fear, Greed, Corruption, Distrust](Fear%2c%20Greed%2c%20Corruption%2c%20Distrust.md) - my take on the causes of the world's problems
+<br>*Originally created 23th January 2024*
 
 [Physicalist Consciousness](Physicalist%20Consciousness.md) - third attempt on the problem of Consciousness
 <br>*Originally created 16th January 2024*
