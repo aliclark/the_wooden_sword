@@ -11,7 +11,7 @@ The reasons for this are:
   For example, many people across the world eat far more red meat than is healthy.
   This is because we've evolved to find it almost unquenchably delicious,
   since in the most of our evolution there was slim chance of eating too much red meat and more often too little.
-  (This also ties in significantly to status acquisition, another evolved trait - as being the *one* eating the red meat was often much more important than the bodily benefit of the red meat itself.)
+  (This also ties in significantly to status acquisition, another evolved trait - as being the *one* eating the meat was often much more important than the bodily benefit of the meat itself.)
 - in part owing to the first point, we have significantly more psychological trauma within us
   due to a lack of secure attachment even with our own parents, and the huge amount of stress and constraints the modern world places upon them.
   Many humans grow up with both parents absent for much of the time due to professional work,
