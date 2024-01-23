@@ -1,4 +1,5 @@
 # Fear, Greed, Corruption, Distrust
+*Originally created 23th January 2024*
 
 It's not too difficult for anyone to imagine a "better system" or a better way of doing things than the current.
 
