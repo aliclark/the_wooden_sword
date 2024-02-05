@@ -67,7 +67,9 @@ In fact, that’s a lie, the solution couldn’t more easily smack you in the fa
 ### Known prior work
 
 - Silicon Valley S03E02 directed by Mike Judge, written by Ron Weiner: "Pied Piper's product is its stock"
-- (Almost certainly) Economics work on Inequality (- please let me know!)
+- Techno Feudalism - Yanis Varoufakis (earlier in blog form, now published as a book)
+  - despite the "Techno" name, the book addresses the same general issue across the global economy as discussed in this post
+- (Almost certainly) Other Economics work on Inequality (- please let me know!)
 
 ### Subsequent work
 
