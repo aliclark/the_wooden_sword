@@ -69,7 +69,7 @@ In fact, that’s a lie, the solution couldn’t more easily smack you in the fa
 - Silicon Valley S03E02 directed by Mike Judge, written by Ron Weiner: "Pied Piper's product is its stock"
 - Techno Feudalism - Yanis Varoufakis (earlier in blog form, now published as a book)
   - despite the "Techno" name, the book addresses the same general issue across the global economy as discussed in this post
-  - (as an aside, the book is by no means perfect, as it misses out severely limits the window of history and uses questionable metaphors. I also think it could better sell its Marxist philosophy if it simply said "it takes a society to make an X", and left it at that.)
+  - (as an aside, the book is by no means perfect, as it severely limits its window of history, and uses questionable metaphors. I also think it could better sell its Marxist philosophy if it simply said "it takes a society to make an X", and left it at that.)
 - (Almost certainly) Other Economics work on Inequality (- please let me know!)
 
 ### Subsequent work
