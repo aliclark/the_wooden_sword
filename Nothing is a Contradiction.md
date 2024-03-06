@@ -28,7 +28,9 @@ Although I have talked of non-Nothing, and non non-Actuality as though they may 
 
 One may even further decide to ascribe to the theory that there isn't *anything* that is the effect of a cause, that instead the full universe simply is Actualized at once, including travel along its time dimension. One may say that the Buddha's and Aristotle's treatments of Causality were successful theories in Natural Science up to a point (and that point is the discovery and applications of Thermodynamic Time by Sadi Carnot in 1824), but that they do not have applicability in the realm of Metaphysics.
 
-I believe Satre was too poetic when it got to this point - because his focus was on existentialism and not ontology, he poetically stated "Nothingness
+---
+
+I believe Satre was too poetic when it got to the point of ontology - because his focus was more on existentialism, he poetically states "Nothingness
 lies coiled in the heart of being—like a worm". This is problematic as an ontological argument if one agrees with Parmenides that "Nothing comes from nothing" - one still needs to pick one of the standard ontological roots then: God, Mind, Value, etc.
 
 This problem disappears if one takes the Frege and Bertrand Russell position that Nothing is only illusory and/or explanatory.
