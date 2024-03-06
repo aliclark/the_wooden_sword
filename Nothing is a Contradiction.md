@@ -39,7 +39,7 @@ I find Hegel's dialectical relationship between being and nothingness helpful as
 
 In a sense one could perhaps describe this post straightforwardly as: Parmenides' Ontology, but swapping in Frege, Russell and ultimately Satre's explanation of Nothing in place of Parmenides' one.
 
-This leads to an important philosophical contribution to Metaphysical Ontology, which is to provide a logical post-hoc explanation for Actuality, and at the same time the explanation for why this Actuality is Uncaused and without even a prime mover.
+This leads to an important philosophical contribution to Metaphysical Ontology, which is to provide a logical from-principles explanation for Actuality, and at the same time giving an explanation for why this Actuality is Uncaused and without even a prime mover.
 
 ## Discussion
 
