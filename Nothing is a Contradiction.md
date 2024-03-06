@@ -35,6 +35,8 @@ This problem disappears if one takes the Frege and Bertrand Russell position tha
 
 The philosophical contribution of this post therefore is to take Satre's explanation of non-Nothingness to the ontological level, but at the same time taking Frege and Russell's position that Nothing is truly absent throughout.
 
+I find Hegel's dialectical relationship between being and nothingness helpful as a metaphor, but only that. Due to Parmenides, Frege and Russell I think it isn't quite right to say Being is definitionally in relation to Nothing. Just that we could explain Being after the fact using the intellectual concept of negation and the intellectual concept of Nothing, and I believe Hegel was going further than that.
+
 ## Discussion
 
 This philosophical argument aims to serve as part of a map, but a map is not the territory. The spiritual and religious practices and (perhaps) skepticism give better tools for understanding the territory, the experience of existing.
@@ -55,6 +57,7 @@ Investigation into more ontological contradictions, and constraints on that whic
 
 ### Known prior work
 - Parmenides reached essentially the same conclusions and argued that Nothing is impossible, but the argument is much weaker because it is based on a disqualification rooted in our subjective legibility being in some way a "cause" (ironic and weak reasoning... "He is no other than myself, And yet I am not he") rather than an absolute contradiction (and impossibility) of the intrinsics. I posit that when we can describe, it is simply a position of pure *luxury* of existing, rather than of any necessity.
+- Hegel - a dialectical relationship between being and nothingness
 - Gottlob Frege - "nothing" (like 0) is special, it refers to absence
 - Bertrand Russell - it is an error to treat "nothing" as a subject that exists
 - Jean-Paul Satre - explained the logical contradiction of Nothing. A lot of his surrounding thought has existentialism, human psychology as its reference point, but nonetheless the argument carries to ontological nothing.
