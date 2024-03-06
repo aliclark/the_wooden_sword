@@ -2,11 +2,17 @@
 
 *Originally created 7th June 2023*
 
+> Nothingness if it is supported by being, vanishes qua nothingness, and we fall back upon
+being. Nothingness can be nihilated only on the foundation of being; if nothingness can be
+given, it is neither before nor after being, nor in a general way outside of being. Nothingness
+lies coiled in the heart of being—like a worm.
+Jean-Paul Satre
+
 Most of current Ontology boils down to a brute fact: there is a God, there is Mathematics, there is a Universe, there is Value, there is Mind, or there is Actuality (and Potentiality).
 
 Here I outline an alternative to the above, in order to answer the question "Why is there something rather than nothing?".
 
-The argument hinges on 'Nothing'. Whereas philosophers have frequently spoken of Nothing in the past, I believe it is a critical mistake. Ontological Nothing cannot be, by definition. Therefore, non-nothing must be, however specified. But without a causal specifier, it is non-nothing, without specification.
+The argument hinges on 'Nothing'. Whereas philosophers have frequently spoken of Nothing in the past, like Russell I believe it is a critical mistake. Ontological Nothing cannot be, by definition, as explained by Satre. Therefore, non-nothing must be, however specified. But without a causal specifier, it is non-nothing, without specification.
 
 This provides a plausible theory for the most critical axiom of all, Existence.
 
@@ -45,4 +51,7 @@ Investigation into more ontological contradictions, and constraints on that whic
 - Thank you to Robert Lawrence Kuhn for the TV Series *Closer to Truth*, which gave a very good overview and introduction to the topic.
 - Some philosphy has argued that asking of Nothing is meaningless, but more from the angle that a "Nothing" would require a Truth to assert it, and that presence of Truth would contradict there being Nothing, hence there is not Nothing. I don't believe this is quite the same as arguing that Nothing by its own definition is impossible to exist, and I don't think the other formulation is as helpful a foundation. For one thing, it sort of replaces Actuality as the primary axiom with some concept "Truth", which is not in the least bit helpful. But saying there is no Non-Actuality is not relying on any concept of Truth, it merely relays the definition and leaves Actuality as the only viability, hence the question is answered: it could not have been otherwise, or better, "(this) is".
 - Parmenides reached essentially the same conclusions and argued that Nothing is impossible, but the argument is much weaker because it is based on a disqualification rooted in our subjective legibility being in some way a "cause" (ironic and weak reasoning... "He is no other than myself, And yet I am not he") rather than an absolute contradiction (and impossibility) of the intrinsics. I posit that when we can describe, it is simply a position of pure *luxury* of existing, rather than of any necessity.
+- Gottlob Frege - "nothing" (like 0) is special, it refers to absence
+- Bertrand Russel - it is an error to treat "nothing" as a subject that exists
+- Jean-Paul Satre - explained the logical contradiction of Nothing. A lot of his surrounding thought has existentialism, human psychology as its reference point, but nonetheless the argument carries to ontological nothing.
 - Please contact me by Discussions (link above), Issues or Pull Request
