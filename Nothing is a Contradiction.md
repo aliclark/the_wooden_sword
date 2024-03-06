@@ -28,6 +28,13 @@ Although I have talked of non-Nothing, and non non-Actuality as though they may 
 
 One may even further decide to ascribe to the theory that there isn't *anything* that is the effect of a cause, that instead the full universe simply is Actualized at once, including travel along its time dimension. One may say that the Buddha's and Aristotle's treatments of Causality were successful theories in Natural Science up to a point (and that point is the discovery and applications of Thermodynamic Time by Sadi Carnot in 1824), but that they do not have applicability in the realm of Metaphysics.
 
+I believe Satre was too poetic when it got to this point - because his focus was on existentialism and not ontology, he poetically stated "Nothingness
+lies coiled in the heart of being—like a worm". This is problematic as an ontological argument if one agrees with Parmenides that "Nothing comes from nothing" - one still needs to pick one of the standard ontological roots then: God, Mind, Value, etc.
+
+This problem disappears if one takes the Frege and Bertrand Russell position that Nothing is only illusory and/or explanatory.
+
+The philosophical contribution of this post therefore is to take Satre's explanation of non-Nothingness to the ontological level, but at the same time taking Frege and Russell's position that Nothing is truly absent throughout.
+
 ## Discussion
 
 This philosophical argument aims to serve as part of a map, but a map is not the territory. The spiritual and religious practices and (perhaps) skepticism give better tools for understanding the territory, the experience of existing.
@@ -52,6 +59,6 @@ Investigation into more ontological contradictions, and constraints on that whic
 - Some philosphy has argued that asking of Nothing is meaningless, but more from the angle that a "Nothing" would require a Truth to assert it, and that presence of Truth would contradict there being Nothing, hence there is not Nothing. I don't believe this is quite the same as arguing that Nothing by its own definition is impossible to exist, and I don't think the other formulation is as helpful a foundation. For one thing, it sort of replaces Actuality as the primary axiom with some concept "Truth", which is not in the least bit helpful. But saying there is no Non-Actuality is not relying on any concept of Truth, it merely relays the definition and leaves Actuality as the only viability, hence the question is answered: it could not have been otherwise, or better, "(this) is".
 - Parmenides reached essentially the same conclusions and argued that Nothing is impossible, but the argument is much weaker because it is based on a disqualification rooted in our subjective legibility being in some way a "cause" (ironic and weak reasoning... "He is no other than myself, And yet I am not he") rather than an absolute contradiction (and impossibility) of the intrinsics. I posit that when we can describe, it is simply a position of pure *luxury* of existing, rather than of any necessity.
 - Gottlob Frege - "nothing" (like 0) is special, it refers to absence
-- Bertrand Russel - it is an error to treat "nothing" as a subject that exists
+- Bertrand Russell - it is an error to treat "nothing" as a subject that exists
 - Jean-Paul Satre - explained the logical contradiction of Nothing. A lot of his surrounding thought has existentialism, human psychology as its reference point, but nonetheless the argument carries to ontological nothing.
 - Please contact me by Discussions (link above), Issues or Pull Request
