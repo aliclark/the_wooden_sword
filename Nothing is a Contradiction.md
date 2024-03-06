@@ -39,7 +39,7 @@ The philosophical contribution of this post therefore is to take Satre's explana
 
 I find Hegel's dialectical relationship between being and nothingness helpful as a metaphor, but only that. Due to Parmenides, Frege and Russell I think it isn't quite right to say Being is definitionally in relation to Nothing. Just that we could explain Being after the fact using the intellectual concept of negation and the intellectual concept of Nothing, and I believe Hegel was going further than that.
 
-Or, one could perhaps even more straightforwardly: Parmenides' Ontology, but swapping in Satre's explanation of Nothing in place of Parmenides' one.
+Or, one could perhaps describe this post even more straightforwardly: Parmenides' Ontology, but swapping in Satre's explanation of Nothing in place of Parmenides' one.
 
 ## Discussion
 
