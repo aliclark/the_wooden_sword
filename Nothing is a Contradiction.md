@@ -35,11 +35,11 @@ lies coiled in the heart of being—like a worm". This is problematic as an onto
 
 This problem disappears if one takes the Frege and Russell position that Nothing is only illusory and/or explanatory. If we take that position we don't agree with the coiled worm analogy. Nonetheless, the argument against Nothing by Satre is true.
 
-The philosophical contribution of this post therefore is to take Satre's explanation of non-Nothingness to the ontological level, but at the same time taking Frege and Russell's position that Nothing is truly absent throughout.
-
 I find Hegel's dialectical relationship between being and nothingness helpful as a metaphor, but only that. Due to Parmenides, Frege and Russell I think it isn't quite right to say Being is definitionally in relation to Nothing. Just that we could explain Being after the fact using the intellectual concept of negation and the intellectual concept of Nothing, and I believe Hegel was going further than that.
 
-Or, one could perhaps describe this post even more straightforwardly: Parmenides' Ontology, but swapping in Frege, Russell and ultimately Satre's explanation of Nothing in place of Parmenides' one.
+In a sense one could perhaps describe this post straightforwardly as: Parmenides' Ontology, but swapping in Frege, Russell and ultimately Satre's explanation of Nothing in place of Parmenides' one.
+
+This leads to an important philosophical contribution to Metaphysical Ontology, which is to provide a logical post-hoc explanation for Actuality, and at the same time the explanation for why this Actuality is Uncaused and without even a primary mover.
 
 ## Discussion
 
