@@ -33,7 +33,7 @@ One may even further decide to ascribe to the theory that there isn't *anything*
 I believe Satre was too poetic when it got to the point of ontology - because his focus was more on existentialism, he poetically states "Nothingness
 lies coiled in the heart of being—like a worm". This is problematic as an ontological argument if one agrees with Parmenides that "Nothing comes from nothing" - one still needs to pick one of the standard ontological roots then: God, Mind, Value, etc.
 
-This problem disappears if one takes the Frege and Bertrand Russell position that Nothing is only illusory and/or explanatory. If we take that position we don't agree with the coiled worm analogy, but apart from that the argument against Nothing remains valid.
+This problem disappears if one takes the Frege and Russell position that Nothing is only illusory and/or explanatory. If we take that position we don't agree with the coiled worm analogy, but apart from that the argument against Nothing remains valid.
 
 The philosophical contribution of this post therefore is to take Satre's explanation of non-Nothingness to the ontological level, but at the same time taking Frege and Russell's position that Nothing is truly absent throughout.
 
