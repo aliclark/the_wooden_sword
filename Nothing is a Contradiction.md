@@ -6,7 +6,7 @@
 being. Nothingness can be nihilated only on the foundation of being; if nothingness can be
 given, it is neither before nor after being, nor in a general way outside of being. Nothingness
 lies coiled in the heart of being—like a worm.
-Jean-Paul Satre
+>> Jean-Paul Satre
 
 Most of current Ontology boils down to a brute fact: there is a God, there is Mathematics, there is a Universe, there is Value, there is Mind, or there is Actuality (and Potentiality).
 
