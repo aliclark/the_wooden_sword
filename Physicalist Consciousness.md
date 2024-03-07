@@ -101,7 +101,7 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - Epicurus - organisms are motivated to seek pleasure and avoid pain
 - Herbert Spencer - the idea that consciousness is evolved
 - William James - consciousness as an evolved and pragmatic trait for survival
-- William McDougall - the idea that consciousness is evolved in order to make animals "keener" survivalists
+- William McDougall - consciousness is evolved in order to make animals "keener" survivalists
 - [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
 - [Delay-line memory](https://en.wikipedia.org/wiki/Delay-line_memory)
 - George Miller - idea that consciousness is evolved to aid information processing
