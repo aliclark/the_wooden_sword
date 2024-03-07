@@ -6,13 +6,13 @@
 being. Nothingness can be nihilated only on the foundation of being; if nothingness can be
 given, it is neither before nor after being, nor in a general way outside of being. Nothingness
 lies coiled in the heart of being—like a worm.
-<br>- Jean-Paul Satre
+<br>- Jean-Paul Sartre
 
 Most of current Ontology boils down to a brute fact: there is a God, there is Mathematics, there is a Universe, there is Value, there is Mind, or there is Actuality (and Potentiality).
 
 Here I outline an alternative to the above, in order to answer the question "Why is there something rather than nothing?".
 
-The argument hinges on 'Nothing'. Whereas philosophers have frequently spoken of Nothing in the past, like Russell I believe it is a critical mistake. Ontological Nothing cannot be, by definition, as explained by Satre. Therefore, non-nothing must be, however specified. But without a causal specifier, it is non-nothing, without specification.
+The argument hinges on 'Nothing'. Whereas philosophers have frequently spoken of Nothing in the past, like Russell I believe it is a critical mistake. Ontological Nothing cannot be, by definition, as explained by Sartre. Therefore, non-nothing must be, however specified. But without a causal specifier, it is non-nothing, without specification.
 
 This provides a plausible theory for the most critical axiom of all, Existence.
 
@@ -37,7 +37,7 @@ This problem disappears if one takes the Frege and Russell position that Nothing
 
 I find Hegel's dialectical relationship between being and nothingness helpful as a metaphor, but only that. Due to Parmenides, Frege and Russell I think it isn't quite right to say Being is definitionally in relation to Nothing. Just that we could explain Being after the fact using the intellectual concept of negation and the intellectual concept of Nothing, and I believe Hegel was going further than that.
 
-In a sense one could perhaps describe this post straightforwardly as: Parmenides' Ontology, but swapping in Frege, Russell and ultimately Satre's explanation of Nothing in place of Parmenides' one.
+In a sense one could perhaps describe this post straightforwardly as: Parmenides' Ontology, but swapping in Frege, Russell and ultimately Sartre's explanation of Nothing in place of Parmenides' one.
 
 However doing so leads to a philosophical contribution to Metaphysical Ontology, which is to provide a logical from-principles explanation for Actuality, and at the same time giving an explanation for why this Actuality is Uncaused and without even a prime mover.
 
