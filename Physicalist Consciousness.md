@@ -20,6 +20,12 @@
 
 ## Theory
 
+I think that biological neuroscientific data is helpful for generating and guiding theories of consciousness.
+
+I think that even the hard problem of consciousness may be able to generate testable predictions, *if* the experimenter is able to test the prediction on their own consciousness.
+
+I think new Physics or a reinterpretation of some of current Physics will need to be theorised.
+
 I think that organisms have evolved to generate and experience an integrated consciousness directly in their own Physics.
 
 I think the primary, but not only, evolutionary benefit was as a mechanism to make larger organisms "keener" in their evolutionary competition - because being able to feel joy *matters*.
