@@ -28,7 +28,7 @@ I think new Physics or a reinterpretation of some of current Physics will need t
 
 I think that organisms have evolved to generate and experience an integrated consciousness directly in their own Physics.
 
-I think the primary, but not only, evolutionary benefit was as a mechanism to make larger organisms "keener" in their evolutionary competition - because being able to feel joy *matters*.
+I think the primary, but not only, evolutionary benefit was as a mechanism to make larger organisms "keener" in their evolutionary competition - because being able to feel joy *matters*. An intelligent being who relies only on DNA information to guide its values will find its values will not give it a sufficient edge in a complex world. Feeling emotions can provide values that remain beneficial to the organism in complex, changing environments a long time after birth.
 
 Because of this, it is imperative that the brain itself is the experiencer of consciousness - it should not happen "elsewhere", as in a dualist (or, arguably, a functionalist) interpretation.
 
