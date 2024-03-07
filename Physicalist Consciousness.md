@@ -99,7 +99,9 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - Herbert Spencer - the idea that consciousness is evolved
 - William McDougall - the idea that consciousness is evolved in order to make animals "keener" survivalists
 - [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
-- Delay-line memory
+- [Delay-line memory](https://en.wikipedia.org/wiki/Delay-line_memory)
+- George Miller - idea that consciousness is evolved to aid information processing
+- Daniel Dennett - a theory of how consciousness evolved to aid information processing
 - Searle - Biological Naturalism
 - Penrose and Hammeroff - Orchestrated objective reduction
 - Priority Cosmopsychism
