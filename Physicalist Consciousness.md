@@ -99,7 +99,7 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - Panpsychism
 - Plato - Theory of form
 - Epicurus - organisms are motivated to seek pleasure and avoid pain
-- Herbert Spencer - the idea that consciousness is evolved, aiding survival
+- Herbert Spencer - the idea that consciousness is evolved, aiding survival through better mental processing
 - [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
 - [Delay-line memory](https://en.wikipedia.org/wiki/Delay-line_memory)
 - Allen Newell and Herbert Simon - consciousness provides the intelligent being an edge due to better goal setting than non-conscious intelligent beings
