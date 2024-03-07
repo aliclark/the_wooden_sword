@@ -95,8 +95,11 @@ How much is in unconscious existence (not encoded as state in the physical brain
 - *One Mind* Doctrine of Zen
 - René Descartes - Mind-Body problem and Mind-body dualism
 - Darwin and Wallace - Scientific Evolutionary theory
+- Herbert Spencer - the idea that consciousness is evolved
 - William James - consciousness as an evolved and pragmatic trait for survival
-- Multiple realizability
-- Delay-line memory
+- [Delay-line memory](https://en.wikipedia.org/wiki/Delay-line_memory)
+- George Miller - idea that consciousness is evolved to aid information processing
+- [Multiple realizability](https://en.wikipedia.org/wiki/Multiple_realizability)
+- Daniel Dennett - a theory of how consciousness evolved to aid information processing
 - The Brain with David Eagleman - What Is Reality - BBC Documentary 2016
 - Please contact me by Discussions (link above), Issues or Pull Request
