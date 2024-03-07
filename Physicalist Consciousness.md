@@ -2,7 +2,7 @@
 
 *Originally created 16th January 2024*
 
-## TL;DR: see instead Daniel Dennett, Penrose and Hammeroff, Newell and Simon
+## ** TL;DR: see instead Daniel Dennett, Penrose and Hammeroff, Newell and Simon **
 
 **My posts on the topic of Consciousness:**
 
