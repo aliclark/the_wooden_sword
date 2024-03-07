@@ -63,14 +63,12 @@
 - *One Mind* Doctrine of Zen
 - Panpsychism
 - Darwin and Wallace - Scientific Evolutionary theory
-- Herbert Spencer - the idea that consciousness is evolved
-- William James - consciousness as an evolved and pragmatic trait for survival
+- Herbert Spencer - the idea that consciousness is evolved, aiding survival through better mental processing
 - Russellian monism
 - Schrodinger - Mind and Matter talks about the fact of an evolved arrangement leading to conscious experience
 - [Delay-line memory](https://en.wikipedia.org/wiki/Delay-line_memory)
-- George Miller - idea that consciousness is evolved to aid information processing
 - [Multiple realizability](https://en.wikipedia.org/wiki/Multiple_realizability)
-- Daniel Dennett - a theory of how consciousness evolved to aid information processing
+- Daniel Dennett - a theory of how consciousness evolved to aid survival
 - Cosmopsychism
 - Thank you to Max Tegmark for the book *Life 3.0*, which gave a very good overview and introduction to the topic, including excellent discussion of using science to tackle consciousness by looking at physical qualities.
 - My view on IIT is that I can readily believe that all conscious systems will pass the definition, but not that all systems passing the IIT definition will be conscious. Moreover, despite being nearly impossible to refute experimentally, I think some parts of the brain and nervous system in the neck-down body would pass the definitions of IIT while not themselves giving rise to (commensurate?) consciousness. Physics is form which *can* be described informationally, but consciousness (experience) is Physics, not merely information.
