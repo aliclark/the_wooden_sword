@@ -99,13 +99,10 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - Panpsychism
 - Plato - Theory of form
 - Epicurus - organisms are motivated to seek pleasure and avoid pain
-- Herbert Spencer - the idea that consciousness is evolved
-- William James - consciousness as an evolved and pragmatic trait for survival
-- William McDougall - consciousness is evolved in order to make animals "keener" survivalists
+- Herbert Spencer - the idea that consciousness is evolved, aiding survival
 - [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
 - [Delay-line memory](https://en.wikipedia.org/wiki/Delay-line_memory)
-- George Miller - idea that consciousness is evolved to aid information processing
-- Allen Newell and Herbert Simon - consciousness provides the intelligent being an edge with better goal setting than non-conscious intelligent beings
+- Allen Newell and Herbert Simon - consciousness provides the intelligent being an edge due to better goal setting than non-conscious intelligent beings
 - Daniel Dennett - a theory of how consciousness evolved to aid survival
 - Searle - Biological Naturalism
 - Penrose and Hammeroff - Orchestrated objective reduction
