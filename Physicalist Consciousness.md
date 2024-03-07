@@ -2,7 +2,7 @@
 
 *Originally created 16th January 2024*
 
-## ** TL;DR: see instead Antonio Damasio, Daniel Dennett, Penrose and Hammeroff **
+## ** TL;DR: see instead Antonio Damasio, Roger Penrose and Stuart Hammeroff **
 
 **My posts on the topic of Consciousness:**
 
@@ -103,9 +103,8 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
 - [Delay-line memory](https://en.wikipedia.org/wiki/Delay-line_memory)
 - Allen Newell and Herbert Simon - consciousness provides the intelligent being an edge due to better goal setting than non-conscious intelligent beings
-- Daniel Dennett - a theory of how consciousness evolved to aid survival
 - Searle - Biological Naturalism
 - Penrose and Hammeroff - Orchestrated objective reduction
-- Damasio - somatic markers (emotions aiding decision processes)
+- Antonio Damasio - somatic markers (emotions aiding decision processes)
 - Priority Cosmopsychism
 - Please contact me by Discussions (link above), Issues or Pull Request
