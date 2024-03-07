@@ -2,6 +2,8 @@
 
 *Originally created 11th January 2024*
 
+## ** TL;DR: see instead [Physicalist Consciousness](Physicalist%20Consciousness.md) **
+
 **My posts on the topic of Consciousness:**
 
 [Physicalist Consciousness](Physicalist%20Consciousness.md) - third attempt on the problem of Consciousness
