@@ -7,7 +7,7 @@ Even if we had these systems magicked into existence however, I'm certain they w
 
 The reasons for this are:
 
-- the world we live in is substantially different from the one we evolved in, so we are mostly ill-suited to it (The Myth of Normal)
+- the world we live in is substantially different from the one we evolved in, so we are mostly ill-suited to it (cite: The Myth of Normal)
 - we are following our evolutionary programming beyond where it is helpful.
   For example, many people across the world eat far more red meat than is healthy.
   This is because we've evolved to find it almost unquenchably delicious,
