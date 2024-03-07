@@ -96,6 +96,7 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - Thales - Arche
 - Panpsychism
 - Plato - Theory of form
+- Epicurus - organisms are motivated to seek pleasure and avoid pain
 - Herbert Spencer - the idea that consciousness is evolved
 - William James - consciousness as an evolved and pragmatic trait for survival
 - William McDougall - the idea that consciousness is evolved in order to make animals "keener" survivalists
