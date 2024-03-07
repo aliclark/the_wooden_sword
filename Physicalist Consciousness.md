@@ -107,5 +107,6 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - Daniel Dennett - a theory of how consciousness evolved to aid information processing
 - Searle - Biological Naturalism
 - Penrose and Hammeroff - Orchestrated objective reduction
+- David Chalmers - the hard problem of consciousness may be related to the "hedonic problem" of explaining the nature of pleasure and pain
 - Priority Cosmopsychism
 - Please contact me by Discussions (link above), Issues or Pull Request
