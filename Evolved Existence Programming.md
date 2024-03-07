@@ -98,6 +98,5 @@ How much is in unconscious existence (not encoded as state in the physical brain
 - Herbert Spencer - the idea that consciousness is evolved, aiding survival through better mental processing
 - [Delay-line memory](https://en.wikipedia.org/wiki/Delay-line_memory)
 - [Multiple realizability](https://en.wikipedia.org/wiki/Multiple_realizability)
-- Daniel Dennett - a theory of how consciousness evolved to aid survival
 - The Brain with David Eagleman - What Is Reality - BBC Documentary 2016
 - Please contact me by Discussions (link above), Issues or Pull Request
