@@ -104,7 +104,7 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - [Delay-line memory](https://en.wikipedia.org/wiki/Delay-line_memory)
 - George Miller - idea that consciousness is evolved to aid information processing
 - Nicholas Humphrey - consciousness evolved as an "inner eye", with pleasurable sensations serving as incentives
-- Daniel Dennett - a theory of how consciousness evolved to aid information processing
+- Daniel Dennett - a theory of how consciousness evolved to aid survival
 - Searle - Biological Naturalism
 - Penrose and Hammeroff - Orchestrated objective reduction
 - David Chalmers - the hard problem of consciousness may be related to the "hedonic problem" of explaining the nature of pleasure and pain
