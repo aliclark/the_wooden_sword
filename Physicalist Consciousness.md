@@ -2,6 +2,8 @@
 
 *Originally created 16th January 2024*
 
+## TL;DR: see instead Daniel Dennett, Penrose and Hammeroff, Newell and Simon
+
 **My posts on the topic of Consciousness:**
 
 [Physicalist Consciousness](Physicalist%20Consciousness.md) - third attempt on the problem of Consciousness (**You are here**)
@@ -28,7 +30,7 @@ Our conscious experience is integrated from the processed input signals and is u
 
 I think that non-dualist and non-functional explanations are best for describing how a brain might be the direct experiencer of conscious experience. The candidates that I'm aware fitting best would be Biological Naturalism and/or Cosmopsychism and/or Orchestrated objective reduction.
 
-The contribution of this discussion (and my earlier discussions) is provide supporting arguments as to why these 3 theories, of the half-dozen or more major theories, should be the ones to lend most credence to. But it still remains for proponents of the theories to gain the definitive success.
+The aim of this discussion (and my earlier discussions) is provide supporting arguments as to why these 3 theories, of the half-dozen or more major theories, should be the ones to lend most credence to. But it still remains for proponents of the theories to gain the definitive success.
 
 - - -
 
@@ -103,7 +105,7 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
 - [Delay-line memory](https://en.wikipedia.org/wiki/Delay-line_memory)
 - George Miller - idea that consciousness is evolved to aid information processing
-- Nicholas Humphrey - consciousness evolved as an "inner eye", with pleasurable sensations serving as incentives
+- Allen Newell and Herbert Simon - consciousness provides the intelligent being an edge with better goal setting than non-conscious intelligent beings
 - Daniel Dennett - a theory of how consciousness evolved to aid survival
 - Searle - Biological Naturalism
 - Penrose and Hammeroff - Orchestrated objective reduction
