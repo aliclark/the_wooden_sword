@@ -2,6 +2,8 @@
 
 *Originally created 5th January 2024*
 
+## ** TL;DR: see instead [Evolved Existence Programming](Evolved%20Existence%20Programming.md) **
+
 **My posts on the topic of Consciousness:**
 
 [Physicalist Consciousness](Physicalist%20Consciousness.md) - third attempt on the problem of Consciousness
