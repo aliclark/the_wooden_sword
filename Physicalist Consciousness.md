@@ -81,7 +81,9 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - Upanishads - consciousness as analagous to sound (ōm)
 - Thales - Arche
 - Panpsychism
-- Plato - Theory of forms
+- Plato - Theory of form
+- Herbert Spencer - the idea that consciousness is evolved
+- William McDougall - the idea that consciousness is evolved in order to make animals "keener" survivalists
 - [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
 - Delay-line memory
 - Searle - Biological Naturalism
