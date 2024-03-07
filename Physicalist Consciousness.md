@@ -2,7 +2,7 @@
 
 *Originally created 16th January 2024*
 
-## ** TL;DR: see instead Damasio, Daniel Dennett, Penrose and Hammeroff **
+## ** TL;DR: see instead Antonio Damasio, Daniel Dennett, Penrose and Hammeroff **
 
 **My posts on the topic of Consciousness:**
 
