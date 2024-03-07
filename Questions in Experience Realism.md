@@ -2,6 +2,20 @@
 
 *Originally created 13th January 2024*
 
+**My posts on the topic of Consciousness:**
+
+[Physicalist Consciousness](Physicalist%20Consciousness.md) - third attempt on the problem of Consciousness
+<br>*Originally created 16th January 2024*
+
+[Questions in Experience Realism](Questions%20in%20Experience%20Realism.md) - some questions about Qualia - Consciousness and Formlessness - Metaphysics (**You are here**)
+<br>*Originally created 13th January 2024*
+
+[Evolved Existence Programming](Evolved%20Existence%20Programming.md) - second attempt on the problem of Consciousness
+<br>*Originally created 11th January 2024*
+
+[Evolved Emergent Qualia](Evolved%20Emergent%20Qualia.md) - first attempt on the problem of Consciousness
+<br>*Originally created 5th January 2024*
+
 ## Questions
 
 What is the realism of experience (qualia)?
