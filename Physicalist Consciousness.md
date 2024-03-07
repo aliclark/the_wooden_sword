@@ -22,7 +22,7 @@
 
 I think that biological neuroscientific data is helpful for generating and guiding theories of consciousness, as well as evolutionary theory and possibly systems theory.
 
-I think that theories on even the hard problems of consciousness may be able to generate testable predictions, *if* the experimenter is able to test the predictions on their own consciousness.
+I think that theories on even the hard problems of consciousness may be able to generate testable predictions, *if* experimenters are able to repeatedly test the predictions on *their own* consciousness.
 
 I think new Physics or a reinterpretation of some of current Physics will need to be theorised.
 
