@@ -20,7 +20,7 @@
 
 ## Theory
 
-I think that biological neuroscientific data is helpful for generating and guiding theories of consciousness.
+I think that biological neuroscientific data is helpful for generating and guiding theories of consciousness, as well as evolutionary theory and possibly systems theory.
 
 I think that even the hard problem of consciousness may be able to generate testable predictions, *if* the experimenter is able to test the prediction on their own consciousness.
 
