@@ -60,7 +60,7 @@ Investigation into more ontological contradictions, and constraints on that whic
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
 ### Known prior work
-- Parmenides reached essentially the same conclusions and argued that Nothing is impossible, but the argument is much weaker because it is based on a disqualification rooted in our subjective legibility being in some way a "cause" rather than an absolute contradiction (and impossibility) of the intrinsics.
+- Parmenides argued that Nothing is impossible, but the argument is much weaker because it is based on a disqualification rooted in our subjective legibility being in some way a "cause" rather than an absolute contradiction (and impossibility) of the intrinsics. This means it is not an argument of truly causeless actuality.
 - Hegel - a dialectical relationship between being and nothingness
 - Gottlob Frege - "nothing" (like 0) is special, it refers to absence
 - Bertrand Russell - it is an error to treat "nothing" as a subject that exists
