@@ -115,5 +115,5 @@ Or is it like a person performing a relay-run delivering messages between two lo
 - Penrose and Hammeroff - Orchestrated objective reduction
 - Antonio Damasio - somatic markers (emotions aiding decision processes)
 - Priority Cosmopsychism
-- Mark Solms - the importance of consciousness for survival of newly born in particular
+- Mark Solms - the importance of consciousness for the survival of newly born in particular
 - Please contact me by Discussions (link above), Issues or Pull Request
