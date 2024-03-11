@@ -24,7 +24,7 @@ I think that biological neuroscientific data is helpful for generating and guidi
 
 I think that theories on even the hard problems of consciousness may be able to generate testable predictions, *if* experimenters are able to repeatedly test the predictions on *their own* consciousness.
 
-I think new Physics or a reinterpretation of some of current Physics will need to be theorised.
+I think new Physics or a reinterpretation of some of current Physics will need to be theorised. Once it is discovered, we will call it (part of) Physics.
 
 I think that organisms have evolved to generate and experience an integrated consciousness directly in their own Physics.
 
