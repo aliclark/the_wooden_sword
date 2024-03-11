@@ -36,7 +36,7 @@ Our conscious experience is integrated from the processed input signals and is u
 
 I think that non-dualist and non-functional explanations are best for describing how a brain might be the direct experiencer of conscious experience. The candidates that I'm aware fitting best would be Biological Naturalism and/or Cosmopsychism and/or Orchestrated objective reduction.
 
-Integrated Information Theory is the Cargo Cult of Information Theory. Manage to create something complex and informationey? Congratulations! You have created a conscious being! For a few more seriously put arguments against, please see (https://scottaaronson.blog/?p=1799)[https://scottaaronson.blog/?p=1799]
+Integrated Information Theory is the Cargo Cult of Information Theory. Manage to create something complex and informationey? Congratulations! You have created a conscious being! For a few more seriously put arguments against, please see Scott Aaronson's [Why I Am Not An Integrated Information Theorist](https://scottaaronson.blog/?p=1799).
 
 The aim of this discussion (and my earlier discussions) is provide supporting arguments as to why these 3 theories, of the half-dozen or more major theories, should be the ones to lend most credence to. But it still remains for proponents of the theories to gain the definitive success.
 
