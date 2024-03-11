@@ -38,7 +38,7 @@ I think that non-dualist and non-functional explanations are best for describing
 
 Integrated Information Theory is the Cargo Cult of Consciousness Theory. Manage to create something complex and informationey? Congratulations! You have created a conscious being! For a few more seriously put arguments against, please see Scott Aaronson's [Why I Am Not An Integrated Information Theorist](https://scottaaronson.blog/?p=1799). (I agree with most but not all of what Aaronson says. I hold reasonable confidence there is not a cyan teapot circling the moon at this precise moment, and I have no reason as yet to believe I won't eventually have similar confidence in what is and is not conscious, once a theory is better understood. Even though I'm *not* saying I am certain there is no cyan teapot circling the moon).
 
-The aim of this discussion (and my earlier discussions) is provide supporting arguments as to why these 3 theories, of the half-dozen or more major theories, should be the ones to lend most credence to. But it still remains for proponents of the theories to gain the definitive success.
+The aim of this discussion (and my earlier discussions) is provide supporting arguments as to why these 3 theories, of the half-dozen or more major theories, should be the ones to lend most credence to. It still remains for proponents of the theories to gain the definitive success.
 
 - - -
 
