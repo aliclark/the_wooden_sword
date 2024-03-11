@@ -2,7 +2,7 @@
 
 *Originally created 16th January 2024*
 
-## ** TL;DR: see instead Antonio Damasio, Roger Penrose and Stuart Hammeroff **
+## ** TL;DR: see instead Mark Solms, Antonio Damasio, Roger Penrose and Stuart Hammeroff **
 
 **My posts on the topic of Consciousness:**
 
@@ -32,7 +32,7 @@ I think the primary, but not only, evolutionary benefit was as a mechanism to ma
 
 Because of this, it is imperative that the brain itself is the experiencer of consciousness - it should not happen "elsewhere", as in a dualist (or, arguably, a functionalist) interpretation.
 
-Our conscious experience is integrated from the processed input signals and is used to help decide next actions (output signals). This means that we can expect the integration to occur in a way which minimises delay in the more computationally-heavy and potentially urgent input scenario. The best candidate for this is in and around the intralaminary nuclei of the thalamus. The central location minimises delay of processed signals from processing centres all across the brain, and it has excellent communication links and blood flow. It's well protected, and as there are two mirror sides, seems plausible that it can be at least a bit fault tolerant (though a neuroscientist would need to confim). Areas of the thalamus have been found to be a direct neural correlate of consciousness in the past.
+Our conscious experience is integrated from the processed input signals and is used to help decide next actions (output signals). This means that we can expect the integration to occur in a way which minimises delay in the more computationally-heavy and potentially urgent input scenario. The best candidate for this is in and around the intralaminary nuclei of the thalamus. The central location minimises delay of processed signals from processing centres all across the brain, and it has excellent communication links and blood flow. It's well protected, and as there are two mirror sides, seems plausible that it can be at least a bit fault tolerant (though a neuroscientist would need to confim). Areas of the thalamus have been found to be a direct neural correlate of consciousness in the past. For many of these reasons the brain stem is also a very good candidate.
 
 I think that non-dualist and non-functional explanations are best for describing how a brain might be the direct experiencer of conscious experience. The candidates that I'm aware fitting best would be Biological Naturalism and/or Cosmopsychism and/or Orchestrated objective reduction.
 
