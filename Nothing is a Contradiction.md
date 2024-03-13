@@ -53,7 +53,7 @@ I'd like to add a reminder that as the Buddha taught, suffering arises from a mi
 
 I think the most plausible description of the nature of that which is existing is that whatever it is, it is (at least initially) singular, and unbounded. To me it seems quite implausible that the first ontological object would be of a countable nature, or even objectifiable at all. "Singular and unbounded", or more simply "unbounded" seems to straightforwardly provide a route past that specificity.
 
-Many religions and spiritual doctrines place ultimate reality as beyond all conception, which I believe also means making logical statements about an ontological nothing. According to this, the theory is totally unfounded, as one could not say one way or the other. I think this is a very valid and probably more sensible philosophical position.
+Many religions and spiritual doctrines place ultimate reality as beyond all conception, which I believe also carries to making logical statements about an ontological nothing. According to this, the theory is totally unfounded, as one could not say one way or the other. I think this is a very valid and probably more sensible philosophical position.
 
 ## Further work
 
