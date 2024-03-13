@@ -45,9 +45,7 @@ However doing so leads to a philosophical contribution to Metaphysical Ontology,
 
 ## Discussion
 
-This philosophical argument aims to serve as part of a map, but a map is not the territory. The spiritual and religious practices and (perhaps) skepticism give better tools for understanding the territory, the experience of existing.
-
-For similar reasons, I think that of the above the Mind (Only) interpretation of existence is perhaps the most helpful orientation, or God and a Genesis-based interpretation for the theologically inclined (although there is obviously a lot unsaid about the existence of an active God - if a sufficient amount could be said then we would instead use a different term), or perhaps following a self-defenestrating philosophy such as Skepticism or Buddhism.
+This philosophical argument aims to serve as part of a map, but a map is not the territory. The spiritual and religious practices and science give better tools for understanding the territory, the experience of existing.
 
 The argument does not yet ensure that the law of cause and effect is mandatory in all of existence. If there are an unbounded set of causes and an unbounded set of effects existing in their own right, it would make the law of cause and effect a moot point, even if there do exist fuller, more properly defined universes which do fully abide to it. Potentially there could be an ontological enforcement of cause and effect owing to a hitherto undiscovered law of ontology, or could be as a result of God. This point is academic, since we have no ability to discern the actual nature of causes, which lie in the past. But it seems a natural line of enquiry to attempt to clarify.
 
