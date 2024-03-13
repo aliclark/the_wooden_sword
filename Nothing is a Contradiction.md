@@ -35,7 +35,7 @@ One may even further decide to ascribe to the theory that there isn't *anything*
 I believe Satre was too poetic when it got to the point of ontology - because his focus was more on existentialism, he poetically states "Nothingness
 lies coiled in the heart of being—like a worm". This is problematic as an ontological argument if one agrees with Parmenides that "Nothing comes from nothing" - one still needs to pick one of the standard ontological roots then: God, Mind, Value, etc.
 
-This problem disappears if one takes the Frege and Russell position that Nothing is only illusory and/or explanatory. If we take that position we don't agree with the coiled worm analogy (except as metaphorical). Nonetheless, the argument against Nothing by Satre is true.
+This problem disappears if one takes the Frege and Russell position that Nothing is only illusory and/or explanatory. If we take that position we don't agree with the coiled worm analogy (except as metaphorical around the concept). Nonetheless, the argument against Nothing by Satre is true.
 
 I find Hegel's dialectical relationship between being and nothingness helpful as a metaphor, but only that. Due to Parmenides, Frege and Russell I think it isn't quite right to say Being is definitionally in relation to Nothing. Just that we could explain Being after the fact using the intellectual concept of negation and the intellectual concept of Nothing, and I believe Hegel was going further than that.
 
