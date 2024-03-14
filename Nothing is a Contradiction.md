@@ -45,7 +45,7 @@ However doing so leads to a philosophical contribution to Metaphysical Ontology,
 
 ## Discussion
 
-This philosophical argument aims to serve as part of a map, but a map is not the territory. The spiritual and religious practices and science give better tools for understanding the territory, the experience of existing.
+This philosophical argument aims to serve as part of a map, but a map is not the territory. There are myriad avenues of life which give better tools for a greater understanding (of the territory, the experience of existing).
 
 The argument does not yet ensure that the law of cause and effect is mandatory in all of existence. If there are an unbounded set of causes and an unbounded set of effects existing in their own right, it would make the law of cause and effect a moot point, even if there do exist fuller, more properly defined universes which do fully abide to it. Potentially there could be an ontological enforcement of cause and effect owing to a hitherto undiscovered law of ontology, or could be as a result of God. This point is academic, since we have no ability to discern the actual nature of causes, which lie in the past. In our universe, the law of cause and effect appears conventionally true.
 
