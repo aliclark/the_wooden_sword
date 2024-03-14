@@ -22,6 +22,8 @@ This also means the existing is uncaused/causeless. It doesn't require a prime m
 
 ## Explanation
 
+(Nb. Here I use the term "Actuality" more like a placeholder rather than folllowing any stricter definition of the word)
+
 The argument is that Actuality is explained in the more basic fact of non non-Actuality. A statement of Actuality as fact by itself is unsatisfactory, because it doesn't appropriately answer the question of Why. But "non-Nothing" can be seen as correct not just in experience but also in being able to follow the absence of a contradictory How (ie. the thesis could be disproved simply by presenting an existent Nothing, but logically this cannot and will not occur). So the clarified exposition gives Actuality and also the foundational understanding of Why there is Actuality - which is rooted in the non-existence of Nothing, owing to its definitional impossibility.
 
 There has never been Nothing, never will be Nothing, never could be Nothing. If Nothing *is*, then it is something not Nothing. If it is not, then it *is not* (Nothing). Because it could not, it did not. And because it did not, there was not Nothing. Necessarily, there was Something by the absence of Nothing, which is the inverse of Something. One may be tempted to say that the possibility "it *is not* (Nothing)" is itself a viable outcome (akin to an unnamed Nothing), and it is! (in a sense) But a Nothing that *is not* it is not unnamed Nothing, is is Something.
