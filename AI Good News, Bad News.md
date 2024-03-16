@@ -2,7 +2,7 @@
 
 Edit Edit: I now believe that:
 - Multiple ASIs could be intelligent enough to be able to agree on and implement protocols that enables trust, cooperation, deconfliction, so security does not necessarily depend on there only being one ASI (btw, I'm not a Security expert)
-- I think the ASI will be able to help most actors to have improved self-love and happiness, reducing the breadth of the security problem
+- I think the ASI will be able to help most people gain self-love and happiness, reducing the breadth of the security problem
 
 - - -
 
