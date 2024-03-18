@@ -47,11 +47,7 @@ However doing so leads to a philosophical contribution to Metaphysical Ontology,
 
 This philosophical argument aims to serve as part of a map, but a map is not the territory. It should be contrasted with the myriad avenues of life which give better tools for understanding and appreciating the territory, the experience of existing.
 
-Many religions and spiritual doctrines place ultimate reality as beyond all conception, which I believe would also include these logical statements about an ontological nothing. If that is indeed the case then this theory is totally unfounded, as one could not say one way or the other. I think this is a very valid, and maybe more sensible, philosophical position to have.
-
-## Further work
-
-Investigation into more ontological contradictions, and constraints on that which is existing.
+Many religions and spiritual doctrines place ultimate reality as beyond all conception, which I believe would also include these logical statements about an ontological nothing. If that is the case then this theory is totally unfounded, as one could not say one way or the other. I think this is a very valid, and maybe more sensible, philosophical position to have.
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
 
@@ -62,5 +58,5 @@ Investigation into more ontological contradictions, and constraints on that whic
 - Bertrand Russell - it is an error to treat "nothing" as a subject that exists
 - Jean-Paul Satre - explained the logical contradiction of Nothing. A lot of his surrounding thought has existentialism and human psychology as its reference point rather than ontology, but nonetheless this argument carries to ontological nothing.
 - Thank you to Robert Lawrence Kuhn for the TV Series *Closer to Truth*, which gave a very good overview and introduction to the topic.
-- Some philosphy has argued that asking of Nothing is meaningless, but more from the angle that a "Nothing" would require a Truth to assert it, and that presence of Truth would contradict there being Nothing, hence there is not Nothing. I don't believe this is quite the same as arguing that Nothing by its own definition is impossible to exist, and I don't think the other formulation is as helpful a foundation. For one thing, it sort of replaces Actuality as the primary axiom with some concept "Truth", which is not in the least bit helpful. But saying there is no Non-Actuality is post hoc explanatory and not relying on any concept of Truth, it merely relays the definition and leaves Actuality as the only viability, hence the question is answered: it could not have been otherwise, or better, "(this) is".
+- Some philosphy has argued that asking of Nothing is meaningless, but more from the angle that a "Nothing" would require a Truth to assert it, and that presence of Truth would contradict there being Nothing, hence there is not Nothing. I don't believe this is quite the same as arguing that Nothing by its own definition is impossible to exist, and I don't think the other formulation is as helpful a foundation. For one thing, it sort of replaces Actuality as the primary axiom with some concept "Truth", which is not in the least bit helpful. But saying there is no Non-Actuality is post hoc explanatory and not relying on any concept of Truth, it merely relays the definition and leaves Actuality as the only viability, hence the question is answered: it could not have been otherwise, or better, "(this) is". Nor do I believe saying Nothing is meaningless is he best way to say that ultimate reality is beyond all conceptialisation.
 - Please contact me by Discussions (link above), Issues or Pull Request
