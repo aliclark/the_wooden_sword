@@ -30,8 +30,6 @@ There has never been Nothing, never will be Nothing, never could be Nothing. If 
 
 Although I have talked of non-Nothing, and non non-Actuality as though they may be causes of Actuality, since these have no basis anywhere the truth is they are only descriptive of the absence of alternatives to Actuality, therefore it can be said that Actuality is Causeless, and it must be asserted that this is in fact a possible, necessary even, attribute for a root axiom.
 
-One may even further decide to ascribe to the theory that there isn't *anything* that is the effect of a cause, that instead the full universe simply is Actualized at once, including travel along its time dimension. One may say that the Buddha's and Aristotle's treatments of Causality were successful theories in Natural Science up to a point (that point being 1824, with Thermodynamic Time being discovered by Sadi Carnot), but that they do not have applicability in the realm of Metaphysics.
-
 ---
 
 I believe Satre was too poetic when it got to the point of ontology - because his focus was more on existentialism, he poetically states "Nothingness
@@ -47,13 +45,9 @@ However doing so leads to a philosophical contribution to Metaphysical Ontology,
 
 ## Discussion
 
-This philosophical argument aims to serve as part of a map, but a map is not the territory. There are myriad avenues of life which give better tools for a greater understanding (of the territory, the experience of existing).
+This philosophical argument aims to serve as part of a map, but a map is not the territory. It should be contrasted with the myriad avenues of life which give better tools for understanding and appreciating the territory, the experience of existing.
 
-The argument does not yet ensure that the law of cause and effect is mandatory in all of existence. If there are an unbounded set of causes and an unbounded set of effects existing in their own right, it would make the law of cause and effect a moot point, even if there do exist fuller, more properly defined universes which do fully abide to it. Potentially there could be an ontological enforcement of cause and effect owing to it being a law of ontology, or could be as a result of God. This point is academic, since we have no ability to discern the actual nature of causes, which lie in the past. In our universe, the law of cause and effect appears conventionally true.
-
-The theory could imply there is a great deal of suffering, which is a distressing thought. I'll try to respond by saying that as the Buddha taught, suffering arises from a misapprehension of self. This isn't intended to downplay suffering, but might be helpful for accepting its existence in the universe and potentially beyond. It also seems likely that due to the continuous and interconnected nature of the universe, it is not possible to create any (or at least a diverse) universe with sentience but without that including suffering as part of the spectrum of experience. So the two could not be meaningfully separated and we experience both good and bad.
-
-Many religions and spiritual doctrines place ultimate reality as beyond all conception, which I believe also carries to making logical statements about an ontological nothing. According to this, the theory is totally unfounded, as one could not say one way or the other. I think this is a very valid and probably more sensible philosophical position to have.
+Many religions and spiritual doctrines place ultimate reality as beyond all conception, which I believe would also include these logical statements about an ontological nothing. If that is indeed the case then this theory is totally unfounded, as one could not say one way or the other. I think this is a very valid, and maybe more sensible, philosophical position to have.
 
 ## Further work
 
