@@ -24,7 +24,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 6. So the weight of probability states that your present experience exists within something much closer to an infinitely complex self-consistent universe.
 
-### Supporting Indra's Net
+### Support for Indra's Net
 
 7. I have so far made arguments assuming an ontological scenario of an infinite plurality of possible universes (which is not totally unfounded - it doesn't seem outright impossible that our universe could exist while at the same time some completely distinct universe also exists, nor that ontology couldn't accomodate infinite existences. It seems most straightforward to believe either 1 or infinity is correct, in any case).
 
