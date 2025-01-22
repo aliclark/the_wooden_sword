@@ -29,8 +29,6 @@
 
 - - -
 
-~I ascribe philosophically to academic skepticism (I think).~ As a skeptic, I believe it is false to hold skepticism, or any other belief for that matter; and the same as a determinist and buddhist. As it is false to hold determinism, it is false to hold fatalism. Whenever I have the luxury of an explanation, I favour a scientific approach supported by metaphysical realism for the theories to hold better by Ockham’s Razor. The opposable thumb is no use apart from the claws, and without the palm they fall away.
-
 # Discuss
 
 ## [Discussions](https://github.com/aliclark/the_wooden_sword/discussions) welcome!
