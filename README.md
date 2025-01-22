@@ -1,6 +1,6 @@
 # Topics
 
-[Indra's Venn Diagram](Indra%27s%20Venn%20Diagram.md) - philosophical theory of Ontology, Metaphysics, Physics
+[Indra's Venn Diagram](Indra’s%20Venn%20Diagram.md) - philosophical theory of Ontology, Metaphysics, Physics
 <br>*Originally created 22nd January 2025*
 
 [Fear, Greed, Corruption, Distrust](Fear%2c%20Greed%2c%20Corruption%2c%20Distrust.md) - my take on the causes of the world's problems
