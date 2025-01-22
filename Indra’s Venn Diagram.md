@@ -10,7 +10,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 2. We can also say that we expect things to exist ontologically only if it's possible for it to exist ontologically, and that if a thing is self-contradictory, it is not possible for it to exist. So taking the inverse, only a self-consistent thing can exist ontologically.
 
-3. The Philisophically Skeptical experience is the single *minimal* universe that could possibly explain your present experience. There is exactly K=1 such universes.
+3. The Philosophically Skeptical experience is the single *minimal* universe that could possibly explain your present experience. There is exactly K=1 such universes.
 
 4. But there are also an infinite number of possible self-consistent universes that are more complex than, but also compatible with your present experience.
 
