@@ -26,7 +26,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 ### Supporting Indra's Net
 
-7. I have so far made arguments assuming an ontological scenario of an infinite plurality of possible universes (which is not totally unfounded - it doesn't seem outright impossible that our universe could exist while at the same time some completely distinct universe also exists, nor that ontology couldn't accomodate infinite existences - if anything finite existence feels less clear a scenario, perhaps except for 1).
+7. I have so far made arguments assuming an ontological scenario of an infinite plurality of possible universes (which is not totally unfounded - it doesn't seem outright impossible that our universe could exist while at the same time some completely distinct universe also exists, nor that ontology couldn't accomodate infinite existences. It seems most straightforward to believe either 1 or infinity is correct, in any case).
 
 8. There is traditionally a conflict between viewing Ontology as Monist versus a Plurality of Universes. I believe there is an ontological representation that overcomes the traditional contradiction of Ontological Monism vs. Ontological Plurality of Universes, which is Indra's Net.
 
