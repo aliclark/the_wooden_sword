@@ -6,6 +6,8 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 ## Theory
 
+### Refutation of Philosophical Skepticism
+
 1. Firstly we could say that *Nothing is a Contradiction* **also** seems to imply that there could be any number of existing universes compatible with the experience you are having right now.
 
 2. We can also say that we expect things to exist ontologically only if it's possible for it to exist ontologically, and that if a thing is self-contradictory, it is not possible for it to exist. So taking the inverse, only a self-consistent thing can exist ontologically.
@@ -21,6 +23,8 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 5. In fact this is true for any K specifying an amount of complexity.
 
 6. So the weight of probability states that your present experience exists within something much closer to an infinitely complex self-consistent universe.
+
+### Supporting Indra's Net
 
 7. I have so far made arguments assuming an ontological scenario of an infinite plurality of possible universes (which is not totally unfounded - it doesn't seem outright impossible that our universe could exist while at the same time some completely distinct universe also exists, nor that ontology couldn't accomodate boundless existences - if anything bounded existence feels less obvious a scenario).
 
