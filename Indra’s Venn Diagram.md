@@ -32,6 +32,6 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 9. For purposes here, it is easier to understand as a sprawling Venn Diagram. In this way we can see that a Universe may exist on one side of the Venn Diagram that is wholly different and distinct from another Universe on another side of the Venn Diagram. However, although this seems like a Plurality of Universes, they are in fact connected via a network of related Universes, so that in fact the ontology is a Monist whole.
 
-10. We could very speculatively describe our current Universe as being the overlap of 2 fundamentally distinct laws, General Relativity and Quantum Mechanics, that is our Universe only where the laws are in compatibility. Our universe would then be related to other universes that share one or both of those theories and perhaps others. The overlap with our universe may be only at points of singularity.
+10. We could very speculatively describe our current Universe as being the overlap of 2 fundamentally distinct laws, General Relativity and Quantum Mechanics, that is our Universe exists only where the laws are in compatibility. Our universe would then be related to other universes that share one or both of those theories and perhaps others. The overlap with our universe may be only at points of singularity.
 
 11. This shouldn't be understood as a bet against Quantum Gravity - the Venn Diagram nature means that there can be several valid and compatiblle, but different, universes overlapping with each other coinciding exact same relative experiences.
