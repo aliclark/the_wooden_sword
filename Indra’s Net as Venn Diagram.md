@@ -16,7 +16,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 4. We might take the sheer complexity of the present experience to be strongly suggestive of ontological infinities underlying, even if we humans have difficulty formalizing it effectively within mathematics.
 
-5. But there are also an infinite number of possible self-consistent universes that are more complex than, but also compatible with your present experience.
+5. This implies there are an infinite number of possible self-consistent universes that are more complex than a Philosophically Skeptical universe, that are also compatible with your present experience.
 
 6. So the weight of probability states that your present experience exists within a self-consistent universe that is more complex than the Philosophical Skepticism universe. ie. Philosophical Skepticism is infintessimally unlikely to be correct, if you accept the previous arguments and assumptions.
 
