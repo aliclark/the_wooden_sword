@@ -1,4 +1,4 @@
-# Indra's Venn Diagram
+# Indra's Net as Venn Diagram
 
 *Originally created 22nd January 2025*
 
