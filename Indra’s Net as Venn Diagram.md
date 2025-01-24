@@ -12,17 +12,17 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 2. We can also say that we expect things to exist ontologically only if it's possible for it to exist ontologically, and that if a thing is self-contradictory, it is not possible for it to exist. So taking the inverse, only a self-consistent thing can exist ontologically.
 
-3.a. We might empirically take the sheer complexity of the present experience to be strongly suggestive of ontological infinities underlying, even if we humans have difficulty formalizing it effectively within mathematics.
+3. We might empirically take the sheer complexity of the present experience to be strongly suggestive of ontological infinities underlying, even if we humans have difficulty formalizing it effectively within mathematics.
 
-3.b. We could say 'non-nothing' is equal to 'non-nothing without constraints', as we lack “sufficient reason” for why it should be constrained. A bound would be a constraint, so it's 'unbounded non-nothing'.
+4. We could also say 'non-nothing' is equal to 'non-nothing without constraints', since we lack “sufficient reason” for why it should be constrained. A bound would be a constraint, so this is the same as 'unbounded non-nothing'.
 
-4. The Philosophically Skeptical experience is the single *minimal* universe that could possibly explain your present experience. There is exactly K=1 such universes.
+5. The Philosophically Skeptical experience is the single *minimal* universe that could possibly explain your present experience. There is exactly K=1 such universes.
 
-5. But there are also an infinite number of possible self-consistent universes that are more complex than a Philosophically Skeptical universe, that are also compatible with your present experience.
+6. But there are also an infinite number of possible self-consistent universes that are more complex than a Philosophically Skeptical universe, that are also compatible with your present experience.
 
-6. Because they are possible to exist, and non-nothing is unconstrained, they do exist.
+7. Because they are possible to exist, and non-nothing is unconstrained, they do exist.
 
-7. So your present experience exists within a self-consistent universe that is more complex than the Philosophical Skepticism universe. ie. Philosophical Skepticism is infintessimally unlikely to be correct, if you accept the previous arguments and assumptions.
+8. So your present experience exists within a self-consistent universe that is more complex than the Philosophical Skepticism universe. ie. Philosophical Skepticism is infintessimally unlikely to be correct, if you accept the previous arguments and assumptions.
 
 5. In fact this is true for any K specifying an amount of complexity.
 
