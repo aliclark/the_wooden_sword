@@ -26,7 +26,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 9. In fact this is true for any K specifying an amount of complexity.
 
-10. So from the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is a universe with low complexity below some constant K.
+10. So from the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is a universe with a low complexity, below some constant K.
 
 ### Support for Indra's Net
 
