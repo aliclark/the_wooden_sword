@@ -46,4 +46,4 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 17. But, on the other hand, when we try with every 10th number (1->10, 2->20, 3->30, 4->40, 5->50, etc. infiniitely), the gap is not growing. Then, knowing we have one of those numbers we should bet that there is a 10% chance the number is divisible by 10, and we can bet 33% in the case of an every 3rd number.
 
-18. By the same logic, we can make reasonable guesses about the nature of our universe, which will be as good as our intuition about the underlying frequency of such universes. I believe this means we should bet on our universe being a "middle of the road" universe.
+18. By the same logic, we can make reasonable guesses about the nature of our universe, which will be as good as our intuition about the underlying frequency of such universes.
