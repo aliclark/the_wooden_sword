@@ -44,6 +44,6 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 16. While there are the same infinite number of natural numbers as are squares (1->1, 2->4, 3->9, 4->16, 5->25, etc. infinitely), when taking the relative position knowing first we have a number from infinity, we should assign 0% to the bet that our number is one of the squares. The reason is that the gaps between the natural numbers and squares continue to widen until they are infinitely far apart. Whereas for typical mathematical calculations infinity is seen to be infinity, when taking the position of a single element after the fact, it does matter whether one infinity is growing faster than another infinity.
 
-17. But, on the other hand, when we try with every 10th number (1->10, 2->20, 3->30, 4->40, 5->50, etc. infiniitely), the gap is not growing. Then, knowing we have one of those numbers we should bet that there is a 10% chance the number is divisible by 10, and we can bet 33% in the case of an every 3rd number.
+17. But, on the other hand, when we try with every 10th number (1->10, 2->20, 3->30, 4->40, 5->50, etc. infinitely), the gap is not growing. Then, knowing we have one of those numbers we should bet that there is a 10% chance the number is divisible by 10, and we can bet 33% in the case of an every 3rd number.
 
-18. By the same logic, we can make reasonable guesses about the nature of our universe, which will be as good as our intuition about the underlying frequency of such universes.
+18. By the same logic, we can (if we wish) make reasonable guesses about the nature of our universe, which will be as good as our intuition about the underlying frequency of such universes.
