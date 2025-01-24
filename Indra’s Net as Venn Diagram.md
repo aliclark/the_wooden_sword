@@ -22,7 +22,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 7. Because they are possible to exist, and non-nothing is unconstrained, they do exist.
 
-8. So your present experience exists within a self-consistent universe that is more complex than the Philosophical Skepticism universe. ie. Philosophical Skepticism is infintessimally unlikely to be correct, if you accept the previous arguments and assumptions.
+8. So your present experience exists within a self-consistent universe that is more complex than the Philosophical Skepticism universe. From the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is the universe where Philosophical Skepticism is correct, if you accept the previous arguments and assumptions.
 
 5. In fact this is true for any K specifying an amount of complexity.
 
