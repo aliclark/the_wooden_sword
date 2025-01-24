@@ -24,18 +24,18 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 8. So your present experience exists within a self-consistent universe that is more complex than the Philosophical Skepticism universe. From the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is the universe where Philosophical Skepticism is correct, if you accept the previous arguments and assumptions.
 
-5. In fact this is true for any K specifying an amount of complexity.
+9. In fact this is true for any K specifying an amount of complexity.
 
-6. So the weight of probability states that your present experience exists within something much closer to an infinitely complex self-consistent universe.
+10. So from the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is a universe with low complexity below some constant K.
 
 ### Support for Indra's Net
 
-7. I have so far made arguments assuming an ontological scenario of an infinite plurality of possible universes (which is not totally unfounded - it doesn't seem outright impossible that our universe could exist while at the same time some completely distinct universe also exists, nor that ontology couldn't accomodate infinite existences. It seems most straightforward to believe either 1 or infinity is correct, in any case).
+11. I have so far made arguments assuming an ontological scenario of an infinite plurality of possible universes (which is not totally unfounded - it doesn't seem outright impossible that our universe could exist while at the same time some completely distinct universe also exists, nor that ontology couldn't accomodate infinite existences. It seems most straightforward to believe either 1 or infinity is correct, in any case).
 
-8. There is traditionally a conflict between viewing Ontology as Monist versus a Plurality of Universes. I believe there is an ontological representation that overcomes the traditional contradiction of Ontological Monism vs. Ontological Plurality of Universes, which is Indra's Net.
+12. There is traditionally a conflict between viewing Ontology as Monist versus a Plurality of Universes. I believe there is an ontological representation that overcomes the traditional contradiction of Ontological Monism vs. Ontological Plurality of Universes, which is Indra's Net.
 
-9. For purposes here, it is easier to understand as a sprawling Venn Diagram, wider than the width of 2 circles. In this way we can see that a Universe may exist on one side of the Venn Diagram that is wholly different and distinct from another Universe on another side of the Venn Diagram. However, although this seems like a Plurality of Universes, they are in fact connected via a network of related Universes, so that in fact the ontology is a Monist whole.
+13. For purposes here, it is easier to understand as a sprawling Venn Diagram, wider than the width of 2 circles. In this way we can see that a Universe may exist on one side of the Venn Diagram that is wholly different and distinct from another Universe on another side of the Venn Diagram. However, although this seems like a Plurality of Universes, they are in fact connected via a network of related Universes, so that in fact the ontology is a Monist whole.
 
-10. We could very speculatively describe our current Universe as being the overlap of 2 fundamentally distinct laws, General Relativity and Quantum Mechanics, that is our Universe exists only where the laws are in compatibility. Our universe would then be related to other universes that share one or both of those theories and perhaps others. The overlap with our universe might be only at points of singularity, for universes that have drastically different laws, or could be in finite regions, in cases of quantum mechanics.
+14. We could very speculatively describe our current Universe as being the overlap of 2 fundamentally distinct laws, General Relativity and Quantum Mechanics, that is our Universe exists only where the laws are in compatibility. Our universe would then be related to other universes that share one or both of those theories and perhaps others. The overlap with our universe might be only at points of singularity, for universes that have drastically different laws, or could be in finite regions, in cases of quantum mechanics.
 
-11. This shouldn't be understood as a bet against Quantum Gravity - the Venn Diagram nature means that there can be many valid and compatible, but different, universes overlapping with each other coinciding exact same relative experiences.
+15. This shouldn't be understood as a bet against Quantum Gravity - the Venn Diagram nature means that there can be many valid and compatible, but different, universes overlapping with each other coinciding exact same relative experiences.
