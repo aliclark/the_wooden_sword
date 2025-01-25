@@ -2,7 +2,7 @@
 
 *Originally created 22nd January 2025*
 
-Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md), I've wanted to reconcile the fact that it left Philosophical Skeptical as perhaps the most obvious implication in an Ockham’s Razor sense, with what our experience itself seems to tell us, that we live in a larger Universe which is not merely the discrete moments of experience that Philosophical Skepticism only allows us to admit.
+Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md), I've wanted to reconcile the fact that it left Philosophical Skepticism as perhaps the most obvious implication in an Ockham’s Razor sense, with what our experience itself seems to tell us, that we live in a larger Universe which is not merely the discrete moments of experience that Philosophical Skepticism only allows us to admit.
 
 ## Theory
 
