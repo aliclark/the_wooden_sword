@@ -34,7 +34,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 12. There is traditionally a conflict between viewing Ontology as Monist versus a Plurality of Universes. I believe there is an ontological representation that overcomes the traditional contradiction of Ontological Monism vs. Ontological Plurality of Universes, which is Indra's Net.
 
-13. For purposes here, it is easier to understand through the metaphor of a sprawling Venn Diagram (wider than the width of 2 circles). In this way we can see that a Universe may exist on one side of the Venn Diagram that is wholly different and distinct from another Universe on another side of the Venn Diagram. However, although this seems like a Plurality of Universes, they are in fact connected via a network of related Universes, so that in fact the ontology is a Monist whole.
+13. For purposes here, it is easier to understand through the metaphor of a sprawling Venn Diagram (wider than the width of 2 circles) representing ontological overlap. In this way we can see that a Universe may exist on one side of the Venn Diagram that is wholly different and distinct from another Universe on another side of the Venn Diagram. However, although this seems like a Plurality of Universes, they are in fact connected via a network of related Universes, so that in fact the ontology is a Monist whole.
 
 ### Comments
 
