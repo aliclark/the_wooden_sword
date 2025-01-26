@@ -38,8 +38,6 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 ### Comments
 
-14. Although Indra's Net at first might seem an eternalist concept, Buddhist philosophy teaches that is not necessarily the case.
+14. We could very speculatively describe our current Universe as being the overlap of 2 fundamentally distinct laws, General Relativity and Quantum Mechanics, that is our Universe exists only where the laws are in compatibility. Our universe would then be related to other universes that share one or both of those theories and perhaps others. The overlap with our universe might be only at points of singularity, for universes that have drastically different laws, however it could also be in "normal" finite regions in cases of quantum mechanics.
 
-15. We could very speculatively describe our current Universe as being the overlap of 2 fundamentally distinct laws, General Relativity and Quantum Mechanics, that is our Universe exists only where the laws are in compatibility. Our universe would then be related to other universes that share one or both of those theories and perhaps others. The overlap with our universe might be only at points of singularity, for universes that have drastically different laws, however it could also be in "normal" finite regions in cases of quantum mechanics.
-
-16. This shouldn't be understood as a bet against Quantum Gravity - the Venn Diagram nature means that there can be many valid and compatible, but different, universes overlapping with each other coinciding exact same relative experiences.
+15. This shouldn't be understood as a bet against Quantum Gravity - the Venn Diagram nature means that there can be many valid and compatible, but different, universes overlapping with each other coinciding exact same relative experiences.
