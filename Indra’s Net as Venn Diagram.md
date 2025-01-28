@@ -2,11 +2,11 @@
 
 *Originally created 22nd January 2025*
 
-Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md), I've wanted to reconcile the fact that it left Philosophical Skepticism as perhaps the most obvious implication in an Ockham’s Razor sense, with what our experience itself seems to tell us, that we live in a larger Universe which is not merely the discrete moments of experience that Philosophical Skepticism only allows us to admit.
+Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md), I've wanted to reconcile the fact that it left Solipsism as perhaps the most obvious implication in an Ockham’s Razor sense, with what our experience itself seems to tell us, that we live in a larger Universe which is not merely the discrete moments of experience that Solipsism only allows us to admit.
 
 ## Theory
 
-### Refutation of Philosophical Skepticism
+### Refutation of Solipsism
 
 1. Firstly we could say that *Nothing is a Contradiction* **also** seems to imply that there could be any number of existing universes compatible with the experience you are having right now.
 
@@ -16,13 +16,13 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 4. We could also say 'non-nothing' is equal to 'non-nothing without constraints', since we lack “sufficient reason” for why it should be constrained. A bound would be a constraint, so this is the same as 'unbounded non-nothing'.
 
-5. The Philosophically Skeptical experience is the single *minimal* universe that could possibly explain your present experience. There is exactly K=1 such universes.
+5. The Solipsism experience is the single *minimal* universe that could possibly explain your present experience. There is exactly K=1 such universes.
 
-6. But there are also an infinite number of possible self-consistent universes that are more complex than a Philosophically Skeptical universe, that are also compatible with your present experience.
+6. But there are also an infinite number of possible self-consistent universes that are more complex than a Solipsism universe, that are also compatible with your present experience.
 
 7. Because they are possible to exist, and non-nothing is unconstrained, they do exist.
 
-8. So your present experience exists within a self-consistent universe that is more complex than the Philosophical Skepticism universe. From the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is the universe where Philosophical Skepticism is correct, if you accept the previous arguments and assumptions.
+8. So your present experience exists within a self-consistent universe that is more complex than the Solipsism universe. From the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is the universe where Solipsism is correct, if you accept the previous arguments and assumptions.
 
 9. In fact this is true for any K specifying an amount of complexity.
 
