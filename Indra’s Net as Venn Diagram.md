@@ -54,7 +54,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 21. Therefore there is infinitesimally small likelihood that our current experience is within an infinite, irregular rules-based universe.
 
-22. Our present experience is in an infinite regular rules/law/processes -based universe.
+22. So our present experience is in an infinite regular rules/law/processes -based universe.
 
 ### Comments
 
