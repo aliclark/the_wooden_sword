@@ -6,58 +6,68 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 ## Theory
 
+### From Non-Nothing to Everything
+
+1. Non-nothing is established as ontologically necessary (per "Nothing is a Contradiction").
+
+1. Any constraint on what exists would require its own sufficient reason.
+
+1. The concept "everything possible exists" requires only one principle, while "some specific subset exists" requires additional selection criteria.
+
+1. Selective existence creates a new explanatory burden: "Why these things and not others?"
+
+1. The notion of selective existence presupposes a possibility space, adding an unnecessary explanatory layer.
+
+1. By parsimony of explanatory principles, not entities, "everything possible exists" is the simpler position in the absence of constraints.
+
+1. Therefore, given non-nothing without sufficient reason for constraints, all possible consistent universes exist.
+
+1. Additionally we might empirically take the sheer complexity of the present experience to be strongly suggestive of ontological infinities underlying, even if we humans have difficulty formalizing it effectively within mathematics.
+
 ### Refutation of Solipsism
 
-1. Firstly we could say that *Nothing is a Contradiction* **also** seems to imply that there could be any number of existing universes compatible with the experience you are having right now.
+1. There could be any number of existing universes compatible with the experience you are having right now.
 
-2. We can also say that we expect things to exist ontologically only if it's possible for it to exist ontologically, and that if a thing is self-contradictory, it is not possible for it to exist. So taking the inverse, only a self-consistent thing can exist ontologically.
+1. The Solipsism experience is the single *minimal* universe that could possibly explain your present experience. There is exactly K=1 such universes.
 
-3. We might empirically take the sheer complexity of the present experience to be strongly suggestive of ontological infinities underlying, even if we humans have difficulty formalizing it effectively within mathematics.
+1. But there are also an infinite number of possible self-consistent universes that are more complex than a Solipsism universe, that are also compatible with your present experience.
 
-4. We could also say 'non-nothing' is equal to 'non-nothing without constraints', since we lack “sufficient reason” for why it should be constrained. A bound would be a constraint, so this is the same as 'unbounded non-nothing'.
+1. Because they are possible to exist, and non-nothing is unconstrained, they do exist.
 
-5. The Solipsism experience is the single *minimal* universe that could possibly explain your present experience. There is exactly K=1 such universes.
+1. So your present experience exists within a self-consistent universe that is more complex than the Solipsism universe. From the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is the universe where Solipsism is correct, if you accept the previous arguments and assumptions.
 
-6. But there are also an infinite number of possible self-consistent universes that are more complex than a Solipsism universe, that are also compatible with your present experience.
+1. In fact this is true for any K specifying an amount of complexity.
 
-7. Because they are possible to exist, and non-nothing is unconstrained, they do exist.
-
-8. So your present experience exists within a self-consistent universe that is more complex than the Solipsism universe. From the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is the universe where Solipsism is correct, if you accept the previous arguments and assumptions.
-
-9. In fact this is true for any K specifying an amount of complexity.
-
-10. So from the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is a universe with a low complexity, below some constant K.
-
-### Support for Indra's Net
-
-11. I have so far made arguments 3 and 4 to support an ontology which is an infinite plurality of possible universes. It doesn't seem outright impossible that our universe could exist while at the same time some completely distinct universe also exists, nor that ontology couldn't accommodate infinite existences.
-
-12. There is traditionally a conflict between viewing Ontology as Monist versus a Plurality of Universes. I believe there is an ontological representation that overcomes the traditional contradiction of Ontological Monism vs. Ontological Plurality of Universes, which is Indra's Net.
-
-13. For purposes here, it is easier to understand through the metaphor of a sprawling Venn Diagram (wider than the width of 2 circles) representing ontological overlap. In this way we can see that a Universe may exist on one side of the Venn Diagram that is wholly different and distinct from another Universe on another side of the Venn Diagram. However, although this seems like a Plurality of Universes, they are in fact connected via a network of related Universes, so that in fact the ontology is a Monist whole.
+1. So from the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is a universe with a low complexity, below some constant K.
 
 ### Regularity
 
-14. An arbitrary existence containing our present experience could be thought as being like solipsism, but with extra arbitrariness beyond what we are aware of.
+1. An arbitrary existence containing our present experience could be thought as being like solipsism, but with extra arbitrariness beyond what we are aware of.
 
-15. Some philosophy states that large arbitrary existences are not possible ontologically, or at least not possible of yielding our present conscious experience. For the record, I don't necessarily refute that view or add anything on the "possibility" question.
+1. Some philosophy states that large arbitrary existences are not possible ontologically, or at least not possible of yielding our present conscious experience. For the record, I don't necessarily refute that view or add anything on the "possibility" question.
 
-16. But supposing they are possible, a totally arbitrary existence is finite, whereas a rules/law/processes -based existence can be infinite.
+1. But supposing they are possible, a totally arbitrary existence is finite, whereas a rules/law/processes -based existence can be infinite.
 
-17. Within unbounded non-nothing, there are infinitely more universes that extend across its entire extent, than those that are a finite subset. Only rules/law/processes -based existences can do the former, while arbitrary existences are instances of the latter.
+1. Within unbounded non-nothing, there are infinitely more universes that extend across its entire extent, than those that are a finite subset. Only rules/law/processes -based existences can do the former, while arbitrary existences are instances of the latter.
 
-18. Therefore there is infinitesimally small likelihood that our current experience is within a finite arbitrary universe instead of a rules/law/processes -based universe.
+1. Therefore there is infinitesimally small likelihood that our current experience is within a finite arbitrary universe instead of a rules/law/processes -based universe.
 
-19. However suppose there could be arbitrary-like rules-based universes, similar in nature to random number generators.
+1. However suppose there could be arbitrary-like rules-based universes, similar in nature to random number generators.
 
-20. The regular rules-based universes are infinitely more suitable at creating our very regular-seeming present experience than a rules-based universe which is completely random.
+1. The regular rules-based universes are infinitely more suitable at creating our very regular-seeming present experience than a rules-based universe which is completely random.
 
-21. Therefore there is infinitesimally small likelihood that our current experience is within an infinite, discontinuous-seeming rules-based universe.
+1. Therefore there is infinitesimally small likelihood that our current experience is within an infinite, discontinuous-seeming rules-based universe.
 
-22. So our present experience is in an infinite regular rules/law/processes -based universe.
+1. So our present experience is in an infinite regular rules/law/processes -based universe.
+
+### Support for Indra's Net
+
+1. There is traditionally a conflict between viewing Ontology as Monist versus a Plurality of Universes. I believe there is an ontological representation that overcomes the traditional contradiction of Ontological Monism vs. Ontological Plurality of Universes, which is Indra's Net.
+
+1. For purposes here, it is easier to understand through the metaphor of a sprawling Venn Diagram (wider than the width of 2 circles) representing ontological overlap. In this way we can see that a Universe may exist on one side of the Venn Diagram that is wholly different and distinct from another Universe on another side of the Venn Diagram. However, although this seems like a Plurality of Universes, they are in fact connected via a network of related Universes, so that in fact the ontology is a Monist whole.
 
 ### Comments
 
-23. It seems plausible that Emptiness is the fundamental relation/rule that spans the greatest extent of unbounded non-nothing, and therefore an infinitesimally small likelihood to be in a universe without this relation.
+1. It seems plausible that Emptiness is the fundamental relation/rule that spans the greatest extent of unbounded non-nothing, and therefore an infinitesimally small likelihood to be in a universe without this relation.
 
-24. Meta-point: I believe the points above don't fall foul of the "measure problem" for two reasons. Firstly, unlike how the measure problem is usually phrased, we aren't selecting a universe from a basket, instead commenting on this specific universe which is already selected - so that aspect of the measure problem is "done for us". Secondly, having made the argument that all universes equally exist, there's no prior reason to favour one universe over the other in terms of which could be corresponding to our own. This is completely separate from anthropic considerations, which of course apply on top of all the above considerations. Comments about "infinitesimally small likelihood" should be read as epistemic wagers rather than ontological probabilities. This is like if I know I have either a number from the set of Odd numbers OR from the set of Square numbers, and I know that it really is possible (somehow) for it to be any number out to infinity, I will bet Odd numbers every time. It’s the same underlying set of natural numbers that was selected from.
+1. Meta-point: I believe the points above don't fall foul of the "measure problem" for two reasons. Firstly, unlike how the measure problem is usually phrased, we aren't selecting a universe from a basket, instead commenting on this specific universe which is already selected - so that aspect of the measure problem is "done for us". Secondly, having made the argument that all universes equally exist, there's no prior reason to favour one universe over the other in terms of which could be corresponding to our own. This is completely separate from anthropic considerations, which of course apply on top of all the above considerations. Comments about "infinitesimally small likelihood" should be read as epistemic wagers rather than ontological probabilities. This is like if I know I have either a number from the set of Odd numbers OR from the set of Square numbers, and I know that it really is possible (somehow) for it to be any number out to infinity, I will bet Odd numbers every time. It’s the same underlying set of natural numbers that was selected from.
