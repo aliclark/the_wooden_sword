@@ -30,7 +30,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 1. The Solipsism experience is the single *minimal* universe that could possibly explain your present experience. There is exactly K=1 such universes.
 
-1. But there are also an infinite number of possible self-consistent universes that are more complex than a Solipsism universe, that are also compatible with your present experience.
+1. But there are also an infinite number of possible self-consistent universes that are more complex than a Solipsism universe, that are also compatible with your present seeming experience.
 
 1. Because they are possible to exist, and non-nothing is unconstrained, they do exist.
 
