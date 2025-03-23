@@ -30,7 +30,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 ### Support for Indra's Net
 
-11. I have so far made arguments 3 and 4 to support an ontology which is an infinite plurality of possible universes. It doesn't seem outright impossible that our universe could exist while at the same time some completely distinct universe also exists, nor that ontology couldn't accomodate infinite existences.
+11. I have so far made arguments 3 and 4 to support an ontology which is an infinite plurality of possible universes. It doesn't seem outright impossible that our universe could exist while at the same time some completely distinct universe also exists, nor that ontology couldn't accommodate infinite existences.
 
 12. There is traditionally a conflict between viewing Ontology as Monist versus a Plurality of Universes. I believe there is an ontological representation that overcomes the traditional contradiction of Ontological Monism vs. Ontological Plurality of Universes, which is Indra's Net.
 
@@ -46,13 +46,13 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 17. Within unbounded non-nothing, there are infinitely more universes that extend across its entire extent, than those that are a finite subset. Only rules/law/processes -based existences can do the former, and arbitrary existences are an example of the latter.
 
-18. Therefore there is infintessimally small likelihood that our current experience is within a finite arbitrary universe instead of a rules/law/processes -based universe.
+18. Therefore there is infinitesimally small likelihood that our current experience is within a finite arbitrary universe instead of a rules/law/processes -based universe.
 
 19. However suppose there could be arbitrary-like rules-based universes, similar in nature to random number generators.
 
 20. The regular rules-based universes are infinitely more amenable to creating our very regular-seeming present experience than a rules-based universe which is completely random.
 
-21. Therefore there is infintessimally small likelihood that our current experience is within an infinite, irregular rules-based universe.
+21. Therefore there is infinitesimally small likelihood that our current experience is within an infinite, irregular rules-based universe.
 
 22. Our present experience is in an infinite regular rules/law/processes -based universe.
 
@@ -62,4 +62,4 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 24. This shouldn't be understood as a bet against Quantum Gravity - the Venn Diagram nature means that there can be many valid and compatible, but different, universes overlapping with each other coinciding exact same relative experiences.
 
-25. It seems plausible that Emptiness is the fundamental relation/rule that spans the greatest extent of unbounded non-nothing, and therefore an infinitessimally small likelihood to be in a universe without this relation.
+25. It seems plausible that Emptiness is the fundamental relation/rule that spans the greatest extent of unbounded non-nothing, and therefore an infinitesimally small likelihood to be in a universe without this relation.
