@@ -36,8 +36,30 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 13. For purposes here, it is easier to understand through the metaphor of a sprawling Venn Diagram (wider than the width of 2 circles) representing ontological overlap. In this way we can see that a Universe may exist on one side of the Venn Diagram that is wholly different and distinct from another Universe on another side of the Venn Diagram. However, although this seems like a Plurality of Universes, they are in fact connected via a network of related Universes, so that in fact the ontology is a Monist whole.
 
+### Regularity
+
+14. An arbitrary existence containing our present experience could be thought as being like solipsism, but with extra arbitrariness beyond what we are aware of.
+
+15. Some philosophy states that large arbitrary existences are not possible ontologically, or at least not possible of yielding our present conscious experience. For the record, I don't necessarily refute that view or add anything on the "possibility" question.
+
+15. But supposinng they are possible, a totally arbitrary existence is finite, whereas a rules/law/processes -based existence can be infinite.
+
+16. Within unbounded non-nothing, there are infinitely more universes that extend across its entire extent, than those that are a finite subset. Only rules/law/processes -based existences can do the former, and arbitrary existences are an example of the latter.
+
+17. Therefore there is infintessimally small likelihood that our current experience is within a finite arbitrary universe instead of a rules/law/processes -based universe.
+
+18. However suppose there could be arbitrary-like rules-based universes, similar in nature to random number generators.
+
+19. The regular rules-based universes are infinitely more amenable to creating our very regular-seeming present experience than a rules-based universe which is completely random.
+
+20. Therefore there is infintessimally small likelihood that our current experience is within an infinite, irregular rules-based universe.
+
+21. Our present experience is in an infinite regular rules/law/processes -based universe.
+
 ### Comments
 
-14. We could very speculatively describe our current Universe as being the overlap of 2 fundamentally distinct laws, General Relativity and Quantum Mechanics, that is our Universe exists only where the laws are in compatibility. Our universe would then be related to other universes that share one or both of those theories and perhaps others. The overlap with our universe might be only at points of singularity, for universes that have drastically different laws, however it could also be in "normal" finite regions in cases of quantum mechanics.
+22. We could very speculatively describe our current Universe as being the overlap of 2 fundamentally distinct laws, General Relativity and Quantum Mechanics, that is our Universe exists only where the laws are in compatibility. Our universe would then be related to other universes that share one or both of those theories and perhaps others. The overlap with our universe might be only at points of singularity, for universes that have drastically different laws, however it could also be in "normal" finite regions in cases of quantum mechanics.
 
-15. This shouldn't be understood as a bet against Quantum Gravity - the Venn Diagram nature means that there can be many valid and compatible, but different, universes overlapping with each other coinciding exact same relative experiences.
+23. This shouldn't be understood as a bet against Quantum Gravity - the Venn Diagram nature means that there can be many valid and compatible, but different, universes overlapping with each other coinciding exact same relative experiences.
+
+24. It seems plausible that Emptiness is the fundamental relation/rule that spans the greatest extent of unbounded non-nothing, and therefore an infinitessimally small likelihood to be in a universe without this relation.
