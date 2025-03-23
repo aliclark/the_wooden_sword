@@ -22,7 +22,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 1. Therefore, given non-nothing without sufficient reason for constraints, all possible consistent universes exist.
 
-1. Additionally we might empirically take the sheer complexity of the present experience to be strongly suggestive of ontological infinities underlying, even if we humans have difficulty formalizing it effectively within mathematics.
+1. Additionally we might empirically and experientially take the sheer complexity of the present experience to be strongly suggestive of ontological infinities underlying, even if we humans have difficulty formalizing it effectively within mathematics.
 
 ### Refutation of Solipsism
 
@@ -59,6 +59,8 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 1. Therefore there is infinitesimally small likelihood that our current experience is within an infinite, discontinuous-seeming rules-based universe.
 
 1. So our present experience is in an infinite regular rules/law/processes -based universe.
+
+1. Empirically and experientially we also see both regularity and a rule in the form "that follows this".
 
 ### Support for Indra's Net
 
