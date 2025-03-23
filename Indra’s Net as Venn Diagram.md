@@ -60,7 +60,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 1. So our present experience is in an infinite regular rules/law/processes -based universe.
 
-1. Empirically and experientially we also see both regularity and a rule in the form "that follows this".
+1. Empirically and experientially, we also see discernible patterns and principles.
 
 ### Support for Indra's Net
 
