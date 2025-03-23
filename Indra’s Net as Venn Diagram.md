@@ -42,7 +42,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 15. Some philosophy states that large arbitrary existences are not possible ontologically, or at least not possible of yielding our present conscious experience. For the record, I don't necessarily refute that view or add anything on the "possibility" question.
 
-16. But supposinng they are possible, a totally arbitrary existence is finite, whereas a rules/law/processes -based existence can be infinite.
+16. But supposing they are possible, a totally arbitrary existence is finite, whereas a rules/law/processes -based existence can be infinite.
 
 17. Within unbounded non-nothing, there are infinitely more universes that extend across its entire extent, than those that are a finite subset. Only rules/law/processes -based existences can do the former, and arbitrary existences are an example of the latter.
 
