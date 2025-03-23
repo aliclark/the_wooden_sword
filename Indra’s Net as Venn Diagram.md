@@ -26,7 +26,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 ### Refutation of Solipsism
 
-1. There could be any number of existing universes compatible with the experience you are having right now.
+1. There could be any number of existing universes seeming compatible with the experience you are having right now.
 
 1. The Solipsism experience is the single *minimal* universe that could possibly explain your present experience. There is exactly K=1 such universes.
 
