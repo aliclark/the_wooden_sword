@@ -44,7 +44,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 16. But supposing they are possible, a totally arbitrary existence is finite, whereas a rules/law/processes -based existence can be infinite.
 
-17. Within unbounded non-nothing, there are infinitely more universes that extend across its entire extent, than those that are a finite subset. Only rules/law/processes -based existences can do the former, and arbitrary existences are an example of the latter.
+17. Within unbounded non-nothing, there are infinitely more universes that extend across its entire extent, than those that are a finite subset. Only rules/law/processes -based existences can do the former, while arbitrary existences are instances of the latter.
 
 18. Therefore there is infinitesimally small likelihood that our current experience is within a finite arbitrary universe instead of a rules/law/processes -based universe.
 
