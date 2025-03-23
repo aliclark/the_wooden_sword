@@ -50,7 +50,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 19. However suppose there could be arbitrary-like rules-based universes, similar in nature to random number generators.
 
-20. The regular rules-based universes are infinitely more proficient at creating our very regular-seeming present experience than a rules-based universe which is completely random.
+20. The regular rules-based universes are infinitely more suitable at creating our very regular-seeming present experience than a rules-based universe which is completely random.
 
 21. Therefore there is infinitesimally small likelihood that our current experience is within an infinite, irregular rules-based universe.
 
