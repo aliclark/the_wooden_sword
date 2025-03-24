@@ -46,7 +46,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 1. Some philosophy states that large arbitrary existences are not possible ontologically, or at least not possible of yielding our present conscious experience. For the record, I don't necessarily refute that view or add anything on the "possibility" question.
 
-1. But supposing they are possible, a totally arbitrary existence is finite, whereas a rules/law/processes -based existence can be infinite.
+1. But even supposing they are possible, a totally arbitrary existence is finite, whereas a rules/law/processes -based existence can be infinite.
 
 1. Within unbounded non-nothing, there are infinitely more universes that extend across its entire extent, than those that are a finite subset. Only rules/law/processes -based existences can do the former, while arbitrary existences are instances of the latter.
 
@@ -56,7 +56,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 1. The regular rules-based universes are infinitely more suitable at creating our very regular-seeming present experience than a rules-based universe which is completely random.
 
-1. Therefore there is infinitesimally small likelihood that our current experience is within an infinite, discontinuous-seeming rules-based universe.
+1. Therefore there is infinitesimally small likelihood that our current experience is within an infinite, arbitrary-like rules-based universe.
 
 1. So our present experience is in an infinite regular rules/law/processes -based universe.
 
@@ -71,3 +71,5 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 ### Comments
 
 1. Meta-point: I believe the points above don't fall foul of the "measure problem" for two reasons. Firstly, unlike how the measure problem is usually phrased, we aren't selecting a universe from a basket, instead commenting on this specific universe which is already selected - so that aspect of the measure problem is "done for us". Secondly, having made the argument that all universes equally exist, there's no prior reason to favour one universe over the other in terms of which could be corresponding to our own. This is completely separate from anthropic considerations, which of course apply on top of all the above considerations. Comments about "infinitesimally small likelihood" should be read as epistemic wagers rather than ontological probabilities. This is like if I know I have either a number from the set of Odd numbers OR from the set of Square numbers, and I know that it really is possible (somehow) for it to be any number out to infinity, I will bet Odd numbers every time. It’s the same underlying set of natural numbers that was selected from.
+
+1. I use the term "seeming experience" to incorporate ignorance from the observer point of view, but not to assert ontological ignorance. If two different people, who you don't know at all, use the same printer to print the same picture and each hang them in different identical-looking room, then you might say that viewing them gives you the same "seeming experience", because you don't have a way to distinguish them from your own experience. However, the apparent sameness is more a fact of observer and epistemic ignorance than a statement about actual ontological equality.
