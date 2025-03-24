@@ -1,6 +1,6 @@
 # Topics
 
-[Indra's Net as Venn Diagram](Indra’s%20Net%20as%20Venn%20Diagram.md) - philosophical theory of Monist, Pluralist, Ontology, Metaphysics, Physics
+[Indra's Net as Venn Diagram](Indra’s%20Net%20as%20Venn%20Diagram.md) - philosophical theory of Monist, Pluralist, Ontology, Epistemology, Metaphysics, Physics
 <br>*Originally created 22nd January 2025*
 
 [Fear, Greed, Corruption, Distrust](Fear%2c%20Greed%2c%20Corruption%2c%20Distrust.md) - my take on the causes of the world's problems
