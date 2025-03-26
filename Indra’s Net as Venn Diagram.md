@@ -58,7 +58,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 1. Therefore there is infinitesimally small likelihood that our current experience is within an infinite, arbitrary-like rules-based universe.
 
-1. So our present experience is in an infinite regular rules/law/processes -based universe.
+1. So our present experience is in an essentially infinite regular rules/law/processes -based universe.
 
 1. Empirically and experientially, we also see discernible patterns and principles.
 
@@ -75,3 +75,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 1. I use the term "seeming experience" to incorporate ignorance from the observer point of view, but not to assert ontological ignorance. If two different people, who you don't know at all, use the same printer to print the same picture and each hang them in different identical-looking room, then you might say that viewing them gives you the same "seeming experience", because you don't have a way to distinguish them from your own experience. While these experiences involve physically distinct objects in different locations (ontologically different entities), your subjective experience cannot detect this difference. However, the apparent sameness is more a fact of observer and epistemic ignorance than a statement about actual ontological equality.
 
 1. As with *Nothing is a Contradiction*, this theory should be understood as post-hoc explanatory and epistemological. The arguments don't form or describe an "*arche*".
+
+1. "Interbeing" is a word that captures the wide-ranging interconnectedness which is described in this theory.
+
+1. What are rules except ways to describe what is possible together?
