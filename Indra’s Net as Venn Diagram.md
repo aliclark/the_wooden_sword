@@ -34,11 +34,11 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 1. Because they are possible to exist, and non-nothing is unconstrained, they do exist.
 
-1. So your present experience exists within a self-consistent universe that is more complex than the Solipsism universe. From the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is the universe where Solipsism is correct, if you accept the previous arguments and assumptions.
+1. So your present experience exists within a self-consistent universe that is more complex than the Solipsism universe. From the viewpoint of your current experience, infinitesimally small likelihood should be placed on the bet that it is the universe where Solipsism is correct, if you accept the previous arguments and assumptions.
 
 1. In fact this is true for any K specifying an amount of complexity.
 
-1. So from the viewpoint of your current experience, 0% likelihood should be placed on the bet that it is a universe with a low complexity, below some constant K.
+1. So from the viewpoint of your current experience, infinitesimally small likelihood should be placed on the bet that it is a universe with a low complexity, below some constant K.
 
 ### Regularity
 
