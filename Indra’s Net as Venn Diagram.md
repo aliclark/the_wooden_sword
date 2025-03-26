@@ -78,4 +78,4 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 1. "Interbeing" is a word that captures the wide-ranging interconnectedness which is described in this theory.
 
-1. Maybe ontological possibility is the only rule after all?
+1. But maybe ontological possibility is the only rule after all? - That which is completely irregular quickly ceases to be possibly extant.
