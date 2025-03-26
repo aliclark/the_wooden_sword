@@ -76,5 +76,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 1. As with *Nothing is a Contradiction*, this theory should be understood as post-hoc explanatory and epistemological. The arguments don't form or describe an "*arche*".
 
+1. For the record I am a fan of the anthropic principle and evolution based thinking eg. evolutionary epistemology.
+
 1. "Interbeing" is a word that captures the wide-ranging interconnectedness which is described in this theory.
 
