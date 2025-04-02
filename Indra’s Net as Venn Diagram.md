@@ -76,7 +76,7 @@ Since writing [Nothing is a Contradiction](Nothing%20is%20a%20Contradiction.md),
 
 1. As with *Nothing is a Contradiction*, this theory should be understood as post-hoc explanatory and epistemological. The arguments don't form or describe an "*arche*".
 
-1. For the record I am a fan of the anthropic principle, evolution based thinking eg. evolutionary epistemology, and theory as post-hoc explanatory frameworks.
+1. For the record I am a fan of the anthropic principle (observer-enabling rather than observer-centric), evolution based thinking eg. evolutionary epistemology, and theory as post-hoc explanatory frameworks.
 
 1. The philosopher Nagarjuna argued that platonic modes of existence like presented here as platonically existing complex rules-based universes cannot exist. I don't necessarily dispute those arguments. While it's a different basis for approaching metaphysical existence, and he made his own separate arguments against solipsism and extreme randomness, the resulting picture of reality in his view also points towards a reality defying simple description and vastly complex. I believe the arguments presented here apply quite well in that setting as well, to argue that one should not believe either extreme of solipsism or randomness underlying their local reality.
 
